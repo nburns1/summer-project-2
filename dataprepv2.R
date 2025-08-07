@@ -196,7 +196,6 @@ wonder_data_imputed <- wonder_data_with_pop %>%
       TRUE ~ as.numeric(str_replace_all(str_trim(Deaths), ",", ""))
     )
   )
-
 wonder_data_imputed <- wonder_data_imputed %>%
   select(GEOID, County, Deaths, Deaths_imputed)
 
