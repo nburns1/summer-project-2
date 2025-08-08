@@ -156,8 +156,6 @@ county_age_data <- county_age_data %>%
     state_abbr = state.abb[match(str_extract(NAME, "[^,]+$") %>% str_trim(), state.name)]
   )
 
-
-
 #########################
 #CDC WONDER data
 wonder_data <- read.table("~/Library/CloudStorage/OneDrive-BrownUniversity/Summer Project Version 2/Datasets copy/6_17_25_Underlying Cause of Death_2018-2023_suppressed copy.txt", header = TRUE, sep = "\t")
