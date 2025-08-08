@@ -198,7 +198,6 @@ wonder_data_imputed <- wonder_data_with_pop %>%
   )
 wonder_data_imputed <- wonder_data_imputed %>%
   select(GEOID, County, Deaths, Deaths_imputed)
-
 #######################
 #XIS 
 library(arrow)
