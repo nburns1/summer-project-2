@@ -1,0 +1,3211 @@
+"Notes"	"State"	"State Code"	"County"	"County Code"	Deaths
+	"Alabama"	"01"	"Autauga County, AL"	"01001"	57
+	"Alabama"	"01"	"Baldwin County, AL"	"01003"	263
+	"Alabama"	"01"	"Barbour County, AL"	"01005"	32
+	"Alabama"	"01"	"Bibb County, AL"	"01007"	19
+	"Alabama"	"01"	"Blount County, AL"	"01009"	68
+	"Alabama"	"01"	"Bullock County, AL"	"01011"	10
+	"Alabama"	"01"	"Butler County, AL"	"01013"	27
+	"Alabama"	"01"	"Calhoun County, AL"	"01015"	153
+	"Alabama"	"01"	"Chambers County, AL"	"01017"	44
+	"Alabama"	"01"	"Cherokee County, AL"	"01019"	45
+	"Alabama"	"01"	"Chilton County, AL"	"01021"	48
+	"Alabama"	"01"	"Choctaw County, AL"	"01023"	27
+	"Alabama"	"01"	"Clarke County, AL"	"01025"	33
+	"Alabama"	"01"	"Clay County, AL"	"01027"	22
+	"Alabama"	"01"	"Cleburne County, AL"	"01029"	24
+	"Alabama"	"01"	"Coffee County, AL"	"01031"	52
+	"Alabama"	"01"	"Colbert County, AL"	"01033"	80
+	"Alabama"	"01"	"Conecuh County, AL"	"01035"	25
+	"Alabama"	"01"	"Coosa County, AL"	"01037"	18
+	"Alabama"	"01"	"Covington County, AL"	"01039"	71
+	"Alabama"	"01"	"Crenshaw County, AL"	"01041"	21
+	"Alabama"	"01"	"Cullman County, AL"	"01043"	136
+	"Alabama"	"01"	"Dale County, AL"	"01045"	60
+	"Alabama"	"01"	"Dallas County, AL"	"01047"	54
+	"Alabama"	"01"	"DeKalb County, AL"	"01049"	79
+	"Alabama"	"01"	"Elmore County, AL"	"01051"	113
+	"Alabama"	"01"	"Escambia County, AL"	"01053"	70
+	"Alabama"	"01"	"Etowah County, AL"	"01055"	138
+	"Alabama"	"01"	"Fayette County, AL"	"01057"	18
+	"Alabama"	"01"	"Franklin County, AL"	"01059"	40
+	"Alabama"	"01"	"Geneva County, AL"	"01061"	55
+	"Alabama"	"01"	"Greene County, AL"	"01063"	19
+	"Alabama"	"01"	"Hale County, AL"	"01065"	17
+	"Alabama"	"01"	"Henry County, AL"	"01067"	29
+	"Alabama"	"01"	"Houston County, AL"	"01069"	142
+	"Alabama"	"01"	"Jackson County, AL"	"01071"	86
+	"Alabama"	"01"	"Jefferson County, AL"	"01073"	693
+	"Alabama"	"01"	"Lamar County, AL"	"01075"	16
+	"Alabama"	"01"	"Lauderdale County, AL"	"01077"	128
+	"Alabama"	"01"	"Lawrence County, AL"	"01079"	44
+	"Alabama"	"01"	"Lee County, AL"	"01081"	115
+	"Alabama"	"01"	"Limestone County, AL"	"01083"	128
+	"Alabama"	"01"	"Lowndes County, AL"	"01085"	11
+	"Alabama"	"01"	"Macon County, AL"	"01087"	15
+	"Alabama"	"01"	"Madison County, AL"	"01089"	360
+	"Alabama"	"01"	"Marengo County, AL"	"01091"	26
+	"Alabama"	"01"	"Marion County, AL"	"01093"	43
+	"Alabama"	"01"	"Marshall County, AL"	"01095"	127
+	"Alabama"	"01"	"Mobile County, AL"	"01097"	537
+	"Alabama"	"01"	"Monroe County, AL"	"01099"	27
+	"Alabama"	"01"	"Montgomery County, AL"	"01101"	214
+	"Alabama"	"01"	"Morgan County, AL"	"01103"	175
+	"Alabama"	"01"	"Perry County, AL"	"01105"	21
+	"Alabama"	"01"	"Pickens County, AL"	"01107"	27
+	"Alabama"	"01"	"Pike County, AL"	"01109"	26
+	"Alabama"	"01"	"Randolph County, AL"	"01111"	37
+	"Alabama"	"01"	"Russell County, AL"	"01113"	53
+	"Alabama"	"01"	"St. Clair County, AL"	"01115"	116
+	"Alabama"	"01"	"Shelby County, AL"	"01117"	209
+	"Alabama"	"01"	"Sumter County, AL"	"01119"	14
+	"Alabama"	"01"	"Talladega County, AL"	"01121"	100
+	"Alabama"	"01"	"Tallapoosa County, AL"	"01123"	64
+	"Alabama"	"01"	"Tuscaloosa County, AL"	"01125"	176
+	"Alabama"	"01"	"Walker County, AL"	"01127"	128
+	"Alabama"	"01"	"Washington County, AL"	"01129"	18
+	"Alabama"	"01"	"Wilcox County, AL"	"01131"	20
+	"Alabama"	"01"	"Winston County, AL"	"01133"	45
+	"Alaska"	"02"	"Aleutians East Borough, AK"	"02013"	0
+	"Alaska"	"02"	"Aleutians West Census Area, AK"	"02016"	Suppressed
+	"Alaska"	"02"	"Anchorage Borough, AK"	"02020"	131
+	"Alaska"	"02"	"Bethel Census Area, AK"	"02050"	Suppressed
+	"Alaska"	"02"	"Bristol Bay Borough, AK"	"02060"	Suppressed
+	"Alaska"	"02"	"Denali Borough, AK"	"02068"	0
+	"Alaska"	"02"	"Dillingham Census Area, AK"	"02070"	Suppressed
+	"Alaska"	"02"	"Fairbanks North Star Borough, AK"	"02090"	40
+	"Alaska"	"02"	"Haines Borough, AK"	"02100"	0
+	"Alaska"	"02"	"Hoonah-Angoon Census Area, AK"	"02105"	Suppressed
+	"Alaska"	"02"	"Juneau Borough, AK"	"02110"	10
+	"Alaska"	"02"	"Kenai Peninsula Borough, AK"	"02122"	29
+	"Alaska"	"02"	"Ketchikan Gateway Borough, AK"	"02130"	Suppressed
+	"Alaska"	"02"	"Kodiak Island Borough, AK"	"02150"	Suppressed
+	"Alaska"	"02"	"Lake and Peninsula Borough, AK"	"02164"	Suppressed
+	"Alaska"	"02"	"Matanuska-Susitna Borough, AK"	"02170"	66
+	"Alaska"	"02"	"Nome Census Area, AK"	"02180"	Suppressed
+	"Alaska"	"02"	"North Slope Borough, AK"	"02185"	Suppressed
+	"Alaska"	"02"	"Northwest Arctic Borough, AK"	"02188"	Suppressed
+	"Alaska"	"02"	"Petersburg Borough/Census Area, AK"	"02195"	Suppressed
+	"Alaska"	"02"	"Prince of Wales-Hyder Census Area, AK"	"02198"	Suppressed
+	"Alaska"	"02"	"Sitka Borough, AK"	"02220"	Suppressed
+	"Alaska"	"02"	"Skagway Municipality, AK"	"02230"	Suppressed
+	"Alaska"	"02"	"Southeast Fairbanks Census Area, AK"	"02240"	Suppressed
+	"Alaska"	"02"	"Valdez-Cordova Census Area, AK"	"02261"	Suppressed
+	"Alaska"	"02"	"Wade Hampton Census Area, AK"	"02270"	Suppressed
+	"Alaska"	"02"	"Wrangell City and Borough, AK"	"02275"	0
+	"Alaska"	"02"	"Yakutat Borough, AK"	"02282"	0
+	"Alaska"	"02"	"Yukon-Koyukuk Census Area, AK"	"02290"	Suppressed
+	"Arizona"	"04"	"Apache County, AZ"	"04001"	42
+	"Arizona"	"04"	"Cochise County, AZ"	"04003"	132
+	"Arizona"	"04"	"Coconino County, AZ"	"04005"	49
+	"Arizona"	"04"	"Gila County, AZ"	"04007"	92
+	"Arizona"	"04"	"Graham County, AZ"	"04009"	28
+	"Arizona"	"04"	"Greenlee County, AZ"	"04011"	Suppressed
+	"Arizona"	"04"	"La Paz County, AZ"	"04012"	31
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	3613
+	"Arizona"	"04"	"Mohave County, AZ"	"04015"	367
+	"Arizona"	"04"	"Navajo County, AZ"	"04017"	107
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	1026
+	"Arizona"	"04"	"Pinal County, AZ"	"04021"	395
+	"Arizona"	"04"	"Santa Cruz County, AZ"	"04023"	37
+	"Arizona"	"04"	"Yavapai County, AZ"	"04025"	368
+	"Arizona"	"04"	"Yuma County, AZ"	"04027"	209
+	"Arkansas"	"05"	"Arkansas County, AR"	"05001"	30
+	"Arkansas"	"05"	"Ashley County, AR"	"05003"	25
+	"Arkansas"	"05"	"Baxter County, AR"	"05005"	84
+	"Arkansas"	"05"	"Benton County, AR"	"05007"	167
+	"Arkansas"	"05"	"Boone County, AR"	"05009"	75
+	"Arkansas"	"05"	"Bradley County, AR"	"05011"	21
+	"Arkansas"	"05"	"Calhoun County, AR"	"05013"	Suppressed
+	"Arkansas"	"05"	"Carroll County, AR"	"05015"	32
+	"Arkansas"	"05"	"Chicot County, AR"	"05017"	15
+	"Arkansas"	"05"	"Clark County, AR"	"05019"	23
+	"Arkansas"	"05"	"Clay County, AR"	"05021"	34
+	"Arkansas"	"05"	"Cleburne County, AR"	"05023"	36
+	"Arkansas"	"05"	"Cleveland County, AR"	"05025"	12
+	"Arkansas"	"05"	"Columbia County, AR"	"05027"	25
+	"Arkansas"	"05"	"Conway County, AR"	"05029"	39
+	"Arkansas"	"05"	"Craighead County, AR"	"05031"	101
+	"Arkansas"	"05"	"Crawford County, AR"	"05033"	86
+	"Arkansas"	"05"	"Crittenden County, AR"	"05035"	44
+	"Arkansas"	"05"	"Cross County, AR"	"05037"	25
+	"Arkansas"	"05"	"Dallas County, AR"	"05039"	12
+	"Arkansas"	"05"	"Desha County, AR"	"05041"	13
+	"Arkansas"	"05"	"Drew County, AR"	"05043"	24
+	"Arkansas"	"05"	"Faulkner County, AR"	"05045"	107
+	"Arkansas"	"05"	"Franklin County, AR"	"05047"	30
+	"Arkansas"	"05"	"Fulton County, AR"	"05049"	29
+	"Arkansas"	"05"	"Garland County, AR"	"05051"	168
+	"Arkansas"	"05"	"Grant County, AR"	"05053"	15
+	"Arkansas"	"05"	"Greene County, AR"	"05055"	43
+	"Arkansas"	"05"	"Hempstead County, AR"	"05057"	35
+	"Arkansas"	"05"	"Hot Spring County, AR"	"05059"	41
+	"Arkansas"	"05"	"Howard County, AR"	"05061"	17
+	"Arkansas"	"05"	"Independence County, AR"	"05063"	74
+	"Arkansas"	"05"	"Izard County, AR"	"05065"	28
+	"Arkansas"	"05"	"Jackson County, AR"	"05067"	18
+	"Arkansas"	"05"	"Jefferson County, AR"	"05069"	72
+	"Arkansas"	"05"	"Johnson County, AR"	"05071"	16
+	"Arkansas"	"05"	"Lafayette County, AR"	"05073"	11
+	"Arkansas"	"05"	"Lawrence County, AR"	"05075"	29
+	"Arkansas"	"05"	"Lee County, AR"	"05077"	10
+	"Arkansas"	"05"	"Lincoln County, AR"	"05079"	21
+	"Arkansas"	"05"	"Little River County, AR"	"05081"	24
+	"Arkansas"	"05"	"Logan County, AR"	"05083"	26
+	"Arkansas"	"05"	"Lonoke County, AR"	"05085"	72
+	"Arkansas"	"05"	"Madison County, AR"	"05087"	19
+	"Arkansas"	"05"	"Marion County, AR"	"05089"	24
+	"Arkansas"	"05"	"Miller County, AR"	"05091"	63
+	"Arkansas"	"05"	"Mississippi County, AR"	"05093"	40
+	"Arkansas"	"05"	"Monroe County, AR"	"05095"	Suppressed
+	"Arkansas"	"05"	"Montgomery County, AR"	"05097"	13
+	"Arkansas"	"05"	"Nevada County, AR"	"05099"	14
+	"Arkansas"	"05"	"Newton County, AR"	"05101"	13
+	"Arkansas"	"05"	"Ouachita County, AR"	"05103"	28
+	"Arkansas"	"05"	"Perry County, AR"	"05105"	16
+	"Arkansas"	"05"	"Phillips County, AR"	"05107"	13
+	"Arkansas"	"05"	"Pike County, AR"	"05109"	17
+	"Arkansas"	"05"	"Poinsett County, AR"	"05111"	29
+	"Arkansas"	"05"	"Polk County, AR"	"05113"	38
+	"Arkansas"	"05"	"Pope County, AR"	"05115"	63
+	"Arkansas"	"05"	"Prairie County, AR"	"05117"	13
+	"Arkansas"	"05"	"Pulaski County, AR"	"05119"	359
+	"Arkansas"	"05"	"Randolph County, AR"	"05121"	23
+	"Arkansas"	"05"	"St. Francis County, AR"	"05123"	34
+	"Arkansas"	"05"	"Saline County, AR"	"05125"	126
+	"Arkansas"	"05"	"Scott County, AR"	"05127"	17
+	"Arkansas"	"05"	"Searcy County, AR"	"05129"	13
+	"Arkansas"	"05"	"Sebastian County, AR"	"05131"	126
+	"Arkansas"	"05"	"Sevier County, AR"	"05133"	15
+	"Arkansas"	"05"	"Sharp County, AR"	"05135"	38
+	"Arkansas"	"05"	"Stone County, AR"	"05137"	20
+	"Arkansas"	"05"	"Union County, AR"	"05139"	59
+	"Arkansas"	"05"	"Van Buren County, AR"	"05141"	29
+	"Arkansas"	"05"	"Washington County, AR"	"05143"	223
+	"Arkansas"	"05"	"White County, AR"	"05145"	111
+	"Arkansas"	"05"	"Woodruff County, AR"	"05147"	16
+	"Arkansas"	"05"	"Yell County, AR"	"05149"	24
+	"California"	"06"	"Alameda County, CA"	"06001"	1015
+	"California"	"06"	"Alpine County, CA"	"06003"	Suppressed
+	"California"	"06"	"Amador County, CA"	"06005"	48
+	"California"	"06"	"Butte County, CA"	"06007"	178
+	"California"	"06"	"Calaveras County, CA"	"06009"	50
+	"California"	"06"	"Colusa County, CA"	"06011"	13
+	"California"	"06"	"Contra Costa County, CA"	"06013"	828
+	"California"	"06"	"Del Norte County, CA"	"06015"	32
+	"California"	"06"	"El Dorado County, CA"	"06017"	176
+	"California"	"06"	"Fresno County, CA"	"06019"	729
+	"California"	"06"	"Glenn County, CA"	"06021"	20
+	"California"	"06"	"Humboldt County, CA"	"06023"	166
+	"California"	"06"	"Imperial County, CA"	"06025"	126
+	"California"	"06"	"Inyo County, CA"	"06027"	20
+	"California"	"06"	"Kern County, CA"	"06029"	645
+	"California"	"06"	"Kings County, CA"	"06031"	86
+	"California"	"06"	"Lake County, CA"	"06033"	65
+	"California"	"06"	"Lassen County, CA"	"06035"	24
+	"California"	"06"	"Los Angeles County, CA"	"06037"	7190
+	"California"	"06"	"Madera County, CA"	"06039"	109
+	"California"	"06"	"Marin County, CA"	"06041"	263
+	"California"	"06"	"Mariposa County, CA"	"06043"	28
+	"California"	"06"	"Mendocino County, CA"	"06045"	74
+	"California"	"06"	"Merced County, CA"	"06047"	161
+	"California"	"06"	"Modoc County, CA"	"06049"	13
+	"California"	"06"	"Mono County, CA"	"06051"	Suppressed
+	"California"	"06"	"Monterey County, CA"	"06053"	287
+	"California"	"06"	"Napa County, CA"	"06055"	148
+	"California"	"06"	"Nevada County, CA"	"06057"	121
+	"California"	"06"	"Orange County, CA"	"06059"	2449
+	"California"	"06"	"Placer County, CA"	"06061"	422
+	"California"	"06"	"Plumas County, CA"	"06063"	25
+	"California"	"06"	"Riverside County, CA"	"06065"	2181
+	"California"	"06"	"Sacramento County, CA"	"06067"	1331
+	"California"	"06"	"San Benito County, CA"	"06069"	31
+	"California"	"06"	"San Bernardino County, CA"	"06071"	1563
+	"California"	"06"	"San Diego County, CA"	"06073"	2346
+	"California"	"06"	"San Francisco County, CA"	"06075"	666
+	"California"	"06"	"San Joaquin County, CA"	"06077"	523
+	"California"	"06"	"San Luis Obispo County, CA"	"06079"	321
+	"California"	"06"	"San Mateo County, CA"	"06081"	529
+	"California"	"06"	"Santa Barbara County, CA"	"06083"	359
+	"California"	"06"	"Santa Clara County, CA"	"06085"	1127
+	"California"	"06"	"Santa Cruz County, CA"	"06087"	190
+	"California"	"06"	"Shasta County, CA"	"06089"	227
+	"California"	"06"	"Sierra County, CA"	"06091"	Suppressed
+	"California"	"06"	"Siskiyou County, CA"	"06093"	58
+	"California"	"06"	"Solano County, CA"	"06095"	375
+	"California"	"06"	"Sonoma County, CA"	"06097"	439
+	"California"	"06"	"Stanislaus County, CA"	"06099"	418
+	"California"	"06"	"Sutter County, CA"	"06101"	95
+	"California"	"06"	"Tehama County, CA"	"06103"	61
+	"California"	"06"	"Trinity County, CA"	"06105"	14
+	"California"	"06"	"Tulare County, CA"	"06107"	295
+	"California"	"06"	"Tuolumne County, CA"	"06109"	76
+	"California"	"06"	"Ventura County, CA"	"06111"	733
+	"California"	"06"	"Yolo County, CA"	"06113"	139
+	"California"	"06"	"Yuba County, CA"	"06115"	71
+	"Colorado"	"08"	"Adams County, CO"	"08001"	263
+	"Colorado"	"08"	"Alamosa County, CO"	"08003"	16
+	"Colorado"	"08"	"Arapahoe County, CO"	"08005"	336
+	"Colorado"	"08"	"Archuleta County, CO"	"08007"	14
+	"Colorado"	"08"	"Baca County, CO"	"08009"	Suppressed
+	"Colorado"	"08"	"Bent County, CO"	"08011"	Suppressed
+	"Colorado"	"08"	"Boulder County, CO"	"08013"	200
+	"Colorado"	"08"	"Broomfield County, CO"	"08014"	50
+	"Colorado"	"08"	"Chaffee County, CO"	"08015"	24
+	"Colorado"	"08"	"Cheyenne County, CO"	"08017"	Suppressed
+	"Colorado"	"08"	"Clear Creek County, CO"	"08019"	Suppressed
+	"Colorado"	"08"	"Conejos County, CO"	"08021"	Suppressed
+	"Colorado"	"08"	"Costilla County, CO"	"08023"	Suppressed
+	"Colorado"	"08"	"Crowley County, CO"	"08025"	Suppressed
+	"Colorado"	"08"	"Custer County, CO"	"08027"	Suppressed
+	"Colorado"	"08"	"Delta County, CO"	"08029"	44
+	"Colorado"	"08"	"Denver County, CO"	"08031"	364
+	"Colorado"	"08"	"Dolores County, CO"	"08033"	Suppressed
+	"Colorado"	"08"	"Douglas County, CO"	"08035"	163
+	"Colorado"	"08"	"Eagle County, CO"	"08037"	14
+	"Colorado"	"08"	"Elbert County, CO"	"08039"	21
+	"Colorado"	"08"	"El Paso County, CO"	"08041"	487
+	"Colorado"	"08"	"Fremont County, CO"	"08043"	54
+	"Colorado"	"08"	"Garfield County, CO"	"08045"	36
+	"Colorado"	"08"	"Gilpin County, CO"	"08047"	Suppressed
+	"Colorado"	"08"	"Grand County, CO"	"08049"	Suppressed
+	"Colorado"	"08"	"Gunnison County, CO"	"08051"	Suppressed
+	"Colorado"	"08"	"Hinsdale County, CO"	"08053"	Suppressed
+	"Colorado"	"08"	"Huerfano County, CO"	"08055"	16
+	"Colorado"	"08"	"Jackson County, CO"	"08057"	Suppressed
+	"Colorado"	"08"	"Jefferson County, CO"	"08059"	426
+	"Colorado"	"08"	"Kiowa County, CO"	"08061"	Suppressed
+	"Colorado"	"08"	"Kit Carson County, CO"	"08063"	Suppressed
+	"Colorado"	"08"	"Lake County, CO"	"08065"	Suppressed
+	"Colorado"	"08"	"La Plata County, CO"	"08067"	37
+	"Colorado"	"08"	"Larimer County, CO"	"08069"	251
+	"Colorado"	"08"	"Las Animas County, CO"	"08071"	17
+	"Colorado"	"08"	"Lincoln County, CO"	"08073"	Suppressed
+	"Colorado"	"08"	"Logan County, CO"	"08075"	22
+	"Colorado"	"08"	"Mesa County, CO"	"08077"	180
+	"Colorado"	"08"	"Mineral County, CO"	"08079"	Suppressed
+	"Colorado"	"08"	"Moffat County, CO"	"08081"	Suppressed
+	"Colorado"	"08"	"Montezuma County, CO"	"08083"	21
+	"Colorado"	"08"	"Montrose County, CO"	"08085"	66
+	"Colorado"	"08"	"Morgan County, CO"	"08087"	15
+	"Colorado"	"08"	"Otero County, CO"	"08089"	19
+	"Colorado"	"08"	"Ouray County, CO"	"08091"	Suppressed
+	"Colorado"	"08"	"Park County, CO"	"08093"	13
+	"Colorado"	"08"	"Phillips County, CO"	"08095"	Suppressed
+	"Colorado"	"08"	"Pitkin County, CO"	"08097"	Suppressed
+	"Colorado"	"08"	"Prowers County, CO"	"08099"	12
+	"Colorado"	"08"	"Pueblo County, CO"	"08101"	174
+	"Colorado"	"08"	"Rio Blanco County, CO"	"08103"	Suppressed
+	"Colorado"	"08"	"Rio Grande County, CO"	"08105"	14
+	"Colorado"	"08"	"Routt County, CO"	"08107"	12
+	"Colorado"	"08"	"Saguache County, CO"	"08109"	Suppressed
+	"Colorado"	"08"	"San Juan County, CO"	"08111"	0
+	"Colorado"	"08"	"San Miguel County, CO"	"08113"	Suppressed
+	"Colorado"	"08"	"Sedgwick County, CO"	"08115"	Suppressed
+	"Colorado"	"08"	"Summit County, CO"	"08117"	Suppressed
+	"Colorado"	"08"	"Teller County, CO"	"08119"	21
+	"Colorado"	"08"	"Washington County, CO"	"08121"	Suppressed
+	"Colorado"	"08"	"Weld County, CO"	"08123"	189
+	"Colorado"	"08"	"Yuma County, CO"	"08125"	Suppressed
+	"Connecticut"	"09"	"Fairfield County, CT"	"09001"	679
+	"Connecticut"	"09"	"Hartford County, CT"	"09003"	767
+	"Connecticut"	"09"	"Litchfield County, CT"	"09005"	197
+	"Connecticut"	"09"	"Middlesex County, CT"	"09007"	177
+	"Connecticut"	"09"	"New Haven County, CT"	"09009"	776
+	"Connecticut"	"09"	"New London County, CT"	"09011"	213
+	"Connecticut"	"09"	"Tolland County, CT"	"09013"	115
+	"Connecticut"	"09"	"Windham County, CT"	"09015"	96
+	"Delaware"	"10"	"Kent County, DE"	"10001"	195
+	"Delaware"	"10"	"New Castle County, DE"	"10003"	523
+	"Delaware"	"10"	"Sussex County, DE"	"10005"	385
+	"District of Columbia"	"11"	"District of Columbia, DC"	"11001"	426
+	"Florida"	"12"	"Alachua County, FL"	"12001"	218
+	"Florida"	"12"	"Baker County, FL"	"12003"	23
+	"Florida"	"12"	"Bay County, FL"	"12005"	199
+	"Florida"	"12"	"Bradford County, FL"	"12007"	28
+	"Florida"	"12"	"Brevard County, FL"	"12009"	809
+	"Florida"	"12"	"Broward County, FL"	"12011"	2049
+	"Florida"	"12"	"Calhoun County, FL"	"12013"	23
+	"Florida"	"12"	"Charlotte County, FL"	"12015"	317
+	"Florida"	"12"	"Citrus County, FL"	"12017"	426
+	"Florida"	"12"	"Clay County, FL"	"12019"	203
+	"Florida"	"12"	"Collier County, FL"	"12021"	512
+	"Florida"	"12"	"Columbia County, FL"	"12023"	105
+	"Florida"	"12"	"DeSoto County, FL"	"12027"	52
+	"Florida"	"12"	"Dixie County, FL"	"12029"	38
+	"Florida"	"12"	"Duval County, FL"	"12031"	838
+	"Florida"	"12"	"Escambia County, FL"	"12033"	370
+	"Florida"	"12"	"Flagler County, FL"	"12035"	212
+	"Florida"	"12"	"Franklin County, FL"	"12037"	17
+	"Florida"	"12"	"Gadsden County, FL"	"12039"	51
+	"Florida"	"12"	"Gilchrist County, FL"	"12041"	29
+	"Florida"	"12"	"Glades County, FL"	"12043"	12
+	"Florida"	"12"	"Gulf County, FL"	"12045"	13
+	"Florida"	"12"	"Hamilton County, FL"	"12047"	26
+	"Florida"	"12"	"Hardee County, FL"	"12049"	28
+	"Florida"	"12"	"Hendry County, FL"	"12051"	36
+	"Florida"	"12"	"Hernando County, FL"	"12053"	311
+	"Florida"	"12"	"Highlands County, FL"	"12055"	236
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	1156
+	"Florida"	"12"	"Holmes County, FL"	"12059"	39
+	"Florida"	"12"	"Indian River County, FL"	"12061"	343
+	"Florida"	"12"	"Jackson County, FL"	"12063"	70
+	"Florida"	"12"	"Jefferson County, FL"	"12065"	17
+	"Florida"	"12"	"Lafayette County, FL"	"12067"	Suppressed
+	"Florida"	"12"	"Lake County, FL"	"12069"	579
+	"Florida"	"12"	"Lee County, FL"	"12071"	873
+	"Florida"	"12"	"Leon County, FL"	"12073"	211
+	"Florida"	"12"	"Levy County, FL"	"12075"	74
+	"Florida"	"12"	"Liberty County, FL"	"12077"	Suppressed
+	"Florida"	"12"	"Madison County, FL"	"12079"	28
+	"Florida"	"12"	"Manatee County, FL"	"12081"	490
+	"Florida"	"12"	"Marion County, FL"	"12083"	700
+	"Florida"	"12"	"Martin County, FL"	"12085"	343
+	"Florida"	"12"	"Miami-Dade County, FL"	"12086"	2640
+	"Florida"	"12"	"Monroe County, FL"	"12087"	71
+	"Florida"	"12"	"Nassau County, FL"	"12089"	91
+	"Florida"	"12"	"Okaloosa County, FL"	"12091"	216
+	"Florida"	"12"	"Okeechobee County, FL"	"12093"	70
+	"Florida"	"12"	"Orange County, FL"	"12095"	909
+	"Florida"	"12"	"Osceola County, FL"	"12097"	317
+	"Florida"	"12"	"Palm Beach County, FL"	"12099"	2219
+	"Florida"	"12"	"Pasco County, FL"	"12101"	734
+	"Florida"	"12"	"Pinellas County, FL"	"12103"	1088
+	"Florida"	"12"	"Polk County, FL"	"12105"	828
+	"Florida"	"12"	"Putnam County, FL"	"12107"	101
+	"Florida"	"12"	"St. Johns County, FL"	"12109"	242
+	"Florida"	"12"	"St. Lucie County, FL"	"12111"	498
+	"Florida"	"12"	"Santa Rosa County, FL"	"12113"	193
+	"Florida"	"12"	"Sarasota County, FL"	"12115"	670
+	"Florida"	"12"	"Seminole County, FL"	"12117"	414
+	"Florida"	"12"	"Sumter County, FL"	"12119"	282
+	"Florida"	"12"	"Suwannee County, FL"	"12121"	86
+	"Florida"	"12"	"Taylor County, FL"	"12123"	29
+	"Florida"	"12"	"Union County, FL"	"12125"	23
+	"Florida"	"12"	"Volusia County, FL"	"12127"	914
+	"Florida"	"12"	"Wakulla County, FL"	"12129"	37
+	"Florida"	"12"	"Walton County, FL"	"12131"	61
+	"Florida"	"12"	"Washington County, FL"	"12133"	32
+	"Georgia"	"13"	"Appling County, GA"	"13001"	27
+	"Georgia"	"13"	"Atkinson County, GA"	"13003"	Suppressed
+	"Georgia"	"13"	"Bacon County, GA"	"13005"	Suppressed
+	"Georgia"	"13"	"Baker County, GA"	"13007"	Suppressed
+	"Georgia"	"13"	"Baldwin County, GA"	"13009"	35
+	"Georgia"	"13"	"Banks County, GA"	"13011"	14
+	"Georgia"	"13"	"Barrow County, GA"	"13013"	61
+	"Georgia"	"13"	"Bartow County, GA"	"13015"	99
+	"Georgia"	"13"	"Ben Hill County, GA"	"13017"	10
+	"Georgia"	"13"	"Berrien County, GA"	"13019"	21
+	"Georgia"	"13"	"Bibb County, GA"	"13021"	133
+	"Georgia"	"13"	"Bleckley County, GA"	"13023"	11
+	"Georgia"	"13"	"Brantley County, GA"	"13025"	10
+	"Georgia"	"13"	"Brooks County, GA"	"13027"	28
+	"Georgia"	"13"	"Bryan County, GA"	"13029"	34
+	"Georgia"	"13"	"Bulloch County, GA"	"13031"	84
+	"Georgia"	"13"	"Burke County, GA"	"13033"	27
+	"Georgia"	"13"	"Butts County, GA"	"13035"	27
+	"Georgia"	"13"	"Calhoun County, GA"	"13037"	Suppressed
+	"Georgia"	"13"	"Camden County, GA"	"13039"	59
+	"Georgia"	"13"	"Candler County, GA"	"13043"	18
+	"Georgia"	"13"	"Carroll County, GA"	"13045"	102
+	"Georgia"	"13"	"Catoosa County, GA"	"13047"	76
+	"Georgia"	"13"	"Charlton County, GA"	"13049"	20
+	"Georgia"	"13"	"Chatham County, GA"	"13051"	257
+	"Georgia"	"13"	"Chattahoochee County, GA"	"13053"	Suppressed
+	"Georgia"	"13"	"Chattooga County, GA"	"13055"	35
+	"Georgia"	"13"	"Cherokee County, GA"	"13057"	175
+	"Georgia"	"13"	"Clarke County, GA"	"13059"	86
+	"Georgia"	"13"	"Clay County, GA"	"13061"	Suppressed
+	"Georgia"	"13"	"Clayton County, GA"	"13063"	176
+	"Georgia"	"13"	"Clinch County, GA"	"13065"	Suppressed
+	"Georgia"	"13"	"Cobb County, GA"	"13067"	490
+	"Georgia"	"13"	"Coffee County, GA"	"13069"	48
+	"Georgia"	"13"	"Colquitt County, GA"	"13071"	40
+	"Georgia"	"13"	"Columbia County, GA"	"13073"	109
+	"Georgia"	"13"	"Cook County, GA"	"13075"	15
+	"Georgia"	"13"	"Coweta County, GA"	"13077"	134
+	"Georgia"	"13"	"Crawford County, GA"	"13079"	16
+	"Georgia"	"13"	"Crisp County, GA"	"13081"	22
+	"Georgia"	"13"	"Dade County, GA"	"13083"	20
+	"Georgia"	"13"	"Dawson County, GA"	"13085"	37
+	"Georgia"	"13"	"Decatur County, GA"	"13087"	37
+	"Georgia"	"13"	"DeKalb County, GA"	"13089"	399
+	"Georgia"	"13"	"Dodge County, GA"	"13091"	15
+	"Georgia"	"13"	"Dooly County, GA"	"13093"	10
+	"Georgia"	"13"	"Dougherty County, GA"	"13095"	69
+	"Georgia"	"13"	"Douglas County, GA"	"13097"	90
+	"Georgia"	"13"	"Early County, GA"	"13099"	15
+	"Georgia"	"13"	"Echols County, GA"	"13101"	Suppressed
+	"Georgia"	"13"	"Effingham County, GA"	"13103"	42
+	"Georgia"	"13"	"Elbert County, GA"	"13105"	23
+	"Georgia"	"13"	"Emanuel County, GA"	"13107"	28
+	"Georgia"	"13"	"Evans County, GA"	"13109"	13
+	"Georgia"	"13"	"Fannin County, GA"	"13111"	35
+	"Georgia"	"13"	"Fayette County, GA"	"13113"	95
+	"Georgia"	"13"	"Floyd County, GA"	"13115"	119
+	"Georgia"	"13"	"Forsyth County, GA"	"13117"	154
+	"Georgia"	"13"	"Franklin County, GA"	"13119"	35
+	"Georgia"	"13"	"Fulton County, GA"	"13121"	644
+	"Georgia"	"13"	"Gilmer County, GA"	"13123"	32
+	"Georgia"	"13"	"Glascock County, GA"	"13125"	Suppressed
+	"Georgia"	"13"	"Glynn County, GA"	"13127"	101
+	"Georgia"	"13"	"Gordon County, GA"	"13129"	52
+	"Georgia"	"13"	"Grady County, GA"	"13131"	32
+	"Georgia"	"13"	"Greene County, GA"	"13133"	28
+	"Georgia"	"13"	"Gwinnett County, GA"	"13135"	407
+	"Georgia"	"13"	"Habersham County, GA"	"13137"	48
+	"Georgia"	"13"	"Hall County, GA"	"13139"	164
+	"Georgia"	"13"	"Hancock County, GA"	"13141"	13
+	"Georgia"	"13"	"Haralson County, GA"	"13143"	33
+	"Georgia"	"13"	"Harris County, GA"	"13145"	38
+	"Georgia"	"13"	"Hart County, GA"	"13147"	32
+	"Georgia"	"13"	"Heard County, GA"	"13149"	13
+	"Georgia"	"13"	"Henry County, GA"	"13151"	180
+	"Georgia"	"13"	"Houston County, GA"	"13153"	154
+	"Georgia"	"13"	"Irwin County, GA"	"13155"	Suppressed
+	"Georgia"	"13"	"Jackson County, GA"	"13157"	75
+	"Georgia"	"13"	"Jasper County, GA"	"13159"	15
+	"Georgia"	"13"	"Jeff Davis County, GA"	"13161"	15
+	"Georgia"	"13"	"Jefferson County, GA"	"13163"	17
+	"Georgia"	"13"	"Jenkins County, GA"	"13165"	10
+	"Georgia"	"13"	"Johnson County, GA"	"13167"	Suppressed
+	"Georgia"	"13"	"Jones County, GA"	"13169"	22
+	"Georgia"	"13"	"Lamar County, GA"	"13171"	25
+	"Georgia"	"13"	"Lanier County, GA"	"13173"	Suppressed
+	"Georgia"	"13"	"Laurens County, GA"	"13175"	42
+	"Georgia"	"13"	"Lee County, GA"	"13177"	29
+	"Georgia"	"13"	"Liberty County, GA"	"13179"	40
+	"Georgia"	"13"	"Lincoln County, GA"	"13181"	14
+	"Georgia"	"13"	"Long County, GA"	"13183"	10
+	"Georgia"	"13"	"Lowndes County, GA"	"13185"	110
+	"Georgia"	"13"	"Lumpkin County, GA"	"13187"	36
+	"Georgia"	"13"	"McDuffie County, GA"	"13189"	34
+	"Georgia"	"13"	"McIntosh County, GA"	"13191"	14
+	"Georgia"	"13"	"Macon County, GA"	"13193"	Suppressed
+	"Georgia"	"13"	"Madison County, GA"	"13195"	20
+	"Georgia"	"13"	"Marion County, GA"	"13197"	15
+	"Georgia"	"13"	"Meriwether County, GA"	"13199"	31
+	"Georgia"	"13"	"Miller County, GA"	"13201"	Suppressed
+	"Georgia"	"13"	"Mitchell County, GA"	"13205"	19
+	"Georgia"	"13"	"Monroe County, GA"	"13207"	36
+	"Georgia"	"13"	"Montgomery County, GA"	"13209"	Suppressed
+	"Georgia"	"13"	"Morgan County, GA"	"13211"	26
+	"Georgia"	"13"	"Murray County, GA"	"13213"	37
+	"Georgia"	"13"	"Muscogee County, GA"	"13215"	203
+	"Georgia"	"13"	"Newton County, GA"	"13217"	97
+	"Georgia"	"13"	"Oconee County, GA"	"13219"	25
+	"Georgia"	"13"	"Oglethorpe County, GA"	"13221"	Suppressed
+	"Georgia"	"13"	"Paulding County, GA"	"13223"	104
+	"Georgia"	"13"	"Peach County, GA"	"13225"	29
+	"Georgia"	"13"	"Pickens County, GA"	"13227"	44
+	"Georgia"	"13"	"Pierce County, GA"	"13229"	27
+	"Georgia"	"13"	"Pike County, GA"	"13231"	13
+	"Georgia"	"13"	"Polk County, GA"	"13233"	45
+	"Georgia"	"13"	"Pulaski County, GA"	"13235"	20
+	"Georgia"	"13"	"Putnam County, GA"	"13237"	26
+	"Georgia"	"13"	"Quitman County, GA"	"13239"	Suppressed
+	"Georgia"	"13"	"Rabun County, GA"	"13241"	26
+	"Georgia"	"13"	"Randolph County, GA"	"13243"	Suppressed
+	"Georgia"	"13"	"Richmond County, GA"	"13245"	221
+	"Georgia"	"13"	"Rockdale County, GA"	"13247"	70
+	"Georgia"	"13"	"Schley County, GA"	"13249"	Suppressed
+	"Georgia"	"13"	"Screven County, GA"	"13251"	17
+	"Georgia"	"13"	"Seminole County, GA"	"13253"	16
+	"Georgia"	"13"	"Spalding County, GA"	"13255"	67
+	"Georgia"	"13"	"Stephens County, GA"	"13257"	33
+	"Georgia"	"13"	"Stewart County, GA"	"13259"	Suppressed
+	"Georgia"	"13"	"Sumter County, GA"	"13261"	23
+	"Georgia"	"13"	"Talbot County, GA"	"13263"	15
+	"Georgia"	"13"	"Taliaferro County, GA"	"13265"	Suppressed
+	"Georgia"	"13"	"Tattnall County, GA"	"13267"	32
+	"Georgia"	"13"	"Taylor County, GA"	"13269"	Suppressed
+	"Georgia"	"13"	"Telfair County, GA"	"13271"	Suppressed
+	"Georgia"	"13"	"Terrell County, GA"	"13273"	18
+	"Georgia"	"13"	"Thomas County, GA"	"13275"	73
+	"Georgia"	"13"	"Tift County, GA"	"13277"	43
+	"Georgia"	"13"	"Toombs County, GA"	"13279"	27
+	"Georgia"	"13"	"Towns County, GA"	"13281"	26
+	"Georgia"	"13"	"Treutlen County, GA"	"13283"	Suppressed
+	"Georgia"	"13"	"Troup County, GA"	"13285"	80
+	"Georgia"	"13"	"Turner County, GA"	"13287"	13
+	"Georgia"	"13"	"Twiggs County, GA"	"13289"	11
+	"Georgia"	"13"	"Union County, GA"	"13291"	54
+	"Georgia"	"13"	"Upson County, GA"	"13293"	40
+	"Georgia"	"13"	"Walker County, GA"	"13295"	101
+	"Georgia"	"13"	"Walton County, GA"	"13297"	82
+	"Georgia"	"13"	"Ware County, GA"	"13299"	40
+	"Georgia"	"13"	"Warren County, GA"	"13301"	Suppressed
+	"Georgia"	"13"	"Washington County, GA"	"13303"	31
+	"Georgia"	"13"	"Wayne County, GA"	"13305"	44
+	"Georgia"	"13"	"Webster County, GA"	"13307"	0
+	"Georgia"	"13"	"Wheeler County, GA"	"13309"	Suppressed
+	"Georgia"	"13"	"White County, GA"	"13311"	29
+	"Georgia"	"13"	"Whitfield County, GA"	"13313"	92
+	"Georgia"	"13"	"Wilcox County, GA"	"13315"	14
+	"Georgia"	"13"	"Wilkes County, GA"	"13317"	18
+	"Georgia"	"13"	"Wilkinson County, GA"	"13319"	15
+	"Georgia"	"13"	"Worth County, GA"	"13321"	28
+	"Hawaii"	"15"	"Hawaii County, HI"	"15001"	217
+	"Hawaii"	"15"	"Honolulu County, HI"	"15003"	885
+	"Hawaii"	"15"	"Kalawao County, HI"	"15005"	0
+	"Hawaii"	"15"	"Kauai County, HI"	"15007"	62
+	"Hawaii"	"15"	"Maui County, HI"	"15009"	162
+	"Idaho"	"16"	"Ada County, ID"	"16001"	340
+	"Idaho"	"16"	"Adams County, ID"	"16003"	Suppressed
+	"Idaho"	"16"	"Bannock County, ID"	"16005"	68
+	"Idaho"	"16"	"Bear Lake County, ID"	"16007"	Suppressed
+	"Idaho"	"16"	"Benewah County, ID"	"16009"	12
+	"Idaho"	"16"	"Bingham County, ID"	"16011"	35
+	"Idaho"	"16"	"Blaine County, ID"	"16013"	11
+	"Idaho"	"16"	"Boise County, ID"	"16015"	Suppressed
+	"Idaho"	"16"	"Bonner County, ID"	"16017"	47
+	"Idaho"	"16"	"Bonneville County, ID"	"16019"	99
+	"Idaho"	"16"	"Boundary County, ID"	"16021"	13
+	"Idaho"	"16"	"Butte County, ID"	"16023"	Suppressed
+	"Idaho"	"16"	"Camas County, ID"	"16025"	0
+	"Idaho"	"16"	"Canyon County, ID"	"16027"	200
+	"Idaho"	"16"	"Caribou County, ID"	"16029"	Suppressed
+	"Idaho"	"16"	"Cassia County, ID"	"16031"	15
+	"Idaho"	"16"	"Clark County, ID"	"16033"	Suppressed
+	"Idaho"	"16"	"Clearwater County, ID"	"16035"	15
+	"Idaho"	"16"	"Custer County, ID"	"16037"	Suppressed
+	"Idaho"	"16"	"Elmore County, ID"	"16039"	14
+	"Idaho"	"16"	"Franklin County, ID"	"16041"	12
+	"Idaho"	"16"	"Fremont County, ID"	"16043"	10
+	"Idaho"	"16"	"Gem County, ID"	"16045"	22
+	"Idaho"	"16"	"Gooding County, ID"	"16047"	13
+	"Idaho"	"16"	"Idaho County, ID"	"16049"	23
+	"Idaho"	"16"	"Jefferson County, ID"	"16051"	21
+	"Idaho"	"16"	"Jerome County, ID"	"16053"	24
+	"Idaho"	"16"	"Kootenai County, ID"	"16055"	168
+	"Idaho"	"16"	"Latah County, ID"	"16057"	19
+	"Idaho"	"16"	"Lemhi County, ID"	"16059"	12
+	"Idaho"	"16"	"Lewis County, ID"	"16061"	Suppressed
+	"Idaho"	"16"	"Lincoln County, ID"	"16063"	Suppressed
+	"Idaho"	"16"	"Madison County, ID"	"16065"	21
+	"Idaho"	"16"	"Minidoka County, ID"	"16067"	18
+	"Idaho"	"16"	"Nez Perce County, ID"	"16069"	54
+	"Idaho"	"16"	"Oneida County, ID"	"16071"	Suppressed
+	"Idaho"	"16"	"Owyhee County, ID"	"16073"	Suppressed
+	"Idaho"	"16"	"Payette County, ID"	"16075"	31
+	"Idaho"	"16"	"Power County, ID"	"16077"	Suppressed
+	"Idaho"	"16"	"Shoshone County, ID"	"16079"	18
+	"Idaho"	"16"	"Teton County, ID"	"16081"	Suppressed
+	"Idaho"	"16"	"Twin Falls County, ID"	"16083"	70
+	"Idaho"	"16"	"Valley County, ID"	"16085"	Suppressed
+	"Idaho"	"16"	"Washington County, ID"	"16087"	21
+	"Illinois"	"17"	"Adams County, IL"	"17001"	81
+	"Illinois"	"17"	"Alexander County, IL"	"17003"	Suppressed
+	"Illinois"	"17"	"Bond County, IL"	"17005"	25
+	"Illinois"	"17"	"Boone County, IL"	"17007"	38
+	"Illinois"	"17"	"Brown County, IL"	"17009"	Suppressed
+	"Illinois"	"17"	"Bureau County, IL"	"17011"	36
+	"Illinois"	"17"	"Calhoun County, IL"	"17013"	Suppressed
+	"Illinois"	"17"	"Carroll County, IL"	"17015"	26
+	"Illinois"	"17"	"Cass County, IL"	"17017"	13
+	"Illinois"	"17"	"Champaign County, IL"	"17019"	152
+	"Illinois"	"17"	"Christian County, IL"	"17021"	46
+	"Illinois"	"17"	"Clark County, IL"	"17023"	24
+	"Illinois"	"17"	"Clay County, IL"	"17025"	Suppressed
+	"Illinois"	"17"	"Clinton County, IL"	"17027"	48
+	"Illinois"	"17"	"Coles County, IL"	"17029"	40
+	"Illinois"	"17"	"Cook County, IL"	"17031"	4239
+	"Illinois"	"17"	"Crawford County, IL"	"17033"	21
+	"Illinois"	"17"	"Cumberland County, IL"	"17035"	Suppressed
+	"Illinois"	"17"	"DeKalb County, IL"	"17037"	64
+	"Illinois"	"17"	"De Witt County, IL"	"17039"	21
+	"Illinois"	"17"	"Douglas County, IL"	"17041"	19
+	"Illinois"	"17"	"DuPage County, IL"	"17043"	715
+	"Illinois"	"17"	"Edgar County, IL"	"17045"	22
+	"Illinois"	"17"	"Edwards County, IL"	"17047"	Suppressed
+	"Illinois"	"17"	"Effingham County, IL"	"17049"	34
+	"Illinois"	"17"	"Fayette County, IL"	"17051"	22
+	"Illinois"	"17"	"Ford County, IL"	"17053"	23
+	"Illinois"	"17"	"Franklin County, IL"	"17055"	56
+	"Illinois"	"17"	"Fulton County, IL"	"17057"	41
+	"Illinois"	"17"	"Gallatin County, IL"	"17059"	Suppressed
+	"Illinois"	"17"	"Greene County, IL"	"17061"	13
+	"Illinois"	"17"	"Grundy County, IL"	"17063"	49
+	"Illinois"	"17"	"Hamilton County, IL"	"17065"	12
+	"Illinois"	"17"	"Hancock County, IL"	"17067"	21
+	"Illinois"	"17"	"Hardin County, IL"	"17069"	Suppressed
+	"Illinois"	"17"	"Henderson County, IL"	"17071"	Suppressed
+	"Illinois"	"17"	"Henry County, IL"	"17073"	70
+	"Illinois"	"17"	"Iroquois County, IL"	"17075"	37
+	"Illinois"	"17"	"Jackson County, IL"	"17077"	64
+	"Illinois"	"17"	"Jasper County, IL"	"17079"	14
+	"Illinois"	"17"	"Jefferson County, IL"	"17081"	51
+	"Illinois"	"17"	"Jersey County, IL"	"17083"	33
+	"Illinois"	"17"	"Jo Daviess County, IL"	"17085"	26
+	"Illinois"	"17"	"Johnson County, IL"	"17087"	Suppressed
+	"Illinois"	"17"	"Kane County, IL"	"17089"	414
+	"Illinois"	"17"	"Kankakee County, IL"	"17091"	123
+	"Illinois"	"17"	"Kendall County, IL"	"17093"	68
+	"Illinois"	"17"	"Knox County, IL"	"17095"	54
+	"Illinois"	"17"	"Lake County, IL"	"17097"	460
+	"Illinois"	"17"	"LaSalle County, IL"	"17099"	152
+	"Illinois"	"17"	"Lawrence County, IL"	"17101"	15
+	"Illinois"	"17"	"Lee County, IL"	"17103"	39
+	"Illinois"	"17"	"Livingston County, IL"	"17105"	42
+	"Illinois"	"17"	"Logan County, IL"	"17107"	32
+	"Illinois"	"17"	"McDonough County, IL"	"17109"	28
+	"Illinois"	"17"	"McHenry County, IL"	"17111"	259
+	"Illinois"	"17"	"McLean County, IL"	"17113"	130
+	"Illinois"	"17"	"Macon County, IL"	"17115"	126
+	"Illinois"	"17"	"Macoupin County, IL"	"17117"	65
+	"Illinois"	"17"	"Madison County, IL"	"17119"	327
+	"Illinois"	"17"	"Marion County, IL"	"17121"	46
+	"Illinois"	"17"	"Marshall County, IL"	"17123"	24
+	"Illinois"	"17"	"Mason County, IL"	"17125"	20
+	"Illinois"	"17"	"Massac County, IL"	"17127"	15
+	"Illinois"	"17"	"Menard County, IL"	"17129"	19
+	"Illinois"	"17"	"Mercer County, IL"	"17131"	24
+	"Illinois"	"17"	"Monroe County, IL"	"17133"	46
+	"Illinois"	"17"	"Montgomery County, IL"	"17135"	36
+	"Illinois"	"17"	"Morgan County, IL"	"17137"	39
+	"Illinois"	"17"	"Moultrie County, IL"	"17139"	20
+	"Illinois"	"17"	"Ogle County, IL"	"17141"	45
+	"Illinois"	"17"	"Peoria County, IL"	"17143"	158
+	"Illinois"	"17"	"Perry County, IL"	"17145"	25
+	"Illinois"	"17"	"Piatt County, IL"	"17147"	25
+	"Illinois"	"17"	"Pike County, IL"	"17149"	23
+	"Illinois"	"17"	"Pope County, IL"	"17151"	Suppressed
+	"Illinois"	"17"	"Pulaski County, IL"	"17153"	Suppressed
+	"Illinois"	"17"	"Putnam County, IL"	"17155"	Suppressed
+	"Illinois"	"17"	"Randolph County, IL"	"17157"	42
+	"Illinois"	"17"	"Richland County, IL"	"17159"	28
+	"Illinois"	"17"	"Rock Island County, IL"	"17161"	151
+	"Illinois"	"17"	"St. Clair County, IL"	"17163"	283
+	"Illinois"	"17"	"Saline County, IL"	"17165"	33
+	"Illinois"	"17"	"Sangamon County, IL"	"17167"	211
+	"Illinois"	"17"	"Schuyler County, IL"	"17169"	10
+	"Illinois"	"17"	"Scott County, IL"	"17171"	10
+	"Illinois"	"17"	"Shelby County, IL"	"17173"	18
+	"Illinois"	"17"	"Stark County, IL"	"17175"	12
+	"Illinois"	"17"	"Stephenson County, IL"	"17177"	52
+	"Illinois"	"17"	"Tazewell County, IL"	"17179"	155
+	"Illinois"	"17"	"Union County, IL"	"17181"	23
+	"Illinois"	"17"	"Vermilion County, IL"	"17183"	91
+	"Illinois"	"17"	"Wabash County, IL"	"17185"	19
+	"Illinois"	"17"	"Warren County, IL"	"17187"	20
+	"Illinois"	"17"	"Washington County, IL"	"17189"	Suppressed
+	"Illinois"	"17"	"Wayne County, IL"	"17191"	22
+	"Illinois"	"17"	"White County, IL"	"17193"	21
+	"Illinois"	"17"	"Whiteside County, IL"	"17195"	80
+	"Illinois"	"17"	"Will County, IL"	"17197"	570
+	"Illinois"	"17"	"Williamson County, IL"	"17199"	75
+	"Illinois"	"17"	"Winnebago County, IL"	"17201"	292
+	"Illinois"	"17"	"Woodford County, IL"	"17203"	48
+	"Indiana"	"18"	"Adams County, IN"	"18001"	34
+	"Indiana"	"18"	"Allen County, IN"	"18003"	321
+	"Indiana"	"18"	"Bartholomew County, IN"	"18005"	69
+	"Indiana"	"18"	"Benton County, IN"	"18007"	Suppressed
+	"Indiana"	"18"	"Blackford County, IN"	"18009"	21
+	"Indiana"	"18"	"Boone County, IN"	"18011"	56
+	"Indiana"	"18"	"Brown County, IN"	"18013"	25
+	"Indiana"	"18"	"Carroll County, IN"	"18015"	15
+	"Indiana"	"18"	"Cass County, IN"	"18017"	44
+	"Indiana"	"18"	"Clark County, IN"	"18019"	138
+	"Indiana"	"18"	"Clay County, IN"	"18021"	37
+	"Indiana"	"18"	"Clinton County, IN"	"18023"	41
+	"Indiana"	"18"	"Crawford County, IN"	"18025"	17
+	"Indiana"	"18"	"Daviess County, IN"	"18027"	42
+	"Indiana"	"18"	"Dearborn County, IN"	"18029"	38
+	"Indiana"	"18"	"Decatur County, IN"	"18031"	33
+	"Indiana"	"18"	"De Kalb County, IN"	"18033"	25
+	"Indiana"	"18"	"Delaware County, IN"	"18035"	140
+	"Indiana"	"18"	"Dubois County, IN"	"18037"	62
+	"Indiana"	"18"	"Elkhart County, IN"	"18039"	170
+	"Indiana"	"18"	"Fayette County, IN"	"18041"	29
+	"Indiana"	"18"	"Floyd County, IN"	"18043"	83
+	"Indiana"	"18"	"Fountain County, IN"	"18045"	24
+	"Indiana"	"18"	"Franklin County, IN"	"18047"	24
+	"Indiana"	"18"	"Fulton County, IN"	"18049"	17
+	"Indiana"	"18"	"Gibson County, IN"	"18051"	40
+	"Indiana"	"18"	"Grant County, IN"	"18053"	76
+	"Indiana"	"18"	"Greene County, IN"	"18055"	35
+	"Indiana"	"18"	"Hamilton County, IN"	"18057"	201
+	"Indiana"	"18"	"Hancock County, IN"	"18059"	72
+	"Indiana"	"18"	"Harrison County, IN"	"18061"	40
+	"Indiana"	"18"	"Hendricks County, IN"	"18063"	142
+	"Indiana"	"18"	"Henry County, IN"	"18065"	73
+	"Indiana"	"18"	"Howard County, IN"	"18067"	97
+	"Indiana"	"18"	"Huntington County, IN"	"18069"	37
+	"Indiana"	"18"	"Jackson County, IN"	"18071"	52
+	"Indiana"	"18"	"Jasper County, IN"	"18073"	33
+	"Indiana"	"18"	"Jay County, IN"	"18075"	24
+	"Indiana"	"18"	"Jefferson County, IN"	"18077"	38
+	"Indiana"	"18"	"Jennings County, IN"	"18079"	20
+	"Indiana"	"18"	"Johnson County, IN"	"18081"	163
+	"Indiana"	"18"	"Knox County, IN"	"18083"	42
+	"Indiana"	"18"	"Kosciusko County, IN"	"18085"	73
+	"Indiana"	"18"	"Lagrange County, IN"	"18087"	32
+	"Indiana"	"18"	"Lake County, IN"	"18089"	487
+	"Indiana"	"18"	"La Porte County, IN"	"18091"	138
+	"Indiana"	"18"	"Lawrence County, IN"	"18093"	58
+	"Indiana"	"18"	"Madison County, IN"	"18095"	154
+	"Indiana"	"18"	"Marion County, IN"	"18097"	654
+	"Indiana"	"18"	"Marshall County, IN"	"18099"	58
+	"Indiana"	"18"	"Martin County, IN"	"18101"	12
+	"Indiana"	"18"	"Miami County, IN"	"18103"	39
+	"Indiana"	"18"	"Monroe County, IN"	"18105"	100
+	"Indiana"	"18"	"Montgomery County, IN"	"18107"	51
+	"Indiana"	"18"	"Morgan County, IN"	"18109"	84
+	"Indiana"	"18"	"Newton County, IN"	"18111"	15
+	"Indiana"	"18"	"Noble County, IN"	"18113"	49
+	"Indiana"	"18"	"Ohio County, IN"	"18115"	Suppressed
+	"Indiana"	"18"	"Orange County, IN"	"18117"	26
+	"Indiana"	"18"	"Owen County, IN"	"18119"	22
+	"Indiana"	"18"	"Parke County, IN"	"18121"	17
+	"Indiana"	"18"	"Perry County, IN"	"18123"	17
+	"Indiana"	"18"	"Pike County, IN"	"18125"	13
+	"Indiana"	"18"	"Porter County, IN"	"18127"	140
+	"Indiana"	"18"	"Posey County, IN"	"18129"	19
+	"Indiana"	"18"	"Pulaski County, IN"	"18131"	15
+	"Indiana"	"18"	"Putnam County, IN"	"18133"	44
+	"Indiana"	"18"	"Randolph County, IN"	"18135"	38
+	"Indiana"	"18"	"Ripley County, IN"	"18137"	27
+	"Indiana"	"18"	"Rush County, IN"	"18139"	19
+	"Indiana"	"18"	"St. Joseph County, IN"	"18141"	284
+	"Indiana"	"18"	"Scott County, IN"	"18143"	27
+	"Indiana"	"18"	"Shelby County, IN"	"18145"	27
+	"Indiana"	"18"	"Spencer County, IN"	"18147"	27
+	"Indiana"	"18"	"Starke County, IN"	"18149"	29
+	"Indiana"	"18"	"Steuben County, IN"	"18151"	59
+	"Indiana"	"18"	"Sullivan County, IN"	"18153"	26
+	"Indiana"	"18"	"Switzerland County, IN"	"18155"	Suppressed
+	"Indiana"	"18"	"Tippecanoe County, IN"	"18157"	126
+	"Indiana"	"18"	"Tipton County, IN"	"18159"	15
+	"Indiana"	"18"	"Union County, IN"	"18161"	Suppressed
+	"Indiana"	"18"	"Vanderburgh County, IN"	"18163"	188
+	"Indiana"	"18"	"Vermillion County, IN"	"18165"	20
+	"Indiana"	"18"	"Vigo County, IN"	"18167"	125
+	"Indiana"	"18"	"Wabash County, IN"	"18169"	34
+	"Indiana"	"18"	"Warren County, IN"	"18171"	11
+	"Indiana"	"18"	"Warrick County, IN"	"18173"	64
+	"Indiana"	"18"	"Washington County, IN"	"18175"	31
+	"Indiana"	"18"	"Wayne County, IN"	"18177"	76
+	"Indiana"	"18"	"Wells County, IN"	"18179"	32
+	"Indiana"	"18"	"White County, IN"	"18181"	32
+	"Indiana"	"18"	"Whitley County, IN"	"18183"	47
+	"Iowa"	"19"	"Adair County, IA"	"19001"	15
+	"Iowa"	"19"	"Adams County, IA"	"19003"	Suppressed
+	"Iowa"	"19"	"Allamakee County, IA"	"19005"	23
+	"Iowa"	"19"	"Appanoose County, IA"	"19007"	15
+	"Iowa"	"19"	"Audubon County, IA"	"19009"	Suppressed
+	"Iowa"	"19"	"Benton County, IA"	"19011"	24
+	"Iowa"	"19"	"Black Hawk County, IA"	"19013"	137
+	"Iowa"	"19"	"Boone County, IA"	"19015"	40
+	"Iowa"	"19"	"Bremer County, IA"	"19017"	32
+	"Iowa"	"19"	"Buchanan County, IA"	"19019"	22
+	"Iowa"	"19"	"Buena Vista County, IA"	"19021"	10
+	"Iowa"	"19"	"Butler County, IA"	"19023"	17
+	"Iowa"	"19"	"Calhoun County, IA"	"19025"	16
+	"Iowa"	"19"	"Carroll County, IA"	"19027"	27
+	"Iowa"	"19"	"Cass County, IA"	"19029"	28
+	"Iowa"	"19"	"Cedar County, IA"	"19031"	25
+	"Iowa"	"19"	"Cerro Gordo County, IA"	"19033"	53
+	"Iowa"	"19"	"Cherokee County, IA"	"19035"	21
+	"Iowa"	"19"	"Chickasaw County, IA"	"19037"	19
+	"Iowa"	"19"	"Clarke County, IA"	"19039"	18
+	"Iowa"	"19"	"Clay County, IA"	"19041"	27
+	"Iowa"	"19"	"Clayton County, IA"	"19043"	25
+	"Iowa"	"19"	"Clinton County, IA"	"19045"	64
+	"Iowa"	"19"	"Crawford County, IA"	"19047"	17
+	"Iowa"	"19"	"Dallas County, IA"	"19049"	71
+	"Iowa"	"19"	"Davis County, IA"	"19051"	Suppressed
+	"Iowa"	"19"	"Decatur County, IA"	"19053"	15
+	"Iowa"	"19"	"Delaware County, IA"	"19055"	19
+	"Iowa"	"19"	"Des Moines County, IA"	"19057"	46
+	"Iowa"	"19"	"Dickinson County, IA"	"19059"	30
+	"Iowa"	"19"	"Dubuque County, IA"	"19061"	117
+	"Iowa"	"19"	"Emmet County, IA"	"19063"	19
+	"Iowa"	"19"	"Fayette County, IA"	"19065"	23
+	"Iowa"	"19"	"Floyd County, IA"	"19067"	28
+	"Iowa"	"19"	"Franklin County, IA"	"19069"	16
+	"Iowa"	"19"	"Fremont County, IA"	"19071"	12
+	"Iowa"	"19"	"Greene County, IA"	"19073"	13
+	"Iowa"	"19"	"Grundy County, IA"	"19075"	18
+	"Iowa"	"19"	"Guthrie County, IA"	"19077"	17
+	"Iowa"	"19"	"Hamilton County, IA"	"19079"	21
+	"Iowa"	"19"	"Hancock County, IA"	"19081"	12
+	"Iowa"	"19"	"Hardin County, IA"	"19083"	19
+	"Iowa"	"19"	"Harrison County, IA"	"19085"	17
+	"Iowa"	"19"	"Henry County, IA"	"19087"	26
+	"Iowa"	"19"	"Howard County, IA"	"19089"	15
+	"Iowa"	"19"	"Humboldt County, IA"	"19091"	15
+	"Iowa"	"19"	"Ida County, IA"	"19093"	Suppressed
+	"Iowa"	"19"	"Iowa County, IA"	"19095"	24
+	"Iowa"	"19"	"Jackson County, IA"	"19097"	27
+	"Iowa"	"19"	"Jasper County, IA"	"19099"	33
+	"Iowa"	"19"	"Jefferson County, IA"	"19101"	24
+	"Iowa"	"19"	"Johnson County, IA"	"19103"	82
+	"Iowa"	"19"	"Jones County, IA"	"19105"	21
+	"Iowa"	"19"	"Keokuk County, IA"	"19107"	19
+	"Iowa"	"19"	"Kossuth County, IA"	"19109"	25
+	"Iowa"	"19"	"Lee County, IA"	"19111"	50
+	"Iowa"	"19"	"Linn County, IA"	"19113"	190
+	"Iowa"	"19"	"Louisa County, IA"	"19115"	Suppressed
+	"Iowa"	"19"	"Lucas County, IA"	"19117"	Suppressed
+	"Iowa"	"19"	"Lyon County, IA"	"19119"	Suppressed
+	"Iowa"	"19"	"Madison County, IA"	"19121"	13
+	"Iowa"	"19"	"Mahaska County, IA"	"19123"	28
+	"Iowa"	"19"	"Marion County, IA"	"19125"	37
+	"Iowa"	"19"	"Marshall County, IA"	"19127"	55
+	"Iowa"	"19"	"Mills County, IA"	"19129"	Suppressed
+	"Iowa"	"19"	"Mitchell County, IA"	"19131"	14
+	"Iowa"	"19"	"Monona County, IA"	"19133"	Suppressed
+	"Iowa"	"19"	"Monroe County, IA"	"19135"	19
+	"Iowa"	"19"	"Montgomery County, IA"	"19137"	17
+	"Iowa"	"19"	"Muscatine County, IA"	"19139"	42
+	"Iowa"	"19"	"O'Brien County, IA"	"19141"	17
+	"Iowa"	"19"	"Osceola County, IA"	"19143"	11
+	"Iowa"	"19"	"Page County, IA"	"19145"	16
+	"Iowa"	"19"	"Palo Alto County, IA"	"19147"	11
+	"Iowa"	"19"	"Plymouth County, IA"	"19149"	28
+	"Iowa"	"19"	"Pocahontas County, IA"	"19151"	12
+	"Iowa"	"19"	"Polk County, IA"	"19153"	352
+	"Iowa"	"19"	"Pottawattamie County, IA"	"19155"	100
+	"Iowa"	"19"	"Poweshiek County, IA"	"19157"	19
+	"Iowa"	"19"	"Ringgold County, IA"	"19159"	Suppressed
+	"Iowa"	"19"	"Sac County, IA"	"19161"	23
+	"Iowa"	"19"	"Scott County, IA"	"19163"	172
+	"Iowa"	"19"	"Shelby County, IA"	"19165"	17
+	"Iowa"	"19"	"Sioux County, IA"	"19167"	31
+	"Iowa"	"19"	"Story County, IA"	"19169"	71
+	"Iowa"	"19"	"Tama County, IA"	"19171"	12
+	"Iowa"	"19"	"Taylor County, IA"	"19173"	14
+	"Iowa"	"19"	"Union County, IA"	"19175"	13
+	"Iowa"	"19"	"Van Buren County, IA"	"19177"	Suppressed
+	"Iowa"	"19"	"Wapello County, IA"	"19179"	39
+	"Iowa"	"19"	"Warren County, IA"	"19181"	38
+	"Iowa"	"19"	"Washington County, IA"	"19183"	20
+	"Iowa"	"19"	"Wayne County, IA"	"19185"	Suppressed
+	"Iowa"	"19"	"Webster County, IA"	"19187"	42
+	"Iowa"	"19"	"Winnebago County, IA"	"19189"	22
+	"Iowa"	"19"	"Winneshiek County, IA"	"19191"	24
+	"Iowa"	"19"	"Woodbury County, IA"	"19193"	90
+	"Iowa"	"19"	"Worth County, IA"	"19195"	10
+	"Iowa"	"19"	"Wright County, IA"	"19197"	23
+	"Kansas"	"20"	"Allen County, KS"	"20001"	16
+	"Kansas"	"20"	"Anderson County, KS"	"20003"	14
+	"Kansas"	"20"	"Atchison County, KS"	"20005"	14
+	"Kansas"	"20"	"Barber County, KS"	"20007"	Suppressed
+	"Kansas"	"20"	"Barton County, KS"	"20009"	30
+	"Kansas"	"20"	"Bourbon County, KS"	"20011"	10
+	"Kansas"	"20"	"Brown County, KS"	"20013"	18
+	"Kansas"	"20"	"Butler County, KS"	"20015"	66
+	"Kansas"	"20"	"Chase County, KS"	"20017"	Suppressed
+	"Kansas"	"20"	"Chautauqua County, KS"	"20019"	Suppressed
+	"Kansas"	"20"	"Cherokee County, KS"	"20021"	22
+	"Kansas"	"20"	"Cheyenne County, KS"	"20023"	Suppressed
+	"Kansas"	"20"	"Clark County, KS"	"20025"	Suppressed
+	"Kansas"	"20"	"Clay County, KS"	"20027"	Suppressed
+	"Kansas"	"20"	"Cloud County, KS"	"20029"	Suppressed
+	"Kansas"	"20"	"Coffey County, KS"	"20031"	11
+	"Kansas"	"20"	"Comanche County, KS"	"20033"	Suppressed
+	"Kansas"	"20"	"Cowley County, KS"	"20035"	38
+	"Kansas"	"20"	"Crawford County, KS"	"20037"	36
+	"Kansas"	"20"	"Decatur County, KS"	"20039"	Suppressed
+	"Kansas"	"20"	"Dickinson County, KS"	"20041"	26
+	"Kansas"	"20"	"Doniphan County, KS"	"20043"	Suppressed
+	"Kansas"	"20"	"Douglas County, KS"	"20045"	68
+	"Kansas"	"20"	"Edwards County, KS"	"20047"	Suppressed
+	"Kansas"	"20"	"Elk County, KS"	"20049"	Suppressed
+	"Kansas"	"20"	"Ellis County, KS"	"20051"	18
+	"Kansas"	"20"	"Ellsworth County, KS"	"20053"	11
+	"Kansas"	"20"	"Finney County, KS"	"20055"	22
+	"Kansas"	"20"	"Ford County, KS"	"20057"	30
+	"Kansas"	"20"	"Franklin County, KS"	"20059"	37
+	"Kansas"	"20"	"Geary County, KS"	"20061"	29
+	"Kansas"	"20"	"Gove County, KS"	"20063"	Suppressed
+	"Kansas"	"20"	"Graham County, KS"	"20065"	Suppressed
+	"Kansas"	"20"	"Grant County, KS"	"20067"	Suppressed
+	"Kansas"	"20"	"Gray County, KS"	"20069"	10
+	"Kansas"	"20"	"Greeley County, KS"	"20071"	Suppressed
+	"Kansas"	"20"	"Greenwood County, KS"	"20073"	11
+	"Kansas"	"20"	"Hamilton County, KS"	"20075"	0
+	"Kansas"	"20"	"Harper County, KS"	"20077"	Suppressed
+	"Kansas"	"20"	"Harvey County, KS"	"20079"	50
+	"Kansas"	"20"	"Haskell County, KS"	"20081"	Suppressed
+	"Kansas"	"20"	"Hodgeman County, KS"	"20083"	Suppressed
+	"Kansas"	"20"	"Jackson County, KS"	"20085"	14
+	"Kansas"	"20"	"Jefferson County, KS"	"20087"	15
+	"Kansas"	"20"	"Jewell County, KS"	"20089"	Suppressed
+	"Kansas"	"20"	"Johnson County, KS"	"20091"	479
+	"Kansas"	"20"	"Kearny County, KS"	"20093"	Suppressed
+	"Kansas"	"20"	"Kingman County, KS"	"20095"	21
+	"Kansas"	"20"	"Kiowa County, KS"	"20097"	Suppressed
+	"Kansas"	"20"	"Labette County, KS"	"20099"	38
+	"Kansas"	"20"	"Lane County, KS"	"20101"	Suppressed
+	"Kansas"	"20"	"Leavenworth County, KS"	"20103"	59
+	"Kansas"	"20"	"Lincoln County, KS"	"20105"	Suppressed
+	"Kansas"	"20"	"Linn County, KS"	"20107"	Suppressed
+	"Kansas"	"20"	"Logan County, KS"	"20109"	Suppressed
+	"Kansas"	"20"	"Lyon County, KS"	"20111"	26
+	"Kansas"	"20"	"McPherson County, KS"	"20113"	42
+	"Kansas"	"20"	"Marion County, KS"	"20115"	17
+	"Kansas"	"20"	"Marshall County, KS"	"20117"	Suppressed
+	"Kansas"	"20"	"Meade County, KS"	"20119"	Suppressed
+	"Kansas"	"20"	"Miami County, KS"	"20121"	32
+	"Kansas"	"20"	"Mitchell County, KS"	"20123"	Suppressed
+	"Kansas"	"20"	"Montgomery County, KS"	"20125"	44
+	"Kansas"	"20"	"Morris County, KS"	"20127"	Suppressed
+	"Kansas"	"20"	"Morton County, KS"	"20129"	Suppressed
+	"Kansas"	"20"	"Nemaha County, KS"	"20131"	13
+	"Kansas"	"20"	"Neosho County, KS"	"20133"	19
+	"Kansas"	"20"	"Ness County, KS"	"20135"	Suppressed
+	"Kansas"	"20"	"Norton County, KS"	"20137"	10
+	"Kansas"	"20"	"Osage County, KS"	"20139"	14
+	"Kansas"	"20"	"Osborne County, KS"	"20141"	Suppressed
+	"Kansas"	"20"	"Ottawa County, KS"	"20143"	Suppressed
+	"Kansas"	"20"	"Pawnee County, KS"	"20145"	Suppressed
+	"Kansas"	"20"	"Phillips County, KS"	"20147"	Suppressed
+	"Kansas"	"20"	"Pottawatomie County, KS"	"20149"	21
+	"Kansas"	"20"	"Pratt County, KS"	"20151"	11
+	"Kansas"	"20"	"Rawlins County, KS"	"20153"	Suppressed
+	"Kansas"	"20"	"Reno County, KS"	"20155"	80
+	"Kansas"	"20"	"Republic County, KS"	"20157"	Suppressed
+	"Kansas"	"20"	"Rice County, KS"	"20159"	12
+	"Kansas"	"20"	"Riley County, KS"	"20161"	46
+	"Kansas"	"20"	"Rooks County, KS"	"20163"	Suppressed
+	"Kansas"	"20"	"Rush County, KS"	"20165"	Suppressed
+	"Kansas"	"20"	"Russell County, KS"	"20167"	11
+	"Kansas"	"20"	"Saline County, KS"	"20169"	33
+	"Kansas"	"20"	"Scott County, KS"	"20171"	Suppressed
+	"Kansas"	"20"	"Sedgwick County, KS"	"20173"	469
+	"Kansas"	"20"	"Seward County, KS"	"20175"	10
+	"Kansas"	"20"	"Shawnee County, KS"	"20177"	184
+	"Kansas"	"20"	"Sheridan County, KS"	"20179"	Suppressed
+	"Kansas"	"20"	"Sherman County, KS"	"20181"	Suppressed
+	"Kansas"	"20"	"Smith County, KS"	"20183"	Suppressed
+	"Kansas"	"20"	"Stafford County, KS"	"20185"	Suppressed
+	"Kansas"	"20"	"Stanton County, KS"	"20187"	Suppressed
+	"Kansas"	"20"	"Stevens County, KS"	"20189"	Suppressed
+	"Kansas"	"20"	"Sumner County, KS"	"20191"	29
+	"Kansas"	"20"	"Thomas County, KS"	"20193"	11
+	"Kansas"	"20"	"Trego County, KS"	"20195"	Suppressed
+	"Kansas"	"20"	"Wabaunsee County, KS"	"20197"	Suppressed
+	"Kansas"	"20"	"Wallace County, KS"	"20199"	Suppressed
+	"Kansas"	"20"	"Washington County, KS"	"20201"	Suppressed
+	"Kansas"	"20"	"Wichita County, KS"	"20203"	Suppressed
+	"Kansas"	"20"	"Wilson County, KS"	"20205"	10
+	"Kansas"	"20"	"Woodson County, KS"	"20207"	Suppressed
+	"Kansas"	"20"	"Wyandotte County, KS"	"20209"	137
+	"Kentucky"	"21"	"Adair County, KY"	"21001"	13
+	"Kentucky"	"21"	"Allen County, KY"	"21003"	24
+	"Kentucky"	"21"	"Anderson County, KY"	"21005"	22
+	"Kentucky"	"21"	"Ballard County, KY"	"21007"	Suppressed
+	"Kentucky"	"21"	"Barren County, KY"	"21009"	51
+	"Kentucky"	"21"	"Bath County, KY"	"21011"	19
+	"Kentucky"	"21"	"Bell County, KY"	"21013"	35
+	"Kentucky"	"21"	"Boone County, KY"	"21015"	82
+	"Kentucky"	"21"	"Bourbon County, KY"	"21017"	23
+	"Kentucky"	"21"	"Boyd County, KY"	"21019"	66
+	"Kentucky"	"21"	"Boyle County, KY"	"21021"	27
+	"Kentucky"	"21"	"Bracken County, KY"	"21023"	10
+	"Kentucky"	"21"	"Breathitt County, KY"	"21025"	26
+	"Kentucky"	"21"	"Breckinridge County, KY"	"21027"	18
+	"Kentucky"	"21"	"Bullitt County, KY"	"21029"	61
+	"Kentucky"	"21"	"Butler County, KY"	"21031"	Suppressed
+	"Kentucky"	"21"	"Caldwell County, KY"	"21033"	22
+	"Kentucky"	"21"	"Calloway County, KY"	"21035"	37
+	"Kentucky"	"21"	"Campbell County, KY"	"21037"	83
+	"Kentucky"	"21"	"Carlisle County, KY"	"21039"	Suppressed
+	"Kentucky"	"21"	"Carroll County, KY"	"21041"	15
+	"Kentucky"	"21"	"Carter County, KY"	"21043"	32
+	"Kentucky"	"21"	"Casey County, KY"	"21045"	14
+	"Kentucky"	"21"	"Christian County, KY"	"21047"	64
+	"Kentucky"	"21"	"Clark County, KY"	"21049"	38
+	"Kentucky"	"21"	"Clay County, KY"	"21051"	21
+	"Kentucky"	"21"	"Clinton County, KY"	"21053"	Suppressed
+	"Kentucky"	"21"	"Crittenden County, KY"	"21055"	14
+	"Kentucky"	"21"	"Cumberland County, KY"	"21057"	Suppressed
+	"Kentucky"	"21"	"Daviess County, KY"	"21059"	105
+	"Kentucky"	"21"	"Edmonson County, KY"	"21061"	Suppressed
+	"Kentucky"	"21"	"Elliott County, KY"	"21063"	Suppressed
+	"Kentucky"	"21"	"Estill County, KY"	"21065"	17
+	"Kentucky"	"21"	"Fayette County, KY"	"21067"	213
+	"Kentucky"	"21"	"Fleming County, KY"	"21069"	12
+	"Kentucky"	"21"	"Floyd County, KY"	"21071"	45
+	"Kentucky"	"21"	"Franklin County, KY"	"21073"	59
+	"Kentucky"	"21"	"Fulton County, KY"	"21075"	Suppressed
+	"Kentucky"	"21"	"Gallatin County, KY"	"21077"	Suppressed
+	"Kentucky"	"21"	"Garrard County, KY"	"21079"	14
+	"Kentucky"	"21"	"Grant County, KY"	"21081"	14
+	"Kentucky"	"21"	"Graves County, KY"	"21083"	45
+	"Kentucky"	"21"	"Grayson County, KY"	"21085"	21
+	"Kentucky"	"21"	"Green County, KY"	"21087"	Suppressed
+	"Kentucky"	"21"	"Greenup County, KY"	"21089"	46
+	"Kentucky"	"21"	"Hancock County, KY"	"21091"	Suppressed
+	"Kentucky"	"21"	"Hardin County, KY"	"21093"	78
+	"Kentucky"	"21"	"Harlan County, KY"	"21095"	41
+	"Kentucky"	"21"	"Harrison County, KY"	"21097"	17
+	"Kentucky"	"21"	"Hart County, KY"	"21099"	20
+	"Kentucky"	"21"	"Henderson County, KY"	"21101"	46
+	"Kentucky"	"21"	"Henry County, KY"	"21103"	15
+	"Kentucky"	"21"	"Hickman County, KY"	"21105"	Suppressed
+	"Kentucky"	"21"	"Hopkins County, KY"	"21107"	52
+	"Kentucky"	"21"	"Jackson County, KY"	"21109"	26
+	"Kentucky"	"21"	"Jefferson County, KY"	"21111"	632
+	"Kentucky"	"21"	"Jessamine County, KY"	"21113"	41
+	"Kentucky"	"21"	"Johnson County, KY"	"21115"	20
+	"Kentucky"	"21"	"Kenton County, KY"	"21117"	120
+	"Kentucky"	"21"	"Knott County, KY"	"21119"	11
+	"Kentucky"	"21"	"Knox County, KY"	"21121"	43
+	"Kentucky"	"21"	"Larue County, KY"	"21123"	14
+	"Kentucky"	"21"	"Laurel County, KY"	"21125"	66
+	"Kentucky"	"21"	"Lawrence County, KY"	"21127"	Suppressed
+	"Kentucky"	"21"	"Lee County, KY"	"21129"	Suppressed
+	"Kentucky"	"21"	"Leslie County, KY"	"21131"	15
+	"Kentucky"	"21"	"Letcher County, KY"	"21133"	31
+	"Kentucky"	"21"	"Lewis County, KY"	"21135"	13
+	"Kentucky"	"21"	"Lincoln County, KY"	"21137"	29
+	"Kentucky"	"21"	"Livingston County, KY"	"21139"	19
+	"Kentucky"	"21"	"Logan County, KY"	"21141"	33
+	"Kentucky"	"21"	"Lyon County, KY"	"21143"	13
+	"Kentucky"	"21"	"McCracken County, KY"	"21145"	60
+	"Kentucky"	"21"	"McCreary County, KY"	"21147"	21
+	"Kentucky"	"21"	"McLean County, KY"	"21149"	12
+	"Kentucky"	"21"	"Madison County, KY"	"21151"	72
+	"Kentucky"	"21"	"Magoffin County, KY"	"21153"	11
+	"Kentucky"	"21"	"Marion County, KY"	"21155"	22
+	"Kentucky"	"21"	"Marshall County, KY"	"21157"	49
+	"Kentucky"	"21"	"Martin County, KY"	"21159"	14
+	"Kentucky"	"21"	"Mason County, KY"	"21161"	27
+	"Kentucky"	"21"	"Meade County, KY"	"21163"	22
+	"Kentucky"	"21"	"Menifee County, KY"	"21165"	Suppressed
+	"Kentucky"	"21"	"Mercer County, KY"	"21167"	28
+	"Kentucky"	"21"	"Metcalfe County, KY"	"21169"	12
+	"Kentucky"	"21"	"Monroe County, KY"	"21171"	13
+	"Kentucky"	"21"	"Montgomery County, KY"	"21173"	27
+	"Kentucky"	"21"	"Morgan County, KY"	"21175"	13
+	"Kentucky"	"21"	"Muhlenberg County, KY"	"21177"	51
+	"Kentucky"	"21"	"Nelson County, KY"	"21179"	30
+	"Kentucky"	"21"	"Nicholas County, KY"	"21181"	Suppressed
+	"Kentucky"	"21"	"Ohio County, KY"	"21183"	31
+	"Kentucky"	"21"	"Oldham County, KY"	"21185"	32
+	"Kentucky"	"21"	"Owen County, KY"	"21187"	11
+	"Kentucky"	"21"	"Owsley County, KY"	"21189"	Suppressed
+	"Kentucky"	"21"	"Pendleton County, KY"	"21191"	16
+	"Kentucky"	"21"	"Perry County, KY"	"21193"	34
+	"Kentucky"	"21"	"Pike County, KY"	"21195"	70
+	"Kentucky"	"21"	"Powell County, KY"	"21197"	Suppressed
+	"Kentucky"	"21"	"Pulaski County, KY"	"21199"	83
+	"Kentucky"	"21"	"Robertson County, KY"	"21201"	Suppressed
+	"Kentucky"	"21"	"Rockcastle County, KY"	"21203"	24
+	"Kentucky"	"21"	"Rowan County, KY"	"21205"	26
+	"Kentucky"	"21"	"Russell County, KY"	"21207"	21
+	"Kentucky"	"21"	"Scott County, KY"	"21209"	43
+	"Kentucky"	"21"	"Shelby County, KY"	"21211"	32
+	"Kentucky"	"21"	"Simpson County, KY"	"21213"	15
+	"Kentucky"	"21"	"Spencer County, KY"	"21215"	15
+	"Kentucky"	"21"	"Taylor County, KY"	"21217"	29
+	"Kentucky"	"21"	"Todd County, KY"	"21219"	21
+	"Kentucky"	"21"	"Trigg County, KY"	"21221"	20
+	"Kentucky"	"21"	"Trimble County, KY"	"21223"	Suppressed
+	"Kentucky"	"21"	"Union County, KY"	"21225"	23
+	"Kentucky"	"21"	"Warren County, KY"	"21227"	108
+	"Kentucky"	"21"	"Washington County, KY"	"21229"	11
+	"Kentucky"	"21"	"Wayne County, KY"	"21231"	21
+	"Kentucky"	"21"	"Webster County, KY"	"21233"	14
+	"Kentucky"	"21"	"Whitley County, KY"	"21235"	30
+	"Kentucky"	"21"	"Wolfe County, KY"	"21237"	10
+	"Kentucky"	"21"	"Woodford County, KY"	"21239"	26
+	"Louisiana"	"22"	"Acadia Parish, LA"	"22001"	87
+	"Louisiana"	"22"	"Allen Parish, LA"	"22003"	11
+	"Louisiana"	"22"	"Ascension Parish, LA"	"22005"	76
+	"Louisiana"	"22"	"Assumption Parish, LA"	"22007"	26
+	"Louisiana"	"22"	"Avoyelles Parish, LA"	"22009"	53
+	"Louisiana"	"22"	"Beauregard Parish, LA"	"22011"	35
+	"Louisiana"	"22"	"Bienville Parish, LA"	"22013"	12
+	"Louisiana"	"22"	"Bossier Parish, LA"	"22015"	122
+	"Louisiana"	"22"	"Caddo Parish, LA"	"22017"	227
+	"Louisiana"	"22"	"Calcasieu Parish, LA"	"22019"	221
+	"Louisiana"	"22"	"Caldwell Parish, LA"	"22021"	26
+	"Louisiana"	"22"	"Cameron Parish, LA"	"22023"	Suppressed
+	"Louisiana"	"22"	"Catahoula Parish, LA"	"22025"	14
+	"Louisiana"	"22"	"Claiborne Parish, LA"	"22027"	19
+	"Louisiana"	"22"	"Concordia Parish, LA"	"22029"	26
+	"Louisiana"	"22"	"De Soto Parish, LA"	"22031"	28
+	"Louisiana"	"22"	"East Baton Rouge Parish, LA"	"22033"	386
+	"Louisiana"	"22"	"East Carroll Parish, LA"	"22035"	Suppressed
+	"Louisiana"	"22"	"East Feliciana Parish, LA"	"22037"	27
+	"Louisiana"	"22"	"Evangeline Parish, LA"	"22039"	29
+	"Louisiana"	"22"	"Franklin Parish, LA"	"22041"	51
+	"Louisiana"	"22"	"Grant Parish, LA"	"22043"	26
+	"Louisiana"	"22"	"Iberia Parish, LA"	"22045"	79
+	"Louisiana"	"22"	"Iberville Parish, LA"	"22047"	37
+	"Louisiana"	"22"	"Jackson Parish, LA"	"22049"	18
+	"Louisiana"	"22"	"Jefferson Parish, LA"	"22051"	390
+	"Louisiana"	"22"	"Jefferson Davis Parish, LA"	"22053"	45
+	"Louisiana"	"22"	"Lafayette Parish, LA"	"22055"	252
+	"Louisiana"	"22"	"Lafourche Parish, LA"	"22057"	111
+	"Louisiana"	"22"	"LaSalle Parish, LA"	"22059"	19
+	"Louisiana"	"22"	"Lincoln Parish, LA"	"22061"	45
+	"Louisiana"	"22"	"Livingston Parish, LA"	"22063"	107
+	"Louisiana"	"22"	"Madison Parish, LA"	"22065"	15
+	"Louisiana"	"22"	"Morehouse Parish, LA"	"22067"	35
+	"Louisiana"	"22"	"Natchitoches Parish, LA"	"22069"	50
+	"Louisiana"	"22"	"Orleans Parish, LA"	"22071"	263
+	"Louisiana"	"22"	"Ouachita Parish, LA"	"22073"	133
+	"Louisiana"	"22"	"Plaquemines Parish, LA"	"22075"	21
+	"Louisiana"	"22"	"Pointe Coupee Parish, LA"	"22077"	37
+	"Louisiana"	"22"	"Rapides Parish, LA"	"22079"	181
+	"Louisiana"	"22"	"Red River Parish, LA"	"22081"	13
+	"Louisiana"	"22"	"Richland Parish, LA"	"22083"	26
+	"Louisiana"	"22"	"Sabine Parish, LA"	"22085"	39
+	"Louisiana"	"22"	"St. Bernard Parish, LA"	"22087"	41
+	"Louisiana"	"22"	"St. Charles Parish, LA"	"22089"	27
+	"Louisiana"	"22"	"St. Helena Parish, LA"	"22091"	Suppressed
+	"Louisiana"	"22"	"St. James Parish, LA"	"22093"	23
+	"Louisiana"	"22"	"St. John the Baptist Parish, LA"	"22095"	50
+	"Louisiana"	"22"	"St. Landry Parish, LA"	"22097"	135
+	"Louisiana"	"22"	"St. Martin Parish, LA"	"22099"	58
+	"Louisiana"	"22"	"St. Mary Parish, LA"	"22101"	47
+	"Louisiana"	"22"	"St. Tammany Parish, LA"	"22103"	244
+	"Louisiana"	"22"	"Tangipahoa Parish, LA"	"22105"	138
+	"Louisiana"	"22"	"Tensas Parish, LA"	"22107"	11
+	"Louisiana"	"22"	"Terrebonne Parish, LA"	"22109"	91
+	"Louisiana"	"22"	"Union Parish, LA"	"22111"	26
+	"Louisiana"	"22"	"Vermilion Parish, LA"	"22113"	67
+	"Louisiana"	"22"	"Vernon Parish, LA"	"22115"	57
+	"Louisiana"	"22"	"Washington Parish, LA"	"22117"	64
+	"Louisiana"	"22"	"Webster Parish, LA"	"22119"	56
+	"Louisiana"	"22"	"West Baton Rouge Parish, LA"	"22121"	21
+	"Louisiana"	"22"	"West Carroll Parish, LA"	"22123"	12
+	"Louisiana"	"22"	"West Feliciana Parish, LA"	"22125"	10
+	"Louisiana"	"22"	"Winn Parish, LA"	"22127"	25
+	"Maine"	"23"	"Androscoggin County, ME"	"23001"	135
+	"Maine"	"23"	"Aroostook County, ME"	"23003"	105
+	"Maine"	"23"	"Cumberland County, ME"	"23005"	276
+	"Maine"	"23"	"Franklin County, ME"	"23007"	34
+	"Maine"	"23"	"Hancock County, ME"	"23009"	72
+	"Maine"	"23"	"Kennebec County, ME"	"23011"	150
+	"Maine"	"23"	"Knox County, ME"	"23013"	52
+	"Maine"	"23"	"Lincoln County, ME"	"23015"	35
+	"Maine"	"23"	"Oxford County, ME"	"23017"	58
+	"Maine"	"23"	"Penobscot County, ME"	"23019"	181
+	"Maine"	"23"	"Piscataquis County, ME"	"23021"	23
+	"Maine"	"23"	"Sagadahoc County, ME"	"23023"	31
+	"Maine"	"23"	"Somerset County, ME"	"23025"	66
+	"Maine"	"23"	"Waldo County, ME"	"23027"	53
+	"Maine"	"23"	"Washington County, ME"	"23029"	49
+	"Maine"	"23"	"York County, ME"	"23031"	211
+	"Maryland"	"24"	"Allegany County, MD"	"24001"	93
+	"Maryland"	"24"	"Anne Arundel County, MD"	"24003"	448
+	"Maryland"	"24"	"Baltimore County, MD"	"24005"	905
+	"Maryland"	"24"	"Calvert County, MD"	"24009"	75
+	"Maryland"	"24"	"Caroline County, MD"	"24011"	33
+	"Maryland"	"24"	"Carroll County, MD"	"24013"	162
+	"Maryland"	"24"	"Cecil County, MD"	"24015"	126
+	"Maryland"	"24"	"Charles County, MD"	"24017"	103
+	"Maryland"	"24"	"Dorchester County, MD"	"24019"	44
+	"Maryland"	"24"	"Frederick County, MD"	"24021"	202
+	"Maryland"	"24"	"Garrett County, MD"	"24023"	43
+	"Maryland"	"24"	"Harford County, MD"	"24025"	241
+	"Maryland"	"24"	"Howard County, MD"	"24027"	183
+	"Maryland"	"24"	"Kent County, MD"	"24029"	31
+	"Maryland"	"24"	"Montgomery County, MD"	"24031"	667
+	"Maryland"	"24"	"Prince George's County, MD"	"24033"	687
+	"Maryland"	"24"	"Queen Anne's County, MD"	"24035"	39
+	"Maryland"	"24"	"St. Mary's County, MD"	"24037"	76
+	"Maryland"	"24"	"Somerset County, MD"	"24039"	43
+	"Maryland"	"24"	"Talbot County, MD"	"24041"	37
+	"Maryland"	"24"	"Washington County, MD"	"24043"	162
+	"Maryland"	"24"	"Wicomico County, MD"	"24045"	128
+	"Maryland"	"24"	"Worcester County, MD"	"24047"	89
+	"Maryland"	"24"	"Baltimore city, MD"	"24510"	532
+	"Massachusetts"	"25"	"Barnstable County, MA"	"25001"	297
+	"Massachusetts"	"25"	"Berkshire County, MA"	"25003"	135
+	"Massachusetts"	"25"	"Bristol County, MA"	"25005"	501
+	"Massachusetts"	"25"	"Dukes County, MA"	"25007"	24
+	"Massachusetts"	"25"	"Essex County, MA"	"25009"	623
+	"Massachusetts"	"25"	"Franklin County, MA"	"25011"	62
+	"Massachusetts"	"25"	"Hampden County, MA"	"25013"	407
+	"Massachusetts"	"25"	"Hampshire County, MA"	"25015"	137
+	"Massachusetts"	"25"	"Middlesex County, MA"	"25017"	1065
+	"Massachusetts"	"25"	"Nantucket County, MA"	"25019"	12
+	"Massachusetts"	"25"	"Norfolk County, MA"	"25021"	564
+	"Massachusetts"	"25"	"Plymouth County, MA"	"25023"	472
+	"Massachusetts"	"25"	"Suffolk County, MA"	"25025"	340
+	"Massachusetts"	"25"	"Worcester County, MA"	"25027"	618
+	"Michigan"	"26"	"Alcona County, MI"	"26001"	35
+	"Michigan"	"26"	"Alger County, MI"	"26003"	14
+	"Michigan"	"26"	"Allegan County, MI"	"26005"	111
+	"Michigan"	"26"	"Alpena County, MI"	"26007"	51
+	"Michigan"	"26"	"Antrim County, MI"	"26009"	33
+	"Michigan"	"26"	"Arenac County, MI"	"26011"	26
+	"Michigan"	"26"	"Baraga County, MI"	"26013"	Suppressed
+	"Michigan"	"26"	"Barry County, MI"	"26015"	59
+	"Michigan"	"26"	"Bay County, MI"	"26017"	155
+	"Michigan"	"26"	"Benzie County, MI"	"26019"	23
+	"Michigan"	"26"	"Berrien County, MI"	"26021"	219
+	"Michigan"	"26"	"Branch County, MI"	"26023"	38
+	"Michigan"	"26"	"Calhoun County, MI"	"26025"	141
+	"Michigan"	"26"	"Cass County, MI"	"26027"	65
+	"Michigan"	"26"	"Charlevoix County, MI"	"26029"	32
+	"Michigan"	"26"	"Cheboygan County, MI"	"26031"	44
+	"Michigan"	"26"	"Chippewa County, MI"	"26033"	36
+	"Michigan"	"26"	"Clare County, MI"	"26035"	50
+	"Michigan"	"26"	"Clinton County, MI"	"26037"	69
+	"Michigan"	"26"	"Crawford County, MI"	"26039"	26
+	"Michigan"	"26"	"Delta County, MI"	"26041"	62
+	"Michigan"	"26"	"Dickinson County, MI"	"26043"	47
+	"Michigan"	"26"	"Eaton County, MI"	"26045"	132
+	"Michigan"	"26"	"Emmet County, MI"	"26047"	52
+	"Michigan"	"26"	"Genesee County, MI"	"26049"	574
+	"Michigan"	"26"	"Gladwin County, MI"	"26051"	58
+	"Michigan"	"26"	"Gogebic County, MI"	"26053"	25
+	"Michigan"	"26"	"Grand Traverse County, MI"	"26055"	118
+	"Michigan"	"26"	"Gratiot County, MI"	"26057"	50
+	"Michigan"	"26"	"Hillsdale County, MI"	"26059"	54
+	"Michigan"	"26"	"Houghton County, MI"	"26061"	36
+	"Michigan"	"26"	"Huron County, MI"	"26063"	49
+	"Michigan"	"26"	"Ingham County, MI"	"26065"	240
+	"Michigan"	"26"	"Ionia County, MI"	"26067"	64
+	"Michigan"	"26"	"Iosco County, MI"	"26069"	64
+	"Michigan"	"26"	"Iron County, MI"	"26071"	14
+	"Michigan"	"26"	"Isabella County, MI"	"26073"	49
+	"Michigan"	"26"	"Jackson County, MI"	"26075"	209
+	"Michigan"	"26"	"Kalamazoo County, MI"	"26077"	239
+	"Michigan"	"26"	"Kalkaska County, MI"	"26079"	33
+	"Michigan"	"26"	"Kent County, MI"	"26081"	596
+	"Michigan"	"26"	"Keweenaw County, MI"	"26083"	Suppressed
+	"Michigan"	"26"	"Lake County, MI"	"26085"	12
+	"Michigan"	"26"	"Lapeer County, MI"	"26087"	106
+	"Michigan"	"26"	"Leelanau County, MI"	"26089"	38
+	"Michigan"	"26"	"Lenawee County, MI"	"26091"	111
+	"Michigan"	"26"	"Livingston County, MI"	"26093"	240
+	"Michigan"	"26"	"Luce County, MI"	"26095"	Suppressed
+	"Michigan"	"26"	"Mackinac County, MI"	"26097"	Suppressed
+	"Michigan"	"26"	"Macomb County, MI"	"26099"	990
+	"Michigan"	"26"	"Manistee County, MI"	"26101"	43
+	"Michigan"	"26"	"Marquette County, MI"	"26103"	72
+	"Michigan"	"26"	"Mason County, MI"	"26105"	46
+	"Michigan"	"26"	"Mecosta County, MI"	"26107"	41
+	"Michigan"	"26"	"Menominee County, MI"	"26109"	47
+	"Michigan"	"26"	"Midland County, MI"	"26111"	110
+	"Michigan"	"26"	"Missaukee County, MI"	"26113"	26
+	"Michigan"	"26"	"Monroe County, MI"	"26115"	203
+	"Michigan"	"26"	"Montcalm County, MI"	"26117"	81
+	"Michigan"	"26"	"Montmorency County, MI"	"26119"	21
+	"Michigan"	"26"	"Muskegon County, MI"	"26121"	205
+	"Michigan"	"26"	"Newaygo County, MI"	"26123"	66
+	"Michigan"	"26"	"Oakland County, MI"	"26125"	1424
+	"Michigan"	"26"	"Oceana County, MI"	"26127"	29
+	"Michigan"	"26"	"Ogemaw County, MI"	"26129"	43
+	"Michigan"	"26"	"Ontonagon County, MI"	"26131"	Suppressed
+	"Michigan"	"26"	"Osceola County, MI"	"26133"	31
+	"Michigan"	"26"	"Oscoda County, MI"	"26135"	11
+	"Michigan"	"26"	"Otsego County, MI"	"26137"	32
+	"Michigan"	"26"	"Ottawa County, MI"	"26139"	260
+	"Michigan"	"26"	"Presque Isle County, MI"	"26141"	22
+	"Michigan"	"26"	"Roscommon County, MI"	"26143"	47
+	"Michigan"	"26"	"Saginaw County, MI"	"26145"	219
+	"Michigan"	"26"	"St. Clair County, MI"	"26147"	196
+	"Michigan"	"26"	"St. Joseph County, MI"	"26149"	80
+	"Michigan"	"26"	"Sanilac County, MI"	"26151"	61
+	"Michigan"	"26"	"Schoolcraft County, MI"	"26153"	10
+	"Michigan"	"26"	"Shiawassee County, MI"	"26155"	80
+	"Michigan"	"26"	"Tuscola County, MI"	"26157"	62
+	"Michigan"	"26"	"Van Buren County, MI"	"26159"	77
+	"Michigan"	"26"	"Washtenaw County, MI"	"26161"	305
+	"Michigan"	"26"	"Wayne County, MI"	"26163"	1881
+	"Michigan"	"26"	"Wexford County, MI"	"26165"	47
+	"Minnesota"	"27"	"Aitkin County, MN"	"27001"	21
+	"Minnesota"	"27"	"Anoka County, MN"	"27003"	221
+	"Minnesota"	"27"	"Becker County, MN"	"27005"	33
+	"Minnesota"	"27"	"Beltrami County, MN"	"27007"	24
+	"Minnesota"	"27"	"Benton County, MN"	"27009"	37
+	"Minnesota"	"27"	"Big Stone County, MN"	"27011"	12
+	"Minnesota"	"27"	"Blue Earth County, MN"	"27013"	57
+	"Minnesota"	"27"	"Brown County, MN"	"27015"	37
+	"Minnesota"	"27"	"Carlton County, MN"	"27017"	48
+	"Minnesota"	"27"	"Carver County, MN"	"27019"	56
+	"Minnesota"	"27"	"Cass County, MN"	"27021"	42
+	"Minnesota"	"27"	"Chippewa County, MN"	"27023"	10
+	"Minnesota"	"27"	"Chisago County, MN"	"27025"	40
+	"Minnesota"	"27"	"Clay County, MN"	"27027"	45
+	"Minnesota"	"27"	"Clearwater County, MN"	"27029"	Suppressed
+	"Minnesota"	"27"	"Cook County, MN"	"27031"	Suppressed
+	"Minnesota"	"27"	"Cottonwood County, MN"	"27033"	14
+	"Minnesota"	"27"	"Crow Wing County, MN"	"27035"	53
+	"Minnesota"	"27"	"Dakota County, MN"	"27037"	294
+	"Minnesota"	"27"	"Dodge County, MN"	"27039"	20
+	"Minnesota"	"27"	"Douglas County, MN"	"27041"	41
+	"Minnesota"	"27"	"Faribault County, MN"	"27043"	27
+	"Minnesota"	"27"	"Fillmore County, MN"	"27045"	31
+	"Minnesota"	"27"	"Freeborn County, MN"	"27047"	47
+	"Minnesota"	"27"	"Goodhue County, MN"	"27049"	55
+	"Minnesota"	"27"	"Grant County, MN"	"27051"	Suppressed
+	"Minnesota"	"27"	"Hennepin County, MN"	"27053"	739
+	"Minnesota"	"27"	"Houston County, MN"	"27055"	29
+	"Minnesota"	"27"	"Hubbard County, MN"	"27057"	16
+	"Minnesota"	"27"	"Isanti County, MN"	"27059"	38
+	"Minnesota"	"27"	"Itasca County, MN"	"27061"	42
+	"Minnesota"	"27"	"Jackson County, MN"	"27063"	11
+	"Minnesota"	"27"	"Kanabec County, MN"	"27065"	17
+	"Minnesota"	"27"	"Kandiyohi County, MN"	"27067"	32
+	"Minnesota"	"27"	"Kittson County, MN"	"27069"	Suppressed
+	"Minnesota"	"27"	"Koochiching County, MN"	"27071"	17
+	"Minnesota"	"27"	"Lac qui Parle County, MN"	"27073"	Suppressed
+	"Minnesota"	"27"	"Lake County, MN"	"27075"	18
+	"Minnesota"	"27"	"Lake of the Woods County, MN"	"27077"	Suppressed
+	"Minnesota"	"27"	"Le Sueur County, MN"	"27079"	22
+	"Minnesota"	"27"	"Lincoln County, MN"	"27081"	Suppressed
+	"Minnesota"	"27"	"Lyon County, MN"	"27083"	26
+	"Minnesota"	"27"	"McLeod County, MN"	"27085"	40
+	"Minnesota"	"27"	"Mahnomen County, MN"	"27087"	Suppressed
+	"Minnesota"	"27"	"Marshall County, MN"	"27089"	Suppressed
+	"Minnesota"	"27"	"Martin County, MN"	"27091"	27
+	"Minnesota"	"27"	"Meeker County, MN"	"27093"	22
+	"Minnesota"	"27"	"Mille Lacs County, MN"	"27095"	31
+	"Minnesota"	"27"	"Morrison County, MN"	"27097"	34
+	"Minnesota"	"27"	"Mower County, MN"	"27099"	48
+	"Minnesota"	"27"	"Murray County, MN"	"27101"	Suppressed
+	"Minnesota"	"27"	"Nicollet County, MN"	"27103"	23
+	"Minnesota"	"27"	"Nobles County, MN"	"27105"	17
+	"Minnesota"	"27"	"Norman County, MN"	"27107"	Suppressed
+	"Minnesota"	"27"	"Olmsted County, MN"	"27109"	123
+	"Minnesota"	"27"	"Otter Tail County, MN"	"27111"	66
+	"Minnesota"	"27"	"Pennington County, MN"	"27113"	16
+	"Minnesota"	"27"	"Pine County, MN"	"27115"	29
+	"Minnesota"	"27"	"Pipestone County, MN"	"27117"	16
+	"Minnesota"	"27"	"Polk County, MN"	"27119"	30
+	"Minnesota"	"27"	"Pope County, MN"	"27121"	11
+	"Minnesota"	"27"	"Ramsey County, MN"	"27123"	388
+	"Minnesota"	"27"	"Red Lake County, MN"	"27125"	Suppressed
+	"Minnesota"	"27"	"Redwood County, MN"	"27127"	15
+	"Minnesota"	"27"	"Renville County, MN"	"27129"	Suppressed
+	"Minnesota"	"27"	"Rice County, MN"	"27131"	56
+	"Minnesota"	"27"	"Rock County, MN"	"27133"	Suppressed
+	"Minnesota"	"27"	"Roseau County, MN"	"27135"	20
+	"Minnesota"	"27"	"St. Louis County, MN"	"27137"	191
+	"Minnesota"	"27"	"Scott County, MN"	"27139"	92
+	"Minnesota"	"27"	"Sherburne County, MN"	"27141"	46
+	"Minnesota"	"27"	"Sibley County, MN"	"27143"	11
+	"Minnesota"	"27"	"Stearns County, MN"	"27145"	96
+	"Minnesota"	"27"	"Steele County, MN"	"27147"	40
+	"Minnesota"	"27"	"Stevens County, MN"	"27149"	Suppressed
+	"Minnesota"	"27"	"Swift County, MN"	"27151"	Suppressed
+	"Minnesota"	"27"	"Todd County, MN"	"27153"	22
+	"Minnesota"	"27"	"Traverse County, MN"	"27155"	Suppressed
+	"Minnesota"	"27"	"Wabasha County, MN"	"27157"	30
+	"Minnesota"	"27"	"Wadena County, MN"	"27159"	18
+	"Minnesota"	"27"	"Waseca County, MN"	"27161"	22
+	"Minnesota"	"27"	"Washington County, MN"	"27163"	169
+	"Minnesota"	"27"	"Watonwan County, MN"	"27165"	17
+	"Minnesota"	"27"	"Wilkin County, MN"	"27167"	Suppressed
+	"Minnesota"	"27"	"Winona County, MN"	"27169"	55
+	"Minnesota"	"27"	"Wright County, MN"	"27171"	83
+	"Minnesota"	"27"	"Yellow Medicine County, MN"	"27173"	Suppressed
+	"Mississippi"	"28"	"Adams County, MS"	"28001"	42
+	"Mississippi"	"28"	"Alcorn County, MS"	"28003"	51
+	"Mississippi"	"28"	"Amite County, MS"	"28005"	18
+	"Mississippi"	"28"	"Attala County, MS"	"28007"	23
+	"Mississippi"	"28"	"Benton County, MS"	"28009"	16
+	"Mississippi"	"28"	"Bolivar County, MS"	"28011"	40
+	"Mississippi"	"28"	"Calhoun County, MS"	"28013"	33
+	"Mississippi"	"28"	"Carroll County, MS"	"28015"	12
+	"Mississippi"	"28"	"Chickasaw County, MS"	"28017"	25
+	"Mississippi"	"28"	"Choctaw County, MS"	"28019"	16
+	"Mississippi"	"28"	"Claiborne County, MS"	"28021"	13
+	"Mississippi"	"28"	"Clarke County, MS"	"28023"	25
+	"Mississippi"	"28"	"Clay County, MS"	"28025"	26
+	"Mississippi"	"28"	"Coahoma County, MS"	"28027"	21
+	"Mississippi"	"28"	"Copiah County, MS"	"28029"	38
+	"Mississippi"	"28"	"Covington County, MS"	"28031"	32
+	"Mississippi"	"28"	"DeSoto County, MS"	"28033"	146
+	"Mississippi"	"28"	"Forrest County, MS"	"28035"	66
+	"Mississippi"	"28"	"Franklin County, MS"	"28037"	11
+	"Mississippi"	"28"	"George County, MS"	"28039"	32
+	"Mississippi"	"28"	"Greene County, MS"	"28041"	15
+	"Mississippi"	"28"	"Grenada County, MS"	"28043"	38
+	"Mississippi"	"28"	"Hancock County, MS"	"28045"	84
+	"Mississippi"	"28"	"Harrison County, MS"	"28047"	234
+	"Mississippi"	"28"	"Hinds County, MS"	"28049"	248
+	"Mississippi"	"28"	"Holmes County, MS"	"28051"	23
+	"Mississippi"	"28"	"Humphreys County, MS"	"28053"	Suppressed
+	"Mississippi"	"28"	"Issaquena County, MS"	"28055"	0
+	"Mississippi"	"28"	"Itawamba County, MS"	"28057"	28
+	"Mississippi"	"28"	"Jackson County, MS"	"28059"	165
+	"Mississippi"	"28"	"Jasper County, MS"	"28061"	30
+	"Mississippi"	"28"	"Jefferson County, MS"	"28063"	Suppressed
+	"Mississippi"	"28"	"Jefferson Davis County, MS"	"28065"	21
+	"Mississippi"	"28"	"Jones County, MS"	"28067"	89
+	"Mississippi"	"28"	"Kemper County, MS"	"28069"	12
+	"Mississippi"	"28"	"Lafayette County, MS"	"28071"	37
+	"Mississippi"	"28"	"Lamar County, MS"	"28073"	43
+	"Mississippi"	"28"	"Lauderdale County, MS"	"28075"	98
+	"Mississippi"	"28"	"Lawrence County, MS"	"28077"	16
+	"Mississippi"	"28"	"Leake County, MS"	"28079"	20
+	"Mississippi"	"28"	"Lee County, MS"	"28081"	106
+	"Mississippi"	"28"	"Leflore County, MS"	"28083"	40
+	"Mississippi"	"28"	"Lincoln County, MS"	"28085"	29
+	"Mississippi"	"28"	"Lowndes County, MS"	"28087"	66
+	"Mississippi"	"28"	"Madison County, MS"	"28089"	104
+	"Mississippi"	"28"	"Marion County, MS"	"28091"	36
+	"Mississippi"	"28"	"Marshall County, MS"	"28093"	36
+	"Mississippi"	"28"	"Monroe County, MS"	"28095"	42
+	"Mississippi"	"28"	"Montgomery County, MS"	"28097"	Suppressed
+	"Mississippi"	"28"	"Neshoba County, MS"	"28099"	40
+	"Mississippi"	"28"	"Newton County, MS"	"28101"	31
+	"Mississippi"	"28"	"Noxubee County, MS"	"28103"	15
+	"Mississippi"	"28"	"Oktibbeha County, MS"	"28105"	40
+	"Mississippi"	"28"	"Panola County, MS"	"28107"	63
+	"Mississippi"	"28"	"Pearl River County, MS"	"28109"	63
+	"Mississippi"	"28"	"Perry County, MS"	"28111"	15
+	"Mississippi"	"28"	"Pike County, MS"	"28113"	59
+	"Mississippi"	"28"	"Pontotoc County, MS"	"28115"	40
+	"Mississippi"	"28"	"Prentiss County, MS"	"28117"	28
+	"Mississippi"	"28"	"Quitman County, MS"	"28119"	12
+	"Mississippi"	"28"	"Rankin County, MS"	"28121"	150
+	"Mississippi"	"28"	"Scott County, MS"	"28123"	31
+	"Mississippi"	"28"	"Sharkey County, MS"	"28125"	Suppressed
+	"Mississippi"	"28"	"Simpson County, MS"	"28127"	33
+	"Mississippi"	"28"	"Smith County, MS"	"28129"	25
+	"Mississippi"	"28"	"Stone County, MS"	"28131"	26
+	"Mississippi"	"28"	"Sunflower County, MS"	"28133"	29
+	"Mississippi"	"28"	"Tallahatchie County, MS"	"28135"	13
+	"Mississippi"	"28"	"Tate County, MS"	"28137"	30
+	"Mississippi"	"28"	"Tippah County, MS"	"28139"	31
+	"Mississippi"	"28"	"Tishomingo County, MS"	"28141"	37
+	"Mississippi"	"28"	"Tunica County, MS"	"28143"	Suppressed
+	"Mississippi"	"28"	"Union County, MS"	"28145"	34
+	"Mississippi"	"28"	"Walthall County, MS"	"28147"	26
+	"Mississippi"	"28"	"Warren County, MS"	"28149"	54
+	"Mississippi"	"28"	"Washington County, MS"	"28151"	31
+	"Mississippi"	"28"	"Wayne County, MS"	"28153"	30
+	"Mississippi"	"28"	"Webster County, MS"	"28155"	16
+	"Mississippi"	"28"	"Wilkinson County, MS"	"28157"	11
+	"Mississippi"	"28"	"Winston County, MS"	"28159"	27
+	"Mississippi"	"28"	"Yalobusha County, MS"	"28161"	18
+	"Mississippi"	"28"	"Yazoo County, MS"	"28163"	32
+	"Missouri"	"29"	"Adair County, MO"	"29001"	25
+	"Missouri"	"29"	"Andrew County, MO"	"29003"	11
+	"Missouri"	"29"	"Atchison County, MO"	"29005"	Suppressed
+	"Missouri"	"29"	"Audrain County, MO"	"29007"	24
+	"Missouri"	"29"	"Barry County, MO"	"29009"	39
+	"Missouri"	"29"	"Barton County, MO"	"29011"	16
+	"Missouri"	"29"	"Bates County, MO"	"29013"	29
+	"Missouri"	"29"	"Benton County, MO"	"29015"	38
+	"Missouri"	"29"	"Bollinger County, MO"	"29017"	16
+	"Missouri"	"29"	"Boone County, MO"	"29019"	114
+	"Missouri"	"29"	"Buchanan County, MO"	"29021"	100
+	"Missouri"	"29"	"Butler County, MO"	"29023"	52
+	"Missouri"	"29"	"Caldwell County, MO"	"29025"	11
+	"Missouri"	"29"	"Callaway County, MO"	"29027"	32
+	"Missouri"	"29"	"Camden County, MO"	"29029"	62
+	"Missouri"	"29"	"Cape Girardeau County, MO"	"29031"	69
+	"Missouri"	"29"	"Carroll County, MO"	"29033"	11
+	"Missouri"	"29"	"Carter County, MO"	"29035"	Suppressed
+	"Missouri"	"29"	"Cass County, MO"	"29037"	116
+	"Missouri"	"29"	"Cedar County, MO"	"29039"	25
+	"Missouri"	"29"	"Chariton County, MO"	"29041"	Suppressed
+	"Missouri"	"29"	"Christian County, MO"	"29043"	81
+	"Missouri"	"29"	"Clark County, MO"	"29045"	13
+	"Missouri"	"29"	"Clay County, MO"	"29047"	181
+	"Missouri"	"29"	"Clinton County, MO"	"29049"	33
+	"Missouri"	"29"	"Cole County, MO"	"29051"	78
+	"Missouri"	"29"	"Cooper County, MO"	"29053"	19
+	"Missouri"	"29"	"Crawford County, MO"	"29055"	34
+	"Missouri"	"29"	"Dade County, MO"	"29057"	12
+	"Missouri"	"29"	"Dallas County, MO"	"29059"	25
+	"Missouri"	"29"	"Daviess County, MO"	"29061"	11
+	"Missouri"	"29"	"DeKalb County, MO"	"29063"	12
+	"Missouri"	"29"	"Dent County, MO"	"29065"	26
+	"Missouri"	"29"	"Douglas County, MO"	"29067"	35
+	"Missouri"	"29"	"Dunklin County, MO"	"29069"	49
+	"Missouri"	"29"	"Franklin County, MO"	"29071"	113
+	"Missouri"	"29"	"Gasconade County, MO"	"29073"	22
+	"Missouri"	"29"	"Gentry County, MO"	"29075"	Suppressed
+	"Missouri"	"29"	"Greene County, MO"	"29077"	290
+	"Missouri"	"29"	"Grundy County, MO"	"29079"	14
+	"Missouri"	"29"	"Harrison County, MO"	"29081"	Suppressed
+	"Missouri"	"29"	"Henry County, MO"	"29083"	31
+	"Missouri"	"29"	"Hickory County, MO"	"29085"	13
+	"Missouri"	"29"	"Holt County, MO"	"29087"	Suppressed
+	"Missouri"	"29"	"Howard County, MO"	"29089"	Suppressed
+	"Missouri"	"29"	"Howell County, MO"	"29091"	55
+	"Missouri"	"29"	"Iron County, MO"	"29093"	18
+	"Missouri"	"29"	"Jackson County, MO"	"29095"	582
+	"Missouri"	"29"	"Jasper County, MO"	"29097"	128
+	"Missouri"	"29"	"Jefferson County, MO"	"29099"	199
+	"Missouri"	"29"	"Johnson County, MO"	"29101"	57
+	"Missouri"	"29"	"Knox County, MO"	"29103"	12
+	"Missouri"	"29"	"Laclede County, MO"	"29105"	51
+	"Missouri"	"29"	"Lafayette County, MO"	"29107"	50
+	"Missouri"	"29"	"Lawrence County, MO"	"29109"	42
+	"Missouri"	"29"	"Lewis County, MO"	"29111"	15
+	"Missouri"	"29"	"Lincoln County, MO"	"29113"	44
+	"Missouri"	"29"	"Linn County, MO"	"29115"	21
+	"Missouri"	"29"	"Livingston County, MO"	"29117"	18
+	"Missouri"	"29"	"McDonald County, MO"	"29119"	29
+	"Missouri"	"29"	"Macon County, MO"	"29121"	21
+	"Missouri"	"29"	"Madison County, MO"	"29123"	15
+	"Missouri"	"29"	"Maries County, MO"	"29125"	Suppressed
+	"Missouri"	"29"	"Marion County, MO"	"29127"	35
+	"Missouri"	"29"	"Mercer County, MO"	"29129"	Suppressed
+	"Missouri"	"29"	"Miller County, MO"	"29131"	33
+	"Missouri"	"29"	"Mississippi County, MO"	"29133"	10
+	"Missouri"	"29"	"Moniteau County, MO"	"29135"	19
+	"Missouri"	"29"	"Monroe County, MO"	"29137"	Suppressed
+	"Missouri"	"29"	"Montgomery County, MO"	"29139"	18
+	"Missouri"	"29"	"Morgan County, MO"	"29141"	34
+	"Missouri"	"29"	"New Madrid County, MO"	"29143"	16
+	"Missouri"	"29"	"Newton County, MO"	"29145"	72
+	"Missouri"	"29"	"Nodaway County, MO"	"29147"	34
+	"Missouri"	"29"	"Oregon County, MO"	"29149"	23
+	"Missouri"	"29"	"Osage County, MO"	"29151"	Suppressed
+	"Missouri"	"29"	"Ozark County, MO"	"29153"	15
+	"Missouri"	"29"	"Pemiscot County, MO"	"29155"	16
+	"Missouri"	"29"	"Perry County, MO"	"29157"	23
+	"Missouri"	"29"	"Pettis County, MO"	"29159"	50
+	"Missouri"	"29"	"Phelps County, MO"	"29161"	50
+	"Missouri"	"29"	"Pike County, MO"	"29163"	16
+	"Missouri"	"29"	"Platte County, MO"	"29165"	80
+	"Missouri"	"29"	"Polk County, MO"	"29167"	25
+	"Missouri"	"29"	"Pulaski County, MO"	"29169"	18
+	"Missouri"	"29"	"Putnam County, MO"	"29171"	Suppressed
+	"Missouri"	"29"	"Ralls County, MO"	"29173"	11
+	"Missouri"	"29"	"Randolph County, MO"	"29175"	34
+	"Missouri"	"29"	"Ray County, MO"	"29177"	30
+	"Missouri"	"29"	"Reynolds County, MO"	"29179"	Suppressed
+	"Missouri"	"29"	"Ripley County, MO"	"29181"	25
+	"Missouri"	"29"	"St. Charles County, MO"	"29183"	329
+	"Missouri"	"29"	"St. Clair County, MO"	"29185"	18
+	"Missouri"	"29"	"Ste. Genevieve County, MO"	"29186"	21
+	"Missouri"	"29"	"St. Francois County, MO"	"29187"	71
+	"Missouri"	"29"	"St. Louis County, MO"	"29189"	1010
+	"Missouri"	"29"	"Saline County, MO"	"29195"	24
+	"Missouri"	"29"	"Schuyler County, MO"	"29197"	Suppressed
+	"Missouri"	"29"	"Scotland County, MO"	"29199"	Suppressed
+	"Missouri"	"29"	"Scott County, MO"	"29201"	39
+	"Missouri"	"29"	"Shannon County, MO"	"29203"	Suppressed
+	"Missouri"	"29"	"Shelby County, MO"	"29205"	Suppressed
+	"Missouri"	"29"	"Stoddard County, MO"	"29207"	32
+	"Missouri"	"29"	"Stone County, MO"	"29209"	52
+	"Missouri"	"29"	"Sullivan County, MO"	"29211"	Suppressed
+	"Missouri"	"29"	"Taney County, MO"	"29213"	80
+	"Missouri"	"29"	"Texas County, MO"	"29215"	49
+	"Missouri"	"29"	"Vernon County, MO"	"29217"	28
+	"Missouri"	"29"	"Warren County, MO"	"29219"	30
+	"Missouri"	"29"	"Washington County, MO"	"29221"	25
+	"Missouri"	"29"	"Wayne County, MO"	"29223"	14
+	"Missouri"	"29"	"Webster County, MO"	"29225"	46
+	"Missouri"	"29"	"Worth County, MO"	"29227"	Suppressed
+	"Missouri"	"29"	"Wright County, MO"	"29229"	21
+	"Missouri"	"29"	"St. Louis city, MO"	"29510"	234
+	"Montana"	"30"	"Beaverhead County, MT"	"30001"	11
+	"Montana"	"30"	"Big Horn County, MT"	"30003"	10
+	"Montana"	"30"	"Blaine County, MT"	"30005"	Suppressed
+	"Montana"	"30"	"Broadwater County, MT"	"30007"	Suppressed
+	"Montana"	"30"	"Carbon County, MT"	"30009"	Suppressed
+	"Montana"	"30"	"Carter County, MT"	"30011"	Suppressed
+	"Montana"	"30"	"Cascade County, MT"	"30013"	67
+	"Montana"	"30"	"Chouteau County, MT"	"30015"	Suppressed
+	"Montana"	"30"	"Custer County, MT"	"30017"	12
+	"Montana"	"30"	"Daniels County, MT"	"30019"	Suppressed
+	"Montana"	"30"	"Dawson County, MT"	"30021"	Suppressed
+	"Montana"	"30"	"Deer Lodge County, MT"	"30023"	12
+	"Montana"	"30"	"Fallon County, MT"	"30025"	Suppressed
+	"Montana"	"30"	"Fergus County, MT"	"30027"	17
+	"Montana"	"30"	"Flathead County, MT"	"30029"	124
+	"Montana"	"30"	"Gallatin County, MT"	"30031"	73
+	"Montana"	"30"	"Garfield County, MT"	"30033"	0
+	"Montana"	"30"	"Glacier County, MT"	"30035"	Suppressed
+	"Montana"	"30"	"Golden Valley County, MT"	"30037"	Suppressed
+	"Montana"	"30"	"Granite County, MT"	"30039"	Suppressed
+	"Montana"	"30"	"Hill County, MT"	"30041"	19
+	"Montana"	"30"	"Jefferson County, MT"	"30043"	17
+	"Montana"	"30"	"Judith Basin County, MT"	"30045"	Suppressed
+	"Montana"	"30"	"Lake County, MT"	"30047"	30
+	"Montana"	"30"	"Lewis and Clark County, MT"	"30049"	77
+	"Montana"	"30"	"Liberty County, MT"	"30051"	Suppressed
+	"Montana"	"30"	"Lincoln County, MT"	"30053"	19
+	"Montana"	"30"	"McCone County, MT"	"30055"	Suppressed
+	"Montana"	"30"	"Madison County, MT"	"30057"	15
+	"Montana"	"30"	"Meagher County, MT"	"30059"	Suppressed
+	"Montana"	"30"	"Mineral County, MT"	"30061"	Suppressed
+	"Montana"	"30"	"Missoula County, MT"	"30063"	118
+	"Montana"	"30"	"Musselshell County, MT"	"30065"	Suppressed
+	"Montana"	"30"	"Park County, MT"	"30067"	16
+	"Montana"	"30"	"Petroleum County, MT"	"30069"	Suppressed
+	"Montana"	"30"	"Phillips County, MT"	"30071"	Suppressed
+	"Montana"	"30"	"Pondera County, MT"	"30073"	Suppressed
+	"Montana"	"30"	"Powder River County, MT"	"30075"	Suppressed
+	"Montana"	"30"	"Powell County, MT"	"30077"	10
+	"Montana"	"30"	"Prairie County, MT"	"30079"	Suppressed
+	"Montana"	"30"	"Ravalli County, MT"	"30081"	51
+	"Montana"	"30"	"Richland County, MT"	"30083"	11
+	"Montana"	"30"	"Roosevelt County, MT"	"30085"	Suppressed
+	"Montana"	"30"	"Rosebud County, MT"	"30087"	Suppressed
+	"Montana"	"30"	"Sanders County, MT"	"30089"	10
+	"Montana"	"30"	"Sheridan County, MT"	"30091"	Suppressed
+	"Montana"	"30"	"Silver Bow County, MT"	"30093"	57
+	"Montana"	"30"	"Stillwater County, MT"	"30095"	11
+	"Montana"	"30"	"Sweet Grass County, MT"	"30097"	Suppressed
+	"Montana"	"30"	"Teton County, MT"	"30099"	10
+	"Montana"	"30"	"Toole County, MT"	"30101"	Suppressed
+	"Montana"	"30"	"Treasure County, MT"	"30103"	Suppressed
+	"Montana"	"30"	"Valley County, MT"	"30105"	16
+	"Montana"	"30"	"Wheatland County, MT"	"30107"	Suppressed
+	"Montana"	"30"	"Wibaux County, MT"	"30109"	0
+	"Montana"	"30"	"Yellowstone County, MT"	"30111"	174
+	"Nebraska"	"31"	"Adams County, NE"	"31001"	33
+	"Nebraska"	"31"	"Antelope County, NE"	"31003"	Suppressed
+	"Nebraska"	"31"	"Arthur County, NE"	"31005"	0
+	"Nebraska"	"31"	"Banner County, NE"	"31007"	0
+	"Nebraska"	"31"	"Blaine County, NE"	"31009"	Suppressed
+	"Nebraska"	"31"	"Boone County, NE"	"31011"	12
+	"Nebraska"	"31"	"Box Butte County, NE"	"31013"	Suppressed
+	"Nebraska"	"31"	"Boyd County, NE"	"31015"	Suppressed
+	"Nebraska"	"31"	"Brown County, NE"	"31017"	Suppressed
+	"Nebraska"	"31"	"Buffalo County, NE"	"31019"	41
+	"Nebraska"	"31"	"Burt County, NE"	"31021"	Suppressed
+	"Nebraska"	"31"	"Butler County, NE"	"31023"	13
+	"Nebraska"	"31"	"Cass County, NE"	"31025"	28
+	"Nebraska"	"31"	"Cedar County, NE"	"31027"	Suppressed
+	"Nebraska"	"31"	"Chase County, NE"	"31029"	Suppressed
+	"Nebraska"	"31"	"Cherry County, NE"	"31031"	Suppressed
+	"Nebraska"	"31"	"Cheyenne County, NE"	"31033"	Suppressed
+	"Nebraska"	"31"	"Clay County, NE"	"31035"	Suppressed
+	"Nebraska"	"31"	"Colfax County, NE"	"31037"	Suppressed
+	"Nebraska"	"31"	"Cuming County, NE"	"31039"	12
+	"Nebraska"	"31"	"Custer County, NE"	"31041"	14
+	"Nebraska"	"31"	"Dakota County, NE"	"31043"	15
+	"Nebraska"	"31"	"Dawes County, NE"	"31045"	15
+	"Nebraska"	"31"	"Dawson County, NE"	"31047"	18
+	"Nebraska"	"31"	"Deuel County, NE"	"31049"	Suppressed
+	"Nebraska"	"31"	"Dixon County, NE"	"31051"	Suppressed
+	"Nebraska"	"31"	"Dodge County, NE"	"31053"	42
+	"Nebraska"	"31"	"Douglas County, NE"	"31055"	444
+	"Nebraska"	"31"	"Dundy County, NE"	"31057"	Suppressed
+	"Nebraska"	"31"	"Fillmore County, NE"	"31059"	13
+	"Nebraska"	"31"	"Franklin County, NE"	"31061"	Suppressed
+	"Nebraska"	"31"	"Frontier County, NE"	"31063"	Suppressed
+	"Nebraska"	"31"	"Furnas County, NE"	"31065"	Suppressed
+	"Nebraska"	"31"	"Gage County, NE"	"31067"	19
+	"Nebraska"	"31"	"Garden County, NE"	"31069"	Suppressed
+	"Nebraska"	"31"	"Garfield County, NE"	"31071"	Suppressed
+	"Nebraska"	"31"	"Gosper County, NE"	"31073"	Suppressed
+	"Nebraska"	"31"	"Grant County, NE"	"31075"	0
+	"Nebraska"	"31"	"Greeley County, NE"	"31077"	Suppressed
+	"Nebraska"	"31"	"Hall County, NE"	"31079"	63
+	"Nebraska"	"31"	"Hamilton County, NE"	"31081"	13
+	"Nebraska"	"31"	"Harlan County, NE"	"31083"	Suppressed
+	"Nebraska"	"31"	"Hayes County, NE"	"31085"	Suppressed
+	"Nebraska"	"31"	"Hitchcock County, NE"	"31087"	Suppressed
+	"Nebraska"	"31"	"Holt County, NE"	"31089"	Suppressed
+	"Nebraska"	"31"	"Hooker County, NE"	"31091"	Suppressed
+	"Nebraska"	"31"	"Howard County, NE"	"31093"	10
+	"Nebraska"	"31"	"Jefferson County, NE"	"31095"	11
+	"Nebraska"	"31"	"Johnson County, NE"	"31097"	Suppressed
+	"Nebraska"	"31"	"Kearney County, NE"	"31099"	Suppressed
+	"Nebraska"	"31"	"Keith County, NE"	"31101"	Suppressed
+	"Nebraska"	"31"	"Keya Paha County, NE"	"31103"	0
+	"Nebraska"	"31"	"Kimball County, NE"	"31105"	Suppressed
+	"Nebraska"	"31"	"Knox County, NE"	"31107"	10
+	"Nebraska"	"31"	"Lancaster County, NE"	"31109"	266
+	"Nebraska"	"31"	"Lincoln County, NE"	"31111"	37
+	"Nebraska"	"31"	"Logan County, NE"	"31113"	0
+	"Nebraska"	"31"	"Loup County, NE"	"31115"	0
+	"Nebraska"	"31"	"McPherson County, NE"	"31117"	Suppressed
+	"Nebraska"	"31"	"Madison County, NE"	"31119"	40
+	"Nebraska"	"31"	"Merrick County, NE"	"31121"	Suppressed
+	"Nebraska"	"31"	"Morrill County, NE"	"31123"	Suppressed
+	"Nebraska"	"31"	"Nance County, NE"	"31125"	Suppressed
+	"Nebraska"	"31"	"Nemaha County, NE"	"31127"	Suppressed
+	"Nebraska"	"31"	"Nuckolls County, NE"	"31129"	Suppressed
+	"Nebraska"	"31"	"Otoe County, NE"	"31131"	19
+	"Nebraska"	"31"	"Pawnee County, NE"	"31133"	Suppressed
+	"Nebraska"	"31"	"Perkins County, NE"	"31135"	Suppressed
+	"Nebraska"	"31"	"Phelps County, NE"	"31137"	12
+	"Nebraska"	"31"	"Pierce County, NE"	"31139"	Suppressed
+	"Nebraska"	"31"	"Platte County, NE"	"31141"	29
+	"Nebraska"	"31"	"Polk County, NE"	"31143"	12
+	"Nebraska"	"31"	"Red Willow County, NE"	"31145"	Suppressed
+	"Nebraska"	"31"	"Richardson County, NE"	"31147"	16
+	"Nebraska"	"31"	"Rock County, NE"	"31149"	Suppressed
+	"Nebraska"	"31"	"Saline County, NE"	"31151"	18
+	"Nebraska"	"31"	"Sarpy County, NE"	"31153"	116
+	"Nebraska"	"31"	"Saunders County, NE"	"31155"	21
+	"Nebraska"	"31"	"Scotts Bluff County, NE"	"31157"	39
+	"Nebraska"	"31"	"Seward County, NE"	"31159"	16
+	"Nebraska"	"31"	"Sheridan County, NE"	"31161"	Suppressed
+	"Nebraska"	"31"	"Sherman County, NE"	"31163"	Suppressed
+	"Nebraska"	"31"	"Sioux County, NE"	"31165"	Suppressed
+	"Nebraska"	"31"	"Stanton County, NE"	"31167"	Suppressed
+	"Nebraska"	"31"	"Thayer County, NE"	"31169"	Suppressed
+	"Nebraska"	"31"	"Thomas County, NE"	"31171"	Suppressed
+	"Nebraska"	"31"	"Thurston County, NE"	"31173"	Suppressed
+	"Nebraska"	"31"	"Valley County, NE"	"31175"	Suppressed
+	"Nebraska"	"31"	"Washington County, NE"	"31177"	13
+	"Nebraska"	"31"	"Wayne County, NE"	"31179"	12
+	"Nebraska"	"31"	"Webster County, NE"	"31181"	Suppressed
+	"Nebraska"	"31"	"Wheeler County, NE"	"31183"	0
+	"Nebraska"	"31"	"York County, NE"	"31185"	15
+	"Nevada"	"32"	"Churchill County, NV"	"32001"	39
+	"Nevada"	"32"	"Clark County, NV"	"32003"	1932
+	"Nevada"	"32"	"Douglas County, NV"	"32005"	72
+	"Nevada"	"32"	"Elko County, NV"	"32007"	36
+	"Nevada"	"32"	"Esmeralda County, NV"	"32009"	Suppressed
+	"Nevada"	"32"	"Eureka County, NV"	"32011"	0
+	"Nevada"	"32"	"Humboldt County, NV"	"32013"	10
+	"Nevada"	"32"	"Lander County, NV"	"32015"	Suppressed
+	"Nevada"	"32"	"Lincoln County, NV"	"32017"	Suppressed
+	"Nevada"	"32"	"Lyon County, NV"	"32019"	52
+	"Nevada"	"32"	"Mineral County, NV"	"32021"	Suppressed
+	"Nevada"	"32"	"Nye County, NV"	"32023"	118
+	"Nevada"	"32"	"Pershing County, NV"	"32027"	Suppressed
+	"Nevada"	"32"	"Storey County, NV"	"32029"	Suppressed
+	"Nevada"	"32"	"Washoe County, NV"	"32031"	454
+	"Nevada"	"32"	"White Pine County, NV"	"32033"	Suppressed
+	"Nevada"	"32"	"Carson City, NV"	"32510"	81
+	"New Hampshire"	"33"	"Belknap County, NH"	"33001"	90
+	"New Hampshire"	"33"	"Carroll County, NH"	"33003"	58
+	"New Hampshire"	"33"	"Cheshire County, NH"	"33005"	77
+	"New Hampshire"	"33"	"Coos County, NH"	"33007"	54
+	"New Hampshire"	"33"	"Grafton County, NH"	"33009"	72
+	"New Hampshire"	"33"	"Hillsborough County, NH"	"33011"	363
+	"New Hampshire"	"33"	"Merrimack County, NH"	"33013"	167
+	"New Hampshire"	"33"	"Rockingham County, NH"	"33015"	285
+	"New Hampshire"	"33"	"Strafford County, NH"	"33017"	93
+	"New Hampshire"	"33"	"Sullivan County, NH"	"33019"	38
+	"New Jersey"	"34"	"Atlantic County, NJ"	"34001"	254
+	"New Jersey"	"34"	"Bergen County, NJ"	"34003"	687
+	"New Jersey"	"34"	"Burlington County, NJ"	"34005"	451
+	"New Jersey"	"34"	"Camden County, NJ"	"34007"	474
+	"New Jersey"	"34"	"Cape May County, NJ"	"34009"	131
+	"New Jersey"	"34"	"Cumberland County, NJ"	"34011"	144
+	"New Jersey"	"34"	"Essex County, NJ"	"34013"	526
+	"New Jersey"	"34"	"Gloucester County, NJ"	"34015"	298
+	"New Jersey"	"34"	"Hudson County, NJ"	"34017"	359
+	"New Jersey"	"34"	"Hunterdon County, NJ"	"34019"	104
+	"New Jersey"	"34"	"Mercer County, NJ"	"34021"	295
+	"New Jersey"	"34"	"Middlesex County, NJ"	"34023"	634
+	"New Jersey"	"34"	"Monmouth County, NJ"	"34025"	600
+	"New Jersey"	"34"	"Morris County, NJ"	"34027"	379
+	"New Jersey"	"34"	"Ocean County, NJ"	"34029"	910
+	"New Jersey"	"34"	"Passaic County, NJ"	"34031"	362
+	"New Jersey"	"34"	"Salem County, NJ"	"34033"	69
+	"New Jersey"	"34"	"Somerset County, NJ"	"34035"	267
+	"New Jersey"	"34"	"Sussex County, NJ"	"34037"	133
+	"New Jersey"	"34"	"Union County, NJ"	"34039"	364
+	"New Jersey"	"34"	"Warren County, NJ"	"34041"	112
+	"New Mexico"	"35"	"Bernalillo County, NM"	"35001"	623
+	"New Mexico"	"35"	"Catron County, NM"	"35003"	12
+	"New Mexico"	"35"	"Chaves County, NM"	"35005"	83
+	"New Mexico"	"35"	"Cibola County, NM"	"35006"	28
+	"New Mexico"	"35"	"Colfax County, NM"	"35007"	17
+	"New Mexico"	"35"	"Curry County, NM"	"35009"	40
+	"New Mexico"	"35"	"DeBaca County, NM"	"35011"	Suppressed
+	"New Mexico"	"35"	"Dona Ana County, NM"	"35013"	207
+	"New Mexico"	"35"	"Eddy County, NM"	"35015"	72
+	"New Mexico"	"35"	"Grant County, NM"	"35017"	39
+	"New Mexico"	"35"	"Guadalupe County, NM"	"35019"	Suppressed
+	"New Mexico"	"35"	"Harding County, NM"	"35021"	Suppressed
+	"New Mexico"	"35"	"Hidalgo County, NM"	"35023"	Suppressed
+	"New Mexico"	"35"	"Lea County, NM"	"35025"	52
+	"New Mexico"	"35"	"Lincoln County, NM"	"35027"	25
+	"New Mexico"	"35"	"Los Alamos County, NM"	"35028"	11
+	"New Mexico"	"35"	"Luna County, NM"	"35029"	39
+	"New Mexico"	"35"	"McKinley County, NM"	"35031"	44
+	"New Mexico"	"35"	"Mora County, NM"	"35033"	Suppressed
+	"New Mexico"	"35"	"Otero County, NM"	"35035"	61
+	"New Mexico"	"35"	"Quay County, NM"	"35037"	14
+	"New Mexico"	"35"	"Rio Arriba County, NM"	"35039"	48
+	"New Mexico"	"35"	"Roosevelt County, NM"	"35041"	11
+	"New Mexico"	"35"	"Sandoval County, NM"	"35043"	123
+	"New Mexico"	"35"	"San Juan County, NM"	"35045"	78
+	"New Mexico"	"35"	"San Miguel County, NM"	"35047"	17
+	"New Mexico"	"35"	"Santa Fe County, NM"	"35049"	136
+	"New Mexico"	"35"	"Sierra County, NM"	"35051"	30
+	"New Mexico"	"35"	"Socorro County, NM"	"35053"	16
+	"New Mexico"	"35"	"Taos County, NM"	"35055"	27
+	"New Mexico"	"35"	"Torrance County, NM"	"35057"	21
+	"New Mexico"	"35"	"Union County, NM"	"35059"	Suppressed
+	"New Mexico"	"35"	"Valencia County, NM"	"35061"	68
+	"New York"	"36"	"Albany County, NY"	"36001"	285
+	"New York"	"36"	"Allegany County, NY"	"36003"	45
+	"New York"	"36"	"Bronx County, NY"	"36005"	1122
+	"New York"	"36"	"Broome County, NY"	"36007"	201
+	"New York"	"36"	"Cattaraugus County, NY"	"36009"	91
+	"New York"	"36"	"Cayuga County, NY"	"36011"	91
+	"New York"	"36"	"Chautauqua County, NY"	"36013"	140
+	"New York"	"36"	"Chemung County, NY"	"36015"	86
+	"New York"	"36"	"Chenango County, NY"	"36017"	69
+	"New York"	"36"	"Clinton County, NY"	"36019"	65
+	"New York"	"36"	"Columbia County, NY"	"36021"	74
+	"New York"	"36"	"Cortland County, NY"	"36023"	30
+	"New York"	"36"	"Delaware County, NY"	"36025"	64
+	"New York"	"36"	"Dutchess County, NY"	"36027"	341
+	"New York"	"36"	"Erie County, NY"	"36029"	944
+	"New York"	"36"	"Essex County, NY"	"36031"	32
+	"New York"	"36"	"Franklin County, NY"	"36033"	46
+	"New York"	"36"	"Fulton County, NY"	"36035"	84
+	"New York"	"36"	"Genesee County, NY"	"36037"	49
+	"New York"	"36"	"Greene County, NY"	"36039"	59
+	"New York"	"36"	"Hamilton County, NY"	"36041"	11
+	"New York"	"36"	"Herkimer County, NY"	"36043"	57
+	"New York"	"36"	"Jefferson County, NY"	"36045"	86
+	"New York"	"36"	"Kings County, NY"	"36047"	1851
+	"New York"	"36"	"Lewis County, NY"	"36049"	31
+	"New York"	"36"	"Livingston County, NY"	"36051"	54
+	"New York"	"36"	"Madison County, NY"	"36053"	68
+	"New York"	"36"	"Monroe County, NY"	"36055"	603
+	"New York"	"36"	"Montgomery County, NY"	"36057"	71
+	"New York"	"36"	"Nassau County, NY"	"36059"	1472
+	"New York"	"36"	"New York County, NY"	"36061"	1051
+	"New York"	"36"	"Niagara County, NY"	"36063"	267
+	"New York"	"36"	"Oneida County, NY"	"36065"	253
+	"New York"	"36"	"Onondaga County, NY"	"36067"	395
+	"New York"	"36"	"Ontario County, NY"	"36069"	116
+	"New York"	"36"	"Orange County, NY"	"36071"	272
+	"New York"	"36"	"Orleans County, NY"	"36073"	38
+	"New York"	"36"	"Oswego County, NY"	"36075"	111
+	"New York"	"36"	"Otsego County, NY"	"36077"	75
+	"New York"	"36"	"Putnam County, NY"	"36079"	71
+	"New York"	"36"	"Queens County, NY"	"36081"	1814
+	"New York"	"36"	"Rensselaer County, NY"	"36083"	157
+	"New York"	"36"	"Richmond County, NY"	"36085"	488
+	"New York"	"36"	"Rockland County, NY"	"36087"	233
+	"New York"	"36"	"St. Lawrence County, NY"	"36089"	104
+	"New York"	"36"	"Saratoga County, NY"	"36091"	199
+	"New York"	"36"	"Schenectady County, NY"	"36093"	167
+	"New York"	"36"	"Schoharie County, NY"	"36095"	22
+	"New York"	"36"	"Schuyler County, NY"	"36097"	24
+	"New York"	"36"	"Seneca County, NY"	"36099"	29
+	"New York"	"36"	"Steuben County, NY"	"36101"	136
+	"New York"	"36"	"Suffolk County, NY"	"36103"	1398
+	"New York"	"36"	"Sullivan County, NY"	"36105"	74
+	"New York"	"36"	"Tioga County, NY"	"36107"	53
+	"New York"	"36"	"Tompkins County, NY"	"36109"	77
+	"New York"	"36"	"Ulster County, NY"	"36111"	215
+	"New York"	"36"	"Warren County, NY"	"36113"	64
+	"New York"	"36"	"Washington County, NY"	"36115"	56
+	"New York"	"36"	"Wayne County, NY"	"36117"	98
+	"New York"	"36"	"Westchester County, NY"	"36119"	755
+	"New York"	"36"	"Wyoming County, NY"	"36121"	29
+	"New York"	"36"	"Yates County, NY"	"36123"	19
+	"North Carolina"	"37"	"Alamance County, NC"	"37001"	165
+	"North Carolina"	"37"	"Alexander County, NC"	"37003"	44
+	"North Carolina"	"37"	"Alleghany County, NC"	"37005"	21
+	"North Carolina"	"37"	"Anson County, NC"	"37007"	31
+	"North Carolina"	"37"	"Ashe County, NC"	"37009"	35
+	"North Carolina"	"37"	"Avery County, NC"	"37011"	31
+	"North Carolina"	"37"	"Beaufort County, NC"	"37013"	73
+	"North Carolina"	"37"	"Bertie County, NC"	"37015"	25
+	"North Carolina"	"37"	"Bladen County, NC"	"37017"	30
+	"North Carolina"	"37"	"Brunswick County, NC"	"37019"	183
+	"North Carolina"	"37"	"Buncombe County, NC"	"37021"	259
+	"North Carolina"	"37"	"Burke County, NC"	"37023"	122
+	"North Carolina"	"37"	"Cabarrus County, NC"	"37025"	143
+	"North Carolina"	"37"	"Caldwell County, NC"	"37027"	98
+	"North Carolina"	"37"	"Camden County, NC"	"37029"	Suppressed
+	"North Carolina"	"37"	"Carteret County, NC"	"37031"	86
+	"North Carolina"	"37"	"Caswell County, NC"	"37033"	27
+	"North Carolina"	"37"	"Catawba County, NC"	"37035"	165
+	"North Carolina"	"37"	"Chatham County, NC"	"37037"	76
+	"North Carolina"	"37"	"Cherokee County, NC"	"37039"	49
+	"North Carolina"	"37"	"Chowan County, NC"	"37041"	14
+	"North Carolina"	"37"	"Clay County, NC"	"37043"	14
+	"North Carolina"	"37"	"Cleveland County, NC"	"37045"	116
+	"North Carolina"	"37"	"Columbus County, NC"	"37047"	72
+	"North Carolina"	"37"	"Craven County, NC"	"37049"	120
+	"North Carolina"	"37"	"Cumberland County, NC"	"37051"	230
+	"North Carolina"	"37"	"Currituck County, NC"	"37053"	32
+	"North Carolina"	"37"	"Dare County, NC"	"37055"	33
+	"North Carolina"	"37"	"Davidson County, NC"	"37057"	187
+	"North Carolina"	"37"	"Davie County, NC"	"37059"	52
+	"North Carolina"	"37"	"Duplin County, NC"	"37061"	74
+	"North Carolina"	"37"	"Durham County, NC"	"37063"	191
+	"North Carolina"	"37"	"Edgecombe County, NC"	"37065"	72
+	"North Carolina"	"37"	"Forsyth County, NC"	"37067"	353
+	"North Carolina"	"37"	"Franklin County, NC"	"37069"	57
+	"North Carolina"	"37"	"Gaston County, NC"	"37071"	203
+	"North Carolina"	"37"	"Gates County, NC"	"37073"	14
+	"North Carolina"	"37"	"Graham County, NC"	"37075"	15
+	"North Carolina"	"37"	"Granville County, NC"	"37077"	53
+	"North Carolina"	"37"	"Greene County, NC"	"37079"	30
+	"North Carolina"	"37"	"Guilford County, NC"	"37081"	454
+	"North Carolina"	"37"	"Halifax County, NC"	"37083"	52
+	"North Carolina"	"37"	"Harnett County, NC"	"37085"	84
+	"North Carolina"	"37"	"Haywood County, NC"	"37087"	82
+	"North Carolina"	"37"	"Henderson County, NC"	"37089"	143
+	"North Carolina"	"37"	"Hertford County, NC"	"37091"	24
+	"North Carolina"	"37"	"Hoke County, NC"	"37093"	36
+	"North Carolina"	"37"	"Hyde County, NC"	"37095"	Suppressed
+	"North Carolina"	"37"	"Iredell County, NC"	"37097"	162
+	"North Carolina"	"37"	"Jackson County, NC"	"37099"	44
+	"North Carolina"	"37"	"Johnston County, NC"	"37101"	162
+	"North Carolina"	"37"	"Jones County, NC"	"37103"	16
+	"North Carolina"	"37"	"Lee County, NC"	"37105"	74
+	"North Carolina"	"37"	"Lenoir County, NC"	"37107"	99
+	"North Carolina"	"37"	"Lincoln County, NC"	"37109"	76
+	"North Carolina"	"37"	"McDowell County, NC"	"37111"	51
+	"North Carolina"	"37"	"Macon County, NC"	"37113"	43
+	"North Carolina"	"37"	"Madison County, NC"	"37115"	27
+	"North Carolina"	"37"	"Martin County, NC"	"37117"	30
+	"North Carolina"	"37"	"Mecklenburg County, NC"	"37119"	586
+	"North Carolina"	"37"	"Mitchell County, NC"	"37121"	23
+	"North Carolina"	"37"	"Montgomery County, NC"	"37123"	45
+	"North Carolina"	"37"	"Moore County, NC"	"37125"	141
+	"North Carolina"	"37"	"Nash County, NC"	"37127"	108
+	"North Carolina"	"37"	"New Hanover County, NC"	"37129"	180
+	"North Carolina"	"37"	"Northampton County, NC"	"37131"	35
+	"North Carolina"	"37"	"Onslow County, NC"	"37133"	104
+	"North Carolina"	"37"	"Orange County, NC"	"37135"	82
+	"North Carolina"	"37"	"Pamlico County, NC"	"37137"	35
+	"North Carolina"	"37"	"Pasquotank County, NC"	"37139"	39
+	"North Carolina"	"37"	"Pender County, NC"	"37141"	62
+	"North Carolina"	"37"	"Perquimans County, NC"	"37143"	26
+	"North Carolina"	"37"	"Person County, NC"	"37145"	47
+	"North Carolina"	"37"	"Pitt County, NC"	"37147"	149
+	"North Carolina"	"37"	"Polk County, NC"	"37149"	37
+	"North Carolina"	"37"	"Randolph County, NC"	"37151"	143
+	"North Carolina"	"37"	"Richmond County, NC"	"37153"	81
+	"North Carolina"	"37"	"Robeson County, NC"	"37155"	108
+	"North Carolina"	"37"	"Rockingham County, NC"	"37157"	111
+	"North Carolina"	"37"	"Rowan County, NC"	"37159"	141
+	"North Carolina"	"37"	"Rutherford County, NC"	"37161"	103
+	"North Carolina"	"37"	"Sampson County, NC"	"37163"	63
+	"North Carolina"	"37"	"Scotland County, NC"	"37165"	53
+	"North Carolina"	"37"	"Stanly County, NC"	"37167"	82
+	"North Carolina"	"37"	"Stokes County, NC"	"37169"	57
+	"North Carolina"	"37"	"Surry County, NC"	"37171"	72
+	"North Carolina"	"37"	"Swain County, NC"	"37173"	20
+	"North Carolina"	"37"	"Transylvania County, NC"	"37175"	42
+	"North Carolina"	"37"	"Tyrrell County, NC"	"37177"	Suppressed
+	"North Carolina"	"37"	"Union County, NC"	"37179"	151
+	"North Carolina"	"37"	"Vance County, NC"	"37181"	51
+	"North Carolina"	"37"	"Wake County, NC"	"37183"	697
+	"North Carolina"	"37"	"Warren County, NC"	"37185"	29
+	"North Carolina"	"37"	"Washington County, NC"	"37187"	18
+	"North Carolina"	"37"	"Watauga County, NC"	"37189"	34
+	"North Carolina"	"37"	"Wayne County, NC"	"37191"	144
+	"North Carolina"	"37"	"Wilkes County, NC"	"37193"	99
+	"North Carolina"	"37"	"Wilson County, NC"	"37195"	77
+	"North Carolina"	"37"	"Yadkin County, NC"	"37197"	52
+	"North Carolina"	"37"	"Yancey County, NC"	"37199"	12
+	"North Dakota"	"38"	"Adams County, ND"	"38001"	Suppressed
+	"North Dakota"	"38"	"Barnes County, ND"	"38003"	12
+	"North Dakota"	"38"	"Benson County, ND"	"38005"	Suppressed
+	"North Dakota"	"38"	"Billings County, ND"	"38007"	0
+	"North Dakota"	"38"	"Bottineau County, ND"	"38009"	Suppressed
+	"North Dakota"	"38"	"Bowman County, ND"	"38011"	Suppressed
+	"North Dakota"	"38"	"Burke County, ND"	"38013"	Suppressed
+	"North Dakota"	"38"	"Burleigh County, ND"	"38015"	99
+	"North Dakota"	"38"	"Cass County, ND"	"38017"	112
+	"North Dakota"	"38"	"Cavalier County, ND"	"38019"	13
+	"North Dakota"	"38"	"Dickey County, ND"	"38021"	10
+	"North Dakota"	"38"	"Divide County, ND"	"38023"	Suppressed
+	"North Dakota"	"38"	"Dunn County, ND"	"38025"	Suppressed
+	"North Dakota"	"38"	"Eddy County, ND"	"38027"	Suppressed
+	"North Dakota"	"38"	"Emmons County, ND"	"38029"	Suppressed
+	"North Dakota"	"38"	"Foster County, ND"	"38031"	Suppressed
+	"North Dakota"	"38"	"Golden Valley County, ND"	"38033"	0
+	"North Dakota"	"38"	"Grand Forks County, ND"	"38035"	48
+	"North Dakota"	"38"	"Grant County, ND"	"38037"	Suppressed
+	"North Dakota"	"38"	"Griggs County, ND"	"38039"	Suppressed
+	"North Dakota"	"38"	"Hettinger County, ND"	"38041"	0
+	"North Dakota"	"38"	"Kidder County, ND"	"38043"	Suppressed
+	"North Dakota"	"38"	"LaMoure County, ND"	"38045"	Suppressed
+	"North Dakota"	"38"	"Logan County, ND"	"38047"	Suppressed
+	"North Dakota"	"38"	"McHenry County, ND"	"38049"	Suppressed
+	"North Dakota"	"38"	"McIntosh County, ND"	"38051"	Suppressed
+	"North Dakota"	"38"	"McKenzie County, ND"	"38053"	Suppressed
+	"North Dakota"	"38"	"McLean County, ND"	"38055"	14
+	"North Dakota"	"38"	"Mercer County, ND"	"38057"	10
+	"North Dakota"	"38"	"Morton County, ND"	"38059"	44
+	"North Dakota"	"38"	"Mountrail County, ND"	"38061"	Suppressed
+	"North Dakota"	"38"	"Nelson County, ND"	"38063"	Suppressed
+	"North Dakota"	"38"	"Oliver County, ND"	"38065"	Suppressed
+	"North Dakota"	"38"	"Pembina County, ND"	"38067"	Suppressed
+	"North Dakota"	"38"	"Pierce County, ND"	"38069"	Suppressed
+	"North Dakota"	"38"	"Ramsey County, ND"	"38071"	Suppressed
+	"North Dakota"	"38"	"Ransom County, ND"	"38073"	Suppressed
+	"North Dakota"	"38"	"Renville County, ND"	"38075"	Suppressed
+	"North Dakota"	"38"	"Richland County, ND"	"38077"	22
+	"North Dakota"	"38"	"Rolette County, ND"	"38079"	12
+	"North Dakota"	"38"	"Sargent County, ND"	"38081"	Suppressed
+	"North Dakota"	"38"	"Sheridan County, ND"	"38083"	Suppressed
+	"North Dakota"	"38"	"Sioux County, ND"	"38085"	Suppressed
+	"North Dakota"	"38"	"Slope County, ND"	"38087"	0
+	"North Dakota"	"38"	"Stark County, ND"	"38089"	21
+	"North Dakota"	"38"	"Steele County, ND"	"38091"	Suppressed
+	"North Dakota"	"38"	"Stutsman County, ND"	"38093"	26
+	"North Dakota"	"38"	"Towner County, ND"	"38095"	Suppressed
+	"North Dakota"	"38"	"Traill County, ND"	"38097"	Suppressed
+	"North Dakota"	"38"	"Walsh County, ND"	"38099"	12
+	"North Dakota"	"38"	"Ward County, ND"	"38101"	35
+	"North Dakota"	"38"	"Wells County, ND"	"38103"	Suppressed
+	"North Dakota"	"38"	"Williams County, ND"	"38105"	17
+	"Ohio"	"39"	"Adams County, OH"	"39001"	30
+	"Ohio"	"39"	"Allen County, OH"	"39003"	136
+	"Ohio"	"39"	"Ashland County, OH"	"39005"	57
+	"Ohio"	"39"	"Ashtabula County, OH"	"39007"	138
+	"Ohio"	"39"	"Athens County, OH"	"39009"	52
+	"Ohio"	"39"	"Auglaize County, OH"	"39011"	68
+	"Ohio"	"39"	"Belmont County, OH"	"39013"	103
+	"Ohio"	"39"	"Brown County, OH"	"39015"	49
+	"Ohio"	"39"	"Butler County, OH"	"39017"	352
+	"Ohio"	"39"	"Carroll County, OH"	"39019"	41
+	"Ohio"	"39"	"Champaign County, OH"	"39021"	52
+	"Ohio"	"39"	"Clark County, OH"	"39023"	172
+	"Ohio"	"39"	"Clermont County, OH"	"39025"	179
+	"Ohio"	"39"	"Clinton County, OH"	"39027"	48
+	"Ohio"	"39"	"Columbiana County, OH"	"39029"	107
+	"Ohio"	"39"	"Coshocton County, OH"	"39031"	36
+	"Ohio"	"39"	"Crawford County, OH"	"39033"	50
+	"Ohio"	"39"	"Cuyahoga County, OH"	"39035"	1347
+	"Ohio"	"39"	"Darke County, OH"	"39037"	59
+	"Ohio"	"39"	"Defiance County, OH"	"39039"	45
+	"Ohio"	"39"	"Delaware County, OH"	"39041"	159
+	"Ohio"	"39"	"Erie County, OH"	"39043"	88
+	"Ohio"	"39"	"Fairfield County, OH"	"39045"	131
+	"Ohio"	"39"	"Fayette County, OH"	"39047"	40
+	"Ohio"	"39"	"Franklin County, OH"	"39049"	864
+	"Ohio"	"39"	"Fulton County, OH"	"39051"	50
+	"Ohio"	"39"	"Gallia County, OH"	"39053"	46
+	"Ohio"	"39"	"Geauga County, OH"	"39055"	97
+	"Ohio"	"39"	"Greene County, OH"	"39057"	194
+	"Ohio"	"39"	"Guernsey County, OH"	"39059"	65
+	"Ohio"	"39"	"Hamilton County, OH"	"39061"	795
+	"Ohio"	"39"	"Hancock County, OH"	"39063"	71
+	"Ohio"	"39"	"Hardin County, OH"	"39065"	40
+	"Ohio"	"39"	"Harrison County, OH"	"39067"	21
+	"Ohio"	"39"	"Henry County, OH"	"39069"	30
+	"Ohio"	"39"	"Highland County, OH"	"39071"	52
+	"Ohio"	"39"	"Hocking County, OH"	"39073"	30
+	"Ohio"	"39"	"Holmes County, OH"	"39075"	43
+	"Ohio"	"39"	"Huron County, OH"	"39077"	61
+	"Ohio"	"39"	"Jackson County, OH"	"39079"	41
+	"Ohio"	"39"	"Jefferson County, OH"	"39081"	104
+	"Ohio"	"39"	"Knox County, OH"	"39083"	89
+	"Ohio"	"39"	"Lake County, OH"	"39085"	275
+	"Ohio"	"39"	"Lawrence County, OH"	"39087"	82
+	"Ohio"	"39"	"Licking County, OH"	"39089"	146
+	"Ohio"	"39"	"Logan County, OH"	"39091"	57
+	"Ohio"	"39"	"Lorain County, OH"	"39093"	323
+	"Ohio"	"39"	"Lucas County, OH"	"39095"	468
+	"Ohio"	"39"	"Madison County, OH"	"39097"	37
+	"Ohio"	"39"	"Mahoning County, OH"	"39099"	332
+	"Ohio"	"39"	"Marion County, OH"	"39101"	70
+	"Ohio"	"39"	"Medina County, OH"	"39103"	180
+	"Ohio"	"39"	"Meigs County, OH"	"39105"	27
+	"Ohio"	"39"	"Mercer County, OH"	"39107"	73
+	"Ohio"	"39"	"Miami County, OH"	"39109"	167
+	"Ohio"	"39"	"Monroe County, OH"	"39111"	17
+	"Ohio"	"39"	"Montgomery County, OH"	"39113"	596
+	"Ohio"	"39"	"Morgan County, OH"	"39115"	18
+	"Ohio"	"39"	"Morrow County, OH"	"39117"	40
+	"Ohio"	"39"	"Muskingum County, OH"	"39119"	108
+	"Ohio"	"39"	"Noble County, OH"	"39121"	12
+	"Ohio"	"39"	"Ottawa County, OH"	"39123"	48
+	"Ohio"	"39"	"Paulding County, OH"	"39125"	22
+	"Ohio"	"39"	"Perry County, OH"	"39127"	32
+	"Ohio"	"39"	"Pickaway County, OH"	"39129"	59
+	"Ohio"	"39"	"Pike County, OH"	"39131"	26
+	"Ohio"	"39"	"Portage County, OH"	"39133"	204
+	"Ohio"	"39"	"Preble County, OH"	"39135"	56
+	"Ohio"	"39"	"Putnam County, OH"	"39137"	41
+	"Ohio"	"39"	"Richland County, OH"	"39139"	123
+	"Ohio"	"39"	"Ross County, OH"	"39141"	85
+	"Ohio"	"39"	"Sandusky County, OH"	"39143"	64
+	"Ohio"	"39"	"Scioto County, OH"	"39145"	88
+	"Ohio"	"39"	"Seneca County, OH"	"39147"	57
+	"Ohio"	"39"	"Shelby County, OH"	"39149"	56
+	"Ohio"	"39"	"Stark County, OH"	"39151"	427
+	"Ohio"	"39"	"Summit County, OH"	"39153"	617
+	"Ohio"	"39"	"Trumbull County, OH"	"39155"	330
+	"Ohio"	"39"	"Tuscarawas County, OH"	"39157"	114
+	"Ohio"	"39"	"Union County, OH"	"39159"	43
+	"Ohio"	"39"	"Van Wert County, OH"	"39161"	34
+	"Ohio"	"39"	"Vinton County, OH"	"39163"	15
+	"Ohio"	"39"	"Warren County, OH"	"39165"	227
+	"Ohio"	"39"	"Washington County, OH"	"39167"	72
+	"Ohio"	"39"	"Wayne County, OH"	"39169"	124
+	"Ohio"	"39"	"Williams County, OH"	"39171"	31
+	"Ohio"	"39"	"Wood County, OH"	"39173"	135
+	"Ohio"	"39"	"Wyandot County, OH"	"39175"	34
+	"Oklahoma"	"40"	"Adair County, OK"	"40001"	34
+	"Oklahoma"	"40"	"Alfalfa County, OK"	"40003"	Suppressed
+	"Oklahoma"	"40"	"Atoka County, OK"	"40005"	18
+	"Oklahoma"	"40"	"Beaver County, OK"	"40007"	Suppressed
+	"Oklahoma"	"40"	"Beckham County, OK"	"40009"	30
+	"Oklahoma"	"40"	"Blaine County, OK"	"40011"	12
+	"Oklahoma"	"40"	"Bryan County, OK"	"40013"	64
+	"Oklahoma"	"40"	"Caddo County, OK"	"40015"	34
+	"Oklahoma"	"40"	"Canadian County, OK"	"40017"	127
+	"Oklahoma"	"40"	"Carter County, OK"	"40019"	68
+	"Oklahoma"	"40"	"Cherokee County, OK"	"40021"	60
+	"Oklahoma"	"40"	"Choctaw County, OK"	"40023"	21
+	"Oklahoma"	"40"	"Cimarron County, OK"	"40025"	Suppressed
+	"Oklahoma"	"40"	"Cleveland County, OK"	"40027"	241
+	"Oklahoma"	"40"	"Coal County, OK"	"40029"	Suppressed
+	"Oklahoma"	"40"	"Comanche County, OK"	"40031"	104
+	"Oklahoma"	"40"	"Cotton County, OK"	"40033"	Suppressed
+	"Oklahoma"	"40"	"Craig County, OK"	"40035"	22
+	"Oklahoma"	"40"	"Creek County, OK"	"40037"	88
+	"Oklahoma"	"40"	"Custer County, OK"	"40039"	28
+	"Oklahoma"	"40"	"Delaware County, OK"	"40041"	67
+	"Oklahoma"	"40"	"Dewey County, OK"	"40043"	Suppressed
+	"Oklahoma"	"40"	"Ellis County, OK"	"40045"	Suppressed
+	"Oklahoma"	"40"	"Garfield County, OK"	"40047"	54
+	"Oklahoma"	"40"	"Garvin County, OK"	"40049"	35
+	"Oklahoma"	"40"	"Grady County, OK"	"40051"	54
+	"Oklahoma"	"40"	"Grant County, OK"	"40053"	Suppressed
+	"Oklahoma"	"40"	"Greer County, OK"	"40055"	Suppressed
+	"Oklahoma"	"40"	"Harmon County, OK"	"40057"	Suppressed
+	"Oklahoma"	"40"	"Harper County, OK"	"40059"	Suppressed
+	"Oklahoma"	"40"	"Haskell County, OK"	"40061"	15
+	"Oklahoma"	"40"	"Hughes County, OK"	"40063"	18
+	"Oklahoma"	"40"	"Jackson County, OK"	"40065"	21
+	"Oklahoma"	"40"	"Jefferson County, OK"	"40067"	Suppressed
+	"Oklahoma"	"40"	"Johnston County, OK"	"40069"	14
+	"Oklahoma"	"40"	"Kay County, OK"	"40071"	49
+	"Oklahoma"	"40"	"Kingfisher County, OK"	"40073"	17
+	"Oklahoma"	"40"	"Kiowa County, OK"	"40075"	13
+	"Oklahoma"	"40"	"Latimer County, OK"	"40077"	14
+	"Oklahoma"	"40"	"Le Flore County, OK"	"40079"	66
+	"Oklahoma"	"40"	"Lincoln County, OK"	"40081"	45
+	"Oklahoma"	"40"	"Logan County, OK"	"40083"	40
+	"Oklahoma"	"40"	"Love County, OK"	"40085"	Suppressed
+	"Oklahoma"	"40"	"McClain County, OK"	"40087"	47
+	"Oklahoma"	"40"	"McCurtain County, OK"	"40089"	53
+	"Oklahoma"	"40"	"McIntosh County, OK"	"40091"	37
+	"Oklahoma"	"40"	"Major County, OK"	"40093"	Suppressed
+	"Oklahoma"	"40"	"Marshall County, OK"	"40095"	26
+	"Oklahoma"	"40"	"Mayes County, OK"	"40097"	43
+	"Oklahoma"	"40"	"Murray County, OK"	"40099"	19
+	"Oklahoma"	"40"	"Muskogee County, OK"	"40101"	96
+	"Oklahoma"	"40"	"Noble County, OK"	"40103"	16
+	"Oklahoma"	"40"	"Nowata County, OK"	"40105"	21
+	"Oklahoma"	"40"	"Okfuskee County, OK"	"40107"	20
+	"Oklahoma"	"40"	"Oklahoma County, OK"	"40109"	759
+	"Oklahoma"	"40"	"Okmulgee County, OK"	"40111"	53
+	"Oklahoma"	"40"	"Osage County, OK"	"40113"	49
+	"Oklahoma"	"40"	"Ottawa County, OK"	"40115"	56
+	"Oklahoma"	"40"	"Pawnee County, OK"	"40117"	32
+	"Oklahoma"	"40"	"Payne County, OK"	"40119"	62
+	"Oklahoma"	"40"	"Pittsburg County, OK"	"40121"	69
+	"Oklahoma"	"40"	"Pontotoc County, OK"	"40123"	54
+	"Oklahoma"	"40"	"Pottawatomie County, OK"	"40125"	103
+	"Oklahoma"	"40"	"Pushmataha County, OK"	"40127"	25
+	"Oklahoma"	"40"	"Roger Mills County, OK"	"40129"	Suppressed
+	"Oklahoma"	"40"	"Rogers County, OK"	"40131"	120
+	"Oklahoma"	"40"	"Seminole County, OK"	"40133"	40
+	"Oklahoma"	"40"	"Sequoyah County, OK"	"40135"	66
+	"Oklahoma"	"40"	"Stephens County, OK"	"40137"	82
+	"Oklahoma"	"40"	"Texas County, OK"	"40139"	14
+	"Oklahoma"	"40"	"Tillman County, OK"	"40141"	11
+	"Oklahoma"	"40"	"Tulsa County, OK"	"40143"	765
+	"Oklahoma"	"40"	"Wagoner County, OK"	"40145"	85
+	"Oklahoma"	"40"	"Washington County, OK"	"40147"	84
+	"Oklahoma"	"40"	"Washita County, OK"	"40149"	Suppressed
+	"Oklahoma"	"40"	"Woods County, OK"	"40151"	17
+	"Oklahoma"	"40"	"Woodward County, OK"	"40153"	24
+	"Oregon"	"41"	"Baker County, OR"	"41001"	26
+	"Oregon"	"41"	"Benton County, OR"	"41003"	76
+	"Oregon"	"41"	"Clackamas County, OR"	"41005"	377
+	"Oregon"	"41"	"Clatsop County, OR"	"41007"	38
+	"Oregon"	"41"	"Columbia County, OR"	"41009"	62
+	"Oregon"	"41"	"Coos County, OR"	"41011"	93
+	"Oregon"	"41"	"Crook County, OR"	"41013"	25
+	"Oregon"	"41"	"Curry County, OR"	"41015"	40
+	"Oregon"	"41"	"Deschutes County, OR"	"41017"	174
+	"Oregon"	"41"	"Douglas County, OR"	"41019"	180
+	"Oregon"	"41"	"Gilliam County, OR"	"41021"	Suppressed
+	"Oregon"	"41"	"Grant County, OR"	"41023"	15
+	"Oregon"	"41"	"Harney County, OR"	"41025"	14
+	"Oregon"	"41"	"Hood River County, OR"	"41027"	22
+	"Oregon"	"41"	"Jackson County, OR"	"41029"	242
+	"Oregon"	"41"	"Jefferson County, OR"	"41031"	20
+	"Oregon"	"41"	"Josephine County, OR"	"41033"	106
+	"Oregon"	"41"	"Klamath County, OR"	"41035"	105
+	"Oregon"	"41"	"Lake County, OR"	"41037"	Suppressed
+	"Oregon"	"41"	"Lane County, OR"	"41039"	392
+	"Oregon"	"41"	"Lincoln County, OR"	"41041"	67
+	"Oregon"	"41"	"Linn County, OR"	"41043"	153
+	"Oregon"	"41"	"Malheur County, OR"	"41045"	31
+	"Oregon"	"41"	"Marion County, OR"	"41047"	294
+	"Oregon"	"41"	"Morrow County, OR"	"41049"	Suppressed
+	"Oregon"	"41"	"Multnomah County, OR"	"41051"	502
+	"Oregon"	"41"	"Polk County, OR"	"41053"	92
+	"Oregon"	"41"	"Sherman County, OR"	"41055"	0
+	"Oregon"	"41"	"Tillamook County, OR"	"41057"	36
+	"Oregon"	"41"	"Umatilla County, OR"	"41059"	63
+	"Oregon"	"41"	"Union County, OR"	"41061"	29
+	"Oregon"	"41"	"Wallowa County, OR"	"41063"	Suppressed
+	"Oregon"	"41"	"Wasco County, OR"	"41065"	34
+	"Oregon"	"41"	"Washington County, OR"	"41067"	355
+	"Oregon"	"41"	"Wheeler County, OR"	"41069"	Suppressed
+	"Oregon"	"41"	"Yamhill County, OR"	"41071"	112
+	"Pennsylvania"	"42"	"Adams County, PA"	"42001"	119
+	"Pennsylvania"	"42"	"Allegheny County, PA"	"42003"	1369
+	"Pennsylvania"	"42"	"Armstrong County, PA"	"42005"	97
+	"Pennsylvania"	"42"	"Beaver County, PA"	"42007"	241
+	"Pennsylvania"	"42"	"Bedford County, PA"	"42009"	55
+	"Pennsylvania"	"42"	"Berks County, PA"	"42011"	391
+	"Pennsylvania"	"42"	"Blair County, PA"	"42013"	145
+	"Pennsylvania"	"42"	"Bradford County, PA"	"42015"	72
+	"Pennsylvania"	"42"	"Bucks County, PA"	"42017"	604
+	"Pennsylvania"	"42"	"Butler County, PA"	"42019"	246
+	"Pennsylvania"	"42"	"Cambria County, PA"	"42021"	173
+	"Pennsylvania"	"42"	"Cameron County, PA"	"42023"	Suppressed
+	"Pennsylvania"	"42"	"Carbon County, PA"	"42025"	89
+	"Pennsylvania"	"42"	"Centre County, PA"	"42027"	112
+	"Pennsylvania"	"42"	"Chester County, PA"	"42029"	458
+	"Pennsylvania"	"42"	"Clarion County, PA"	"42031"	48
+	"Pennsylvania"	"42"	"Clearfield County, PA"	"42033"	81
+	"Pennsylvania"	"42"	"Clinton County, PA"	"42035"	51
+	"Pennsylvania"	"42"	"Columbia County, PA"	"42037"	67
+	"Pennsylvania"	"42"	"Crawford County, PA"	"42039"	114
+	"Pennsylvania"	"42"	"Cumberland County, PA"	"42041"	259
+	"Pennsylvania"	"42"	"Dauphin County, PA"	"42043"	233
+	"Pennsylvania"	"42"	"Delaware County, PA"	"42045"	518
+	"Pennsylvania"	"42"	"Elk County, PA"	"42047"	45
+	"Pennsylvania"	"42"	"Erie County, PA"	"42049"	238
+	"Pennsylvania"	"42"	"Fayette County, PA"	"42051"	239
+	"Pennsylvania"	"42"	"Forest County, PA"	"42053"	10
+	"Pennsylvania"	"42"	"Franklin County, PA"	"42055"	171
+	"Pennsylvania"	"42"	"Fulton County, PA"	"42057"	15
+	"Pennsylvania"	"42"	"Greene County, PA"	"42059"	47
+	"Pennsylvania"	"42"	"Huntingdon County, PA"	"42061"	41
+	"Pennsylvania"	"42"	"Indiana County, PA"	"42063"	102
+	"Pennsylvania"	"42"	"Jefferson County, PA"	"42065"	67
+	"Pennsylvania"	"42"	"Juniata County, PA"	"42067"	33
+	"Pennsylvania"	"42"	"Lackawanna County, PA"	"42069"	296
+	"Pennsylvania"	"42"	"Lancaster County, PA"	"42071"	546
+	"Pennsylvania"	"42"	"Lawrence County, PA"	"42073"	128
+	"Pennsylvania"	"42"	"Lebanon County, PA"	"42075"	174
+	"Pennsylvania"	"42"	"Lehigh County, PA"	"42077"	352
+	"Pennsylvania"	"42"	"Luzerne County, PA"	"42079"	370
+	"Pennsylvania"	"42"	"Lycoming County, PA"	"42081"	114
+	"Pennsylvania"	"42"	"Mc Kean County, PA"	"42083"	55
+	"Pennsylvania"	"42"	"Mercer County, PA"	"42085"	164
+	"Pennsylvania"	"42"	"Mifflin County, PA"	"42087"	49
+	"Pennsylvania"	"42"	"Monroe County, PA"	"42089"	134
+	"Pennsylvania"	"42"	"Montgomery County, PA"	"42091"	863
+	"Pennsylvania"	"42"	"Montour County, PA"	"42093"	18
+	"Pennsylvania"	"42"	"Northampton County, PA"	"42095"	273
+	"Pennsylvania"	"42"	"Northumberland County, PA"	"42097"	122
+	"Pennsylvania"	"42"	"Perry County, PA"	"42099"	40
+	"Pennsylvania"	"42"	"Philadelphia County, PA"	"42101"	1255
+	"Pennsylvania"	"42"	"Pike County, PA"	"42103"	68
+	"Pennsylvania"	"42"	"Potter County, PA"	"42105"	22
+	"Pennsylvania"	"42"	"Schuylkill County, PA"	"42107"	189
+	"Pennsylvania"	"42"	"Snyder County, PA"	"42109"	45
+	"Pennsylvania"	"42"	"Somerset County, PA"	"42111"	87
+	"Pennsylvania"	"42"	"Sullivan County, PA"	"42113"	12
+	"Pennsylvania"	"42"	"Susquehanna County, PA"	"42115"	41
+	"Pennsylvania"	"42"	"Tioga County, PA"	"42117"	57
+	"Pennsylvania"	"42"	"Union County, PA"	"42119"	37
+	"Pennsylvania"	"42"	"Venango County, PA"	"42121"	53
+	"Pennsylvania"	"42"	"Warren County, PA"	"42123"	44
+	"Pennsylvania"	"42"	"Washington County, PA"	"42125"	237
+	"Pennsylvania"	"42"	"Wayne County, PA"	"42127"	68
+	"Pennsylvania"	"42"	"Westmoreland County, PA"	"42129"	464
+	"Pennsylvania"	"42"	"Wyoming County, PA"	"42131"	35
+	"Pennsylvania"	"42"	"York County, PA"	"42133"	384
+	"Rhode Island"	"44"	"Bristol County, RI"	"44001"	42
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	200
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	88
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	577
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	119
+	"South Carolina"	"45"	"Abbeville County, SC"	"45001"	26
+	"South Carolina"	"45"	"Aiken County, SC"	"45003"	206
+	"South Carolina"	"45"	"Allendale County, SC"	"45005"	Suppressed
+	"South Carolina"	"45"	"Anderson County, SC"	"45007"	239
+	"South Carolina"	"45"	"Bamberg County, SC"	"45009"	21
+	"South Carolina"	"45"	"Barnwell County, SC"	"45011"	20
+	"South Carolina"	"45"	"Beaufort County, SC"	"45013"	196
+	"South Carolina"	"45"	"Berkeley County, SC"	"45015"	170
+	"South Carolina"	"45"	"Calhoun County, SC"	"45017"	17
+	"South Carolina"	"45"	"Charleston County, SC"	"45019"	331
+	"South Carolina"	"45"	"Cherokee County, SC"	"45021"	61
+	"South Carolina"	"45"	"Chester County, SC"	"45023"	30
+	"South Carolina"	"45"	"Chesterfield County, SC"	"45025"	68
+	"South Carolina"	"45"	"Clarendon County, SC"	"45027"	40
+	"South Carolina"	"45"	"Colleton County, SC"	"45029"	62
+	"South Carolina"	"45"	"Darlington County, SC"	"45031"	112
+	"South Carolina"	"45"	"Dillon County, SC"	"45033"	46
+	"South Carolina"	"45"	"Dorchester County, SC"	"45035"	114
+	"South Carolina"	"45"	"Edgefield County, SC"	"45037"	27
+	"South Carolina"	"45"	"Fairfield County, SC"	"45039"	21
+	"South Carolina"	"45"	"Florence County, SC"	"45041"	211
+	"South Carolina"	"45"	"Georgetown County, SC"	"45043"	99
+	"South Carolina"	"45"	"Greenville County, SC"	"45045"	406
+	"South Carolina"	"45"	"Greenwood County, SC"	"45047"	68
+	"South Carolina"	"45"	"Hampton County, SC"	"45049"	21
+	"South Carolina"	"45"	"Horry County, SC"	"45051"	460
+	"South Carolina"	"45"	"Jasper County, SC"	"45053"	21
+	"South Carolina"	"45"	"Kershaw County, SC"	"45055"	72
+	"South Carolina"	"45"	"Lancaster County, SC"	"45057"	110
+	"South Carolina"	"45"	"Laurens County, SC"	"45059"	75
+	"South Carolina"	"45"	"Lee County, SC"	"45061"	24
+	"South Carolina"	"45"	"Lexington County, SC"	"45063"	245
+	"South Carolina"	"45"	"McCormick County, SC"	"45065"	12
+	"South Carolina"	"45"	"Marion County, SC"	"45067"	56
+	"South Carolina"	"45"	"Marlboro County, SC"	"45069"	35
+	"South Carolina"	"45"	"Newberry County, SC"	"45071"	29
+	"South Carolina"	"45"	"Oconee County, SC"	"45073"	97
+	"South Carolina"	"45"	"Orangeburg County, SC"	"45075"	91
+	"South Carolina"	"45"	"Pickens County, SC"	"45077"	142
+	"South Carolina"	"45"	"Richland County, SC"	"45079"	320
+	"South Carolina"	"45"	"Saluda County, SC"	"45081"	18
+	"South Carolina"	"45"	"Spartanburg County, SC"	"45083"	289
+	"South Carolina"	"45"	"Sumter County, SC"	"45085"	99
+	"South Carolina"	"45"	"Union County, SC"	"45087"	39
+	"South Carolina"	"45"	"Williamsburg County, SC"	"45089"	52
+	"South Carolina"	"45"	"York County, SC"	"45091"	195
+	"South Dakota"	"46"	"Aurora County, SD"	"46003"	Suppressed
+	"South Dakota"	"46"	"Beadle County, SD"	"46005"	20
+	"South Dakota"	"46"	"Bennett County, SD"	"46007"	Suppressed
+	"South Dakota"	"46"	"Bon Homme County, SD"	"46009"	Suppressed
+	"South Dakota"	"46"	"Brookings County, SD"	"46011"	16
+	"South Dakota"	"46"	"Brown County, SD"	"46013"	37
+	"South Dakota"	"46"	"Brule County, SD"	"46015"	Suppressed
+	"South Dakota"	"46"	"Buffalo County, SD"	"46017"	0
+	"South Dakota"	"46"	"Butte County, SD"	"46019"	Suppressed
+	"South Dakota"	"46"	"Campbell County, SD"	"46021"	Suppressed
+	"South Dakota"	"46"	"Charles Mix County, SD"	"46023"	Suppressed
+	"South Dakota"	"46"	"Clark County, SD"	"46025"	Suppressed
+	"South Dakota"	"46"	"Clay County, SD"	"46027"	16
+	"South Dakota"	"46"	"Codington County, SD"	"46029"	32
+	"South Dakota"	"46"	"Corson County, SD"	"46031"	Suppressed
+	"South Dakota"	"46"	"Custer County, SD"	"46033"	10
+	"South Dakota"	"46"	"Davison County, SD"	"46035"	22
+	"South Dakota"	"46"	"Day County, SD"	"46037"	Suppressed
+	"South Dakota"	"46"	"Deuel County, SD"	"46039"	Suppressed
+	"South Dakota"	"46"	"Dewey County, SD"	"46041"	Suppressed
+	"South Dakota"	"46"	"Douglas County, SD"	"46043"	Suppressed
+	"South Dakota"	"46"	"Edmunds County, SD"	"46045"	Suppressed
+	"South Dakota"	"46"	"Fall River County, SD"	"46047"	Suppressed
+	"South Dakota"	"46"	"Faulk County, SD"	"46049"	Suppressed
+	"South Dakota"	"46"	"Grant County, SD"	"46051"	Suppressed
+	"South Dakota"	"46"	"Gregory County, SD"	"46053"	Suppressed
+	"South Dakota"	"46"	"Haakon County, SD"	"46055"	Suppressed
+	"South Dakota"	"46"	"Hamlin County, SD"	"46057"	10
+	"South Dakota"	"46"	"Hand County, SD"	"46059"	Suppressed
+	"South Dakota"	"46"	"Hanson County, SD"	"46061"	Suppressed
+	"South Dakota"	"46"	"Harding County, SD"	"46063"	Suppressed
+	"South Dakota"	"46"	"Hughes County, SD"	"46065"	14
+	"South Dakota"	"46"	"Hutchinson County, SD"	"46067"	10
+	"South Dakota"	"46"	"Hyde County, SD"	"46069"	Suppressed
+	"South Dakota"	"46"	"Jackson County, SD"	"46071"	Suppressed
+	"South Dakota"	"46"	"Jerauld County, SD"	"46073"	0
+	"South Dakota"	"46"	"Jones County, SD"	"46075"	0
+	"South Dakota"	"46"	"Kingsbury County, SD"	"46077"	Suppressed
+	"South Dakota"	"46"	"Lake County, SD"	"46079"	10
+	"South Dakota"	"46"	"Lawrence County, SD"	"46081"	35
+	"South Dakota"	"46"	"Lincoln County, SD"	"46083"	24
+	"South Dakota"	"46"	"Lyman County, SD"	"46085"	Suppressed
+	"South Dakota"	"46"	"McCook County, SD"	"46087"	Suppressed
+	"South Dakota"	"46"	"McPherson County, SD"	"46089"	Suppressed
+	"South Dakota"	"46"	"Marshall County, SD"	"46091"	Suppressed
+	"South Dakota"	"46"	"Meade County, SD"	"46093"	21
+	"South Dakota"	"46"	"Mellette County, SD"	"46095"	Suppressed
+	"South Dakota"	"46"	"Miner County, SD"	"46097"	Suppressed
+	"South Dakota"	"46"	"Minnehaha County, SD"	"46099"	150
+	"South Dakota"	"46"	"Moody County, SD"	"46101"	Suppressed
+	"South Dakota"	"46"	"Pennington County, SD"	"46103"	102
+	"South Dakota"	"46"	"Perkins County, SD"	"46105"	Suppressed
+	"South Dakota"	"46"	"Potter County, SD"	"46107"	Suppressed
+	"South Dakota"	"46"	"Roberts County, SD"	"46109"	Suppressed
+	"South Dakota"	"46"	"Sanborn County, SD"	"46111"	Suppressed
+	"South Dakota"	"46"	"Shannon County, SD"	"46113"	Suppressed
+	"South Dakota"	"46"	"Spink County, SD"	"46115"	Suppressed
+	"South Dakota"	"46"	"Stanley County, SD"	"46117"	Suppressed
+	"South Dakota"	"46"	"Sully County, SD"	"46119"	0
+	"South Dakota"	"46"	"Todd County, SD"	"46121"	Suppressed
+	"South Dakota"	"46"	"Tripp County, SD"	"46123"	10
+	"South Dakota"	"46"	"Turner County, SD"	"46125"	13
+	"South Dakota"	"46"	"Union County, SD"	"46127"	14
+	"South Dakota"	"46"	"Walworth County, SD"	"46129"	Suppressed
+	"South Dakota"	"46"	"Yankton County, SD"	"46135"	27
+	"South Dakota"	"46"	"Ziebach County, SD"	"46137"	Suppressed
+	"Tennessee"	"47"	"Anderson County, TN"	"47001"	98
+	"Tennessee"	"47"	"Bedford County, TN"	"47003"	58
+	"Tennessee"	"47"	"Benton County, TN"	"47005"	23
+	"Tennessee"	"47"	"Bledsoe County, TN"	"47007"	21
+	"Tennessee"	"47"	"Blount County, TN"	"47009"	141
+	"Tennessee"	"47"	"Bradley County, TN"	"47011"	126
+	"Tennessee"	"47"	"Campbell County, TN"	"47013"	62
+	"Tennessee"	"47"	"Cannon County, TN"	"47015"	20
+	"Tennessee"	"47"	"Carroll County, TN"	"47017"	40
+	"Tennessee"	"47"	"Carter County, TN"	"47019"	65
+	"Tennessee"	"47"	"Cheatham County, TN"	"47021"	40
+	"Tennessee"	"47"	"Chester County, TN"	"47023"	23
+	"Tennessee"	"47"	"Claiborne County, TN"	"47025"	57
+	"Tennessee"	"47"	"Clay County, TN"	"47027"	13
+	"Tennessee"	"47"	"Cocke County, TN"	"47029"	63
+	"Tennessee"	"47"	"Coffee County, TN"	"47031"	62
+	"Tennessee"	"47"	"Crockett County, TN"	"47033"	31
+	"Tennessee"	"47"	"Cumberland County, TN"	"47035"	105
+	"Tennessee"	"47"	"Davidson County, TN"	"47037"	489
+	"Tennessee"	"47"	"Decatur County, TN"	"47039"	26
+	"Tennessee"	"47"	"DeKalb County, TN"	"47041"	37
+	"Tennessee"	"47"	"Dickson County, TN"	"47043"	62
+	"Tennessee"	"47"	"Dyer County, TN"	"47045"	49
+	"Tennessee"	"47"	"Fayette County, TN"	"47047"	48
+	"Tennessee"	"47"	"Fentress County, TN"	"47049"	30
+	"Tennessee"	"47"	"Franklin County, TN"	"47051"	56
+	"Tennessee"	"47"	"Gibson County, TN"	"47053"	76
+	"Tennessee"	"47"	"Giles County, TN"	"47055"	36
+	"Tennessee"	"47"	"Grainger County, TN"	"47057"	30
+	"Tennessee"	"47"	"Greene County, TN"	"47059"	86
+	"Tennessee"	"47"	"Grundy County, TN"	"47061"	16
+	"Tennessee"	"47"	"Hamblen County, TN"	"47063"	85
+	"Tennessee"	"47"	"Hamilton County, TN"	"47065"	393
+	"Tennessee"	"47"	"Hancock County, TN"	"47067"	Suppressed
+	"Tennessee"	"47"	"Hardeman County, TN"	"47069"	31
+	"Tennessee"	"47"	"Hardin County, TN"	"47071"	48
+	"Tennessee"	"47"	"Hawkins County, TN"	"47073"	87
+	"Tennessee"	"47"	"Haywood County, TN"	"47075"	22
+	"Tennessee"	"47"	"Henderson County, TN"	"47077"	50
+	"Tennessee"	"47"	"Henry County, TN"	"47079"	57
+	"Tennessee"	"47"	"Hickman County, TN"	"47081"	25
+	"Tennessee"	"47"	"Houston County, TN"	"47083"	19
+	"Tennessee"	"47"	"Humphreys County, TN"	"47085"	33
+	"Tennessee"	"47"	"Jackson County, TN"	"47087"	16
+	"Tennessee"	"47"	"Jefferson County, TN"	"47089"	81
+	"Tennessee"	"47"	"Johnson County, TN"	"47091"	23
+	"Tennessee"	"47"	"Knox County, TN"	"47093"	483
+	"Tennessee"	"47"	"Lake County, TN"	"47095"	11
+	"Tennessee"	"47"	"Lauderdale County, TN"	"47097"	35
+	"Tennessee"	"47"	"Lawrence County, TN"	"47099"	51
+	"Tennessee"	"47"	"Lewis County, TN"	"47101"	19
+	"Tennessee"	"47"	"Lincoln County, TN"	"47103"	42
+	"Tennessee"	"47"	"Loudon County, TN"	"47105"	63
+	"Tennessee"	"47"	"McMinn County, TN"	"47107"	98
+	"Tennessee"	"47"	"McNairy County, TN"	"47109"	54
+	"Tennessee"	"47"	"Macon County, TN"	"47111"	36
+	"Tennessee"	"47"	"Madison County, TN"	"47113"	121
+	"Tennessee"	"47"	"Marion County, TN"	"47115"	51
+	"Tennessee"	"47"	"Marshall County, TN"	"47117"	39
+	"Tennessee"	"47"	"Maury County, TN"	"47119"	98
+	"Tennessee"	"47"	"Meigs County, TN"	"47121"	17
+	"Tennessee"	"47"	"Monroe County, TN"	"47123"	60
+	"Tennessee"	"47"	"Montgomery County, TN"	"47125"	131
+	"Tennessee"	"47"	"Moore County, TN"	"47127"	Suppressed
+	"Tennessee"	"47"	"Morgan County, TN"	"47129"	22
+	"Tennessee"	"47"	"Obion County, TN"	"47131"	57
+	"Tennessee"	"47"	"Overton County, TN"	"47133"	23
+	"Tennessee"	"47"	"Perry County, TN"	"47135"	Suppressed
+	"Tennessee"	"47"	"Pickett County, TN"	"47137"	Suppressed
+	"Tennessee"	"47"	"Polk County, TN"	"47139"	23
+	"Tennessee"	"47"	"Putnam County, TN"	"47141"	75
+	"Tennessee"	"47"	"Rhea County, TN"	"47143"	49
+	"Tennessee"	"47"	"Roane County, TN"	"47145"	72
+	"Tennessee"	"47"	"Robertson County, TN"	"47147"	85
+	"Tennessee"	"47"	"Rutherford County, TN"	"47149"	188
+	"Tennessee"	"47"	"Scott County, TN"	"47151"	30
+	"Tennessee"	"47"	"Sequatchie County, TN"	"47153"	20
+	"Tennessee"	"47"	"Sevier County, TN"	"47155"	118
+	"Tennessee"	"47"	"Shelby County, TN"	"47157"	762
+	"Tennessee"	"47"	"Smith County, TN"	"47159"	24
+	"Tennessee"	"47"	"Stewart County, TN"	"47161"	18
+	"Tennessee"	"47"	"Sullivan County, TN"	"47163"	233
+	"Tennessee"	"47"	"Sumner County, TN"	"47165"	190
+	"Tennessee"	"47"	"Tipton County, TN"	"47167"	54
+	"Tennessee"	"47"	"Trousdale County, TN"	"47169"	Suppressed
+	"Tennessee"	"47"	"Unicoi County, TN"	"47171"	31
+	"Tennessee"	"47"	"Union County, TN"	"47173"	15
+	"Tennessee"	"47"	"Van Buren County, TN"	"47175"	13
+	"Tennessee"	"47"	"Warren County, TN"	"47177"	90
+	"Tennessee"	"47"	"Washington County, TN"	"47179"	158
+	"Tennessee"	"47"	"Wayne County, TN"	"47181"	21
+	"Tennessee"	"47"	"Weakley County, TN"	"47183"	49
+	"Tennessee"	"47"	"White County, TN"	"47185"	39
+	"Tennessee"	"47"	"Williamson County, TN"	"47187"	147
+	"Tennessee"	"47"	"Wilson County, TN"	"47189"	124
+	"Texas"	"48"	"Anderson County, TX"	"48001"	65
+	"Texas"	"48"	"Andrews County, TX"	"48003"	13
+	"Texas"	"48"	"Angelina County, TX"	"48005"	105
+	"Texas"	"48"	"Aransas County, TX"	"48007"	53
+	"Texas"	"48"	"Archer County, TX"	"48009"	Suppressed
+	"Texas"	"48"	"Armstrong County, TX"	"48011"	Suppressed
+	"Texas"	"48"	"Atascosa County, TX"	"48013"	43
+	"Texas"	"48"	"Austin County, TX"	"48015"	38
+	"Texas"	"48"	"Bailey County, TX"	"48017"	Suppressed
+	"Texas"	"48"	"Bandera County, TX"	"48019"	23
+	"Texas"	"48"	"Bastrop County, TX"	"48021"	88
+	"Texas"	"48"	"Baylor County, TX"	"48023"	Suppressed
+	"Texas"	"48"	"Bee County, TX"	"48025"	23
+	"Texas"	"48"	"Bell County, TX"	"48027"	249
+	"Texas"	"48"	"Bexar County, TX"	"48029"	1489
+	"Texas"	"48"	"Blanco County, TX"	"48031"	12
+	"Texas"	"48"	"Borden County, TX"	"48033"	0
+	"Texas"	"48"	"Bosque County, TX"	"48035"	23
+	"Texas"	"48"	"Bowie County, TX"	"48037"	125
+	"Texas"	"48"	"Brazoria County, TX"	"48039"	298
+	"Texas"	"48"	"Brazos County, TX"	"48041"	149
+	"Texas"	"48"	"Brewster County, TX"	"48043"	Suppressed
+	"Texas"	"48"	"Briscoe County, TX"	"48045"	Suppressed
+	"Texas"	"48"	"Brooks County, TX"	"48047"	Suppressed
+	"Texas"	"48"	"Brown County, TX"	"48049"	67
+	"Texas"	"48"	"Burleson County, TX"	"48051"	30
+	"Texas"	"48"	"Burnet County, TX"	"48053"	62
+	"Texas"	"48"	"Caldwell County, TX"	"48055"	34
+	"Texas"	"48"	"Calhoun County, TX"	"48057"	24
+	"Texas"	"48"	"Callahan County, TX"	"48059"	22
+	"Texas"	"48"	"Cameron County, TX"	"48061"	318
+	"Texas"	"48"	"Camp County, TX"	"48063"	14
+	"Texas"	"48"	"Carson County, TX"	"48065"	Suppressed
+	"Texas"	"48"	"Cass County, TX"	"48067"	40
+	"Texas"	"48"	"Castro County, TX"	"48069"	Suppressed
+	"Texas"	"48"	"Chambers County, TX"	"48071"	33
+	"Texas"	"48"	"Cherokee County, TX"	"48073"	69
+	"Texas"	"48"	"Childress County, TX"	"48075"	Suppressed
+	"Texas"	"48"	"Clay County, TX"	"48077"	Suppressed
+	"Texas"	"48"	"Cochran County, TX"	"48079"	Suppressed
+	"Texas"	"48"	"Coke County, TX"	"48081"	10
+	"Texas"	"48"	"Coleman County, TX"	"48083"	15
+	"Texas"	"48"	"Collin County, TX"	"48085"	527
+	"Texas"	"48"	"Collingsworth County, TX"	"48087"	Suppressed
+	"Texas"	"48"	"Colorado County, TX"	"48089"	37
+	"Texas"	"48"	"Comal County, TX"	"48091"	135
+	"Texas"	"48"	"Comanche County, TX"	"48093"	15
+	"Texas"	"48"	"Concho County, TX"	"48095"	Suppressed
+	"Texas"	"48"	"Cooke County, TX"	"48097"	58
+	"Texas"	"48"	"Coryell County, TX"	"48099"	46
+	"Texas"	"48"	"Cottle County, TX"	"48101"	Suppressed
+	"Texas"	"48"	"Crane County, TX"	"48103"	Suppressed
+	"Texas"	"48"	"Crockett County, TX"	"48105"	Suppressed
+	"Texas"	"48"	"Crosby County, TX"	"48107"	Suppressed
+	"Texas"	"48"	"Culberson County, TX"	"48109"	Suppressed
+	"Texas"	"48"	"Dallam County, TX"	"48111"	Suppressed
+	"Texas"	"48"	"Dallas County, TX"	"48113"	1532
+	"Texas"	"48"	"Dawson County, TX"	"48115"	15
+	"Texas"	"48"	"Deaf Smith County, TX"	"48117"	11
+	"Texas"	"48"	"Delta County, TX"	"48119"	Suppressed
+	"Texas"	"48"	"Denton County, TX"	"48121"	459
+	"Texas"	"48"	"DeWitt County, TX"	"48123"	24
+	"Texas"	"48"	"Dickens County, TX"	"48125"	Suppressed
+	"Texas"	"48"	"Dimmit County, TX"	"48127"	Suppressed
+	"Texas"	"48"	"Donley County, TX"	"48129"	Suppressed
+	"Texas"	"48"	"Duval County, TX"	"48131"	11
+	"Texas"	"48"	"Eastland County, TX"	"48133"	31
+	"Texas"	"48"	"Ector County, TX"	"48135"	109
+	"Texas"	"48"	"Edwards County, TX"	"48137"	Suppressed
+	"Texas"	"48"	"Ellis County, TX"	"48139"	140
+	"Texas"	"48"	"El Paso County, TX"	"48141"	501
+	"Texas"	"48"	"Erath County, TX"	"48143"	31
+	"Texas"	"48"	"Falls County, TX"	"48145"	16
+	"Texas"	"48"	"Fannin County, TX"	"48147"	41
+	"Texas"	"48"	"Fayette County, TX"	"48149"	51
+	"Texas"	"48"	"Fisher County, TX"	"48151"	Suppressed
+	"Texas"	"48"	"Floyd County, TX"	"48153"	Suppressed
+	"Texas"	"48"	"Foard County, TX"	"48155"	Suppressed
+	"Texas"	"48"	"Fort Bend County, TX"	"48157"	416
+	"Texas"	"48"	"Franklin County, TX"	"48159"	19
+	"Texas"	"48"	"Freestone County, TX"	"48161"	20
+	"Texas"	"48"	"Frio County, TX"	"48163"	10
+	"Texas"	"48"	"Gaines County, TX"	"48165"	Suppressed
+	"Texas"	"48"	"Galveston County, TX"	"48167"	318
+	"Texas"	"48"	"Garza County, TX"	"48169"	Suppressed
+	"Texas"	"48"	"Gillespie County, TX"	"48171"	41
+	"Texas"	"48"	"Glasscock County, TX"	"48173"	Suppressed
+	"Texas"	"48"	"Goliad County, TX"	"48175"	Suppressed
+	"Texas"	"48"	"Gonzales County, TX"	"48177"	21
+	"Texas"	"48"	"Gray County, TX"	"48179"	23
+	"Texas"	"48"	"Grayson County, TX"	"48181"	143
+	"Texas"	"48"	"Gregg County, TX"	"48183"	149
+	"Texas"	"48"	"Grimes County, TX"	"48185"	37
+	"Texas"	"48"	"Guadalupe County, TX"	"48187"	145
+	"Texas"	"48"	"Hale County, TX"	"48189"	31
+	"Texas"	"48"	"Hall County, TX"	"48191"	Suppressed
+	"Texas"	"48"	"Hamilton County, TX"	"48193"	Suppressed
+	"Texas"	"48"	"Hansford County, TX"	"48195"	Suppressed
+	"Texas"	"48"	"Hardeman County, TX"	"48197"	Suppressed
+	"Texas"	"48"	"Hardin County, TX"	"48199"	74
+	"Texas"	"48"	"Harris County, TX"	"48201"	2576
+	"Texas"	"48"	"Harrison County, TX"	"48203"	72
+	"Texas"	"48"	"Hartley County, TX"	"48205"	Suppressed
+	"Texas"	"48"	"Haskell County, TX"	"48207"	Suppressed
+	"Texas"	"48"	"Hays County, TX"	"48209"	146
+	"Texas"	"48"	"Hemphill County, TX"	"48211"	Suppressed
+	"Texas"	"48"	"Henderson County, TX"	"48213"	128
+	"Texas"	"48"	"Hidalgo County, TX"	"48215"	489
+	"Texas"	"48"	"Hill County, TX"	"48217"	48
+	"Texas"	"48"	"Hockley County, TX"	"48219"	21
+	"Texas"	"48"	"Hood County, TX"	"48221"	81
+	"Texas"	"48"	"Hopkins County, TX"	"48223"	37
+	"Texas"	"48"	"Houston County, TX"	"48225"	25
+	"Texas"	"48"	"Howard County, TX"	"48227"	38
+	"Texas"	"48"	"Hudspeth County, TX"	"48229"	Suppressed
+	"Texas"	"48"	"Hunt County, TX"	"48231"	102
+	"Texas"	"48"	"Hutchinson County, TX"	"48233"	24
+	"Texas"	"48"	"Irion County, TX"	"48235"	Suppressed
+	"Texas"	"48"	"Jack County, TX"	"48237"	16
+	"Texas"	"48"	"Jackson County, TX"	"48239"	11
+	"Texas"	"48"	"Jasper County, TX"	"48241"	50
+	"Texas"	"48"	"Jeff Davis County, TX"	"48243"	Suppressed
+	"Texas"	"48"	"Jefferson County, TX"	"48245"	263
+	"Texas"	"48"	"Jim Hogg County, TX"	"48247"	Suppressed
+	"Texas"	"48"	"Jim Wells County, TX"	"48249"	45
+	"Texas"	"48"	"Johnson County, TX"	"48251"	160
+	"Texas"	"48"	"Jones County, TX"	"48253"	24
+	"Texas"	"48"	"Karnes County, TX"	"48255"	15
+	"Texas"	"48"	"Kaufman County, TX"	"48257"	114
+	"Texas"	"48"	"Kendall County, TX"	"48259"	41
+	"Texas"	"48"	"Kenedy County, TX"	"48261"	0
+	"Texas"	"48"	"Kent County, TX"	"48263"	Suppressed
+	"Texas"	"48"	"Kerr County, TX"	"48265"	73
+	"Texas"	"48"	"Kimble County, TX"	"48267"	Suppressed
+	"Texas"	"48"	"King County, TX"	"48269"	Suppressed
+	"Texas"	"48"	"Kinney County, TX"	"48271"	Suppressed
+	"Texas"	"48"	"Kleberg County, TX"	"48273"	24
+	"Texas"	"48"	"Knox County, TX"	"48275"	Suppressed
+	"Texas"	"48"	"Lamar County, TX"	"48277"	70
+	"Texas"	"48"	"Lamb County, TX"	"48279"	Suppressed
+	"Texas"	"48"	"Lampasas County, TX"	"48281"	29
+	"Texas"	"48"	"La Salle County, TX"	"48283"	Suppressed
+	"Texas"	"48"	"Lavaca County, TX"	"48285"	26
+	"Texas"	"48"	"Lee County, TX"	"48287"	21
+	"Texas"	"48"	"Leon County, TX"	"48289"	22
+	"Texas"	"48"	"Liberty County, TX"	"48291"	96
+	"Texas"	"48"	"Limestone County, TX"	"48293"	36
+	"Texas"	"48"	"Lipscomb County, TX"	"48295"	Suppressed
+	"Texas"	"48"	"Live Oak County, TX"	"48297"	18
+	"Texas"	"48"	"Llano County, TX"	"48299"	42
+	"Texas"	"48"	"Loving County, TX"	"48301"	0
+	"Texas"	"48"	"Lubbock County, TX"	"48303"	254
+	"Texas"	"48"	"Lynn County, TX"	"48305"	Suppressed
+	"Texas"	"48"	"McCulloch County, TX"	"48307"	13
+	"Texas"	"48"	"McLennan County, TX"	"48309"	244
+	"Texas"	"48"	"McMullen County, TX"	"48311"	Suppressed
+	"Texas"	"48"	"Madison County, TX"	"48313"	16
+	"Texas"	"48"	"Marion County, TX"	"48315"	11
+	"Texas"	"48"	"Martin County, TX"	"48317"	Suppressed
+	"Texas"	"48"	"Mason County, TX"	"48319"	Suppressed
+	"Texas"	"48"	"Matagorda County, TX"	"48321"	31
+	"Texas"	"48"	"Maverick County, TX"	"48323"	37
+	"Texas"	"48"	"Medina County, TX"	"48325"	61
+	"Texas"	"48"	"Menard County, TX"	"48327"	Suppressed
+	"Texas"	"48"	"Midland County, TX"	"48329"	105
+	"Texas"	"48"	"Milam County, TX"	"48331"	40
+	"Texas"	"48"	"Mills County, TX"	"48333"	13
+	"Texas"	"48"	"Mitchell County, TX"	"48335"	Suppressed
+	"Texas"	"48"	"Montague County, TX"	"48337"	38
+	"Texas"	"48"	"Montgomery County, TX"	"48339"	462
+	"Texas"	"48"	"Moore County, TX"	"48341"	15
+	"Texas"	"48"	"Morris County, TX"	"48343"	32
+	"Texas"	"48"	"Motley County, TX"	"48345"	Suppressed
+	"Texas"	"48"	"Nacogdoches County, TX"	"48347"	54
+	"Texas"	"48"	"Navarro County, TX"	"48349"	61
+	"Texas"	"48"	"Newton County, TX"	"48351"	21
+	"Texas"	"48"	"Nolan County, TX"	"48353"	17
+	"Texas"	"48"	"Nueces County, TX"	"48355"	276
+	"Texas"	"48"	"Ochiltree County, TX"	"48357"	Suppressed
+	"Texas"	"48"	"Oldham County, TX"	"48359"	Suppressed
+	"Texas"	"48"	"Orange County, TX"	"48361"	103
+	"Texas"	"48"	"Palo Pinto County, TX"	"48363"	45
+	"Texas"	"48"	"Panola County, TX"	"48365"	33
+	"Texas"	"48"	"Parker County, TX"	"48367"	157
+	"Texas"	"48"	"Parmer County, TX"	"48369"	Suppressed
+	"Texas"	"48"	"Pecos County, TX"	"48371"	Suppressed
+	"Texas"	"48"	"Polk County, TX"	"48373"	86
+	"Texas"	"48"	"Potter County, TX"	"48375"	103
+	"Texas"	"48"	"Presidio County, TX"	"48377"	Suppressed
+	"Texas"	"48"	"Rains County, TX"	"48379"	15
+	"Texas"	"48"	"Randall County, TX"	"48381"	113
+	"Texas"	"48"	"Reagan County, TX"	"48383"	Suppressed
+	"Texas"	"48"	"Real County, TX"	"48385"	Suppressed
+	"Texas"	"48"	"Red River County, TX"	"48387"	17
+	"Texas"	"48"	"Reeves County, TX"	"48389"	Suppressed
+	"Texas"	"48"	"Refugio County, TX"	"48391"	12
+	"Texas"	"48"	"Roberts County, TX"	"48393"	Suppressed
+	"Texas"	"48"	"Robertson County, TX"	"48395"	27
+	"Texas"	"48"	"Rockwall County, TX"	"48397"	58
+	"Texas"	"48"	"Runnels County, TX"	"48399"	Suppressed
+	"Texas"	"48"	"Rusk County, TX"	"48401"	64
+	"Texas"	"48"	"Sabine County, TX"	"48403"	25
+	"Texas"	"48"	"San Augustine County, TX"	"48405"	17
+	"Texas"	"48"	"San Jacinto County, TX"	"48407"	37
+	"Texas"	"48"	"San Patricio County, TX"	"48409"	81
+	"Texas"	"48"	"San Saba County, TX"	"48411"	Suppressed
+	"Texas"	"48"	"Schleicher County, TX"	"48413"	0
+	"Texas"	"48"	"Scurry County, TX"	"48415"	12
+	"Texas"	"48"	"Shackelford County, TX"	"48417"	Suppressed
+	"Texas"	"48"	"Shelby County, TX"	"48419"	25
+	"Texas"	"48"	"Sherman County, TX"	"48421"	Suppressed
+	"Texas"	"48"	"Smith County, TX"	"48423"	267
+	"Texas"	"48"	"Somervell County, TX"	"48425"	Suppressed
+	"Texas"	"48"	"Starr County, TX"	"48427"	54
+	"Texas"	"48"	"Stephens County, TX"	"48429"	11
+	"Texas"	"48"	"Sterling County, TX"	"48431"	0
+	"Texas"	"48"	"Stonewall County, TX"	"48433"	Suppressed
+	"Texas"	"48"	"Sutton County, TX"	"48435"	Suppressed
+	"Texas"	"48"	"Swisher County, TX"	"48437"	12
+	"Texas"	"48"	"Tarrant County, TX"	"48439"	1278
+	"Texas"	"48"	"Taylor County, TX"	"48441"	132
+	"Texas"	"48"	"Terrell County, TX"	"48443"	Suppressed
+	"Texas"	"48"	"Terry County, TX"	"48445"	15
+	"Texas"	"48"	"Throckmorton County, TX"	"48447"	Suppressed
+	"Texas"	"48"	"Titus County, TX"	"48449"	31
+	"Texas"	"48"	"Tom Green County, TX"	"48451"	108
+	"Texas"	"48"	"Travis County, TX"	"48453"	567
+	"Texas"	"48"	"Trinity County, TX"	"48455"	26
+	"Texas"	"48"	"Tyler County, TX"	"48457"	35
+	"Texas"	"48"	"Upshur County, TX"	"48459"	51
+	"Texas"	"48"	"Upton County, TX"	"48461"	Suppressed
+	"Texas"	"48"	"Uvalde County, TX"	"48463"	36
+	"Texas"	"48"	"Val Verde County, TX"	"48465"	41
+	"Texas"	"48"	"Van Zandt County, TX"	"48467"	98
+	"Texas"	"48"	"Victoria County, TX"	"48469"	95
+	"Texas"	"48"	"Walker County, TX"	"48471"	57
+	"Texas"	"48"	"Waller County, TX"	"48473"	44
+	"Texas"	"48"	"Ward County, TX"	"48475"	Suppressed
+	"Texas"	"48"	"Washington County, TX"	"48477"	52
+	"Texas"	"48"	"Webb County, TX"	"48479"	112
+	"Texas"	"48"	"Wharton County, TX"	"48481"	76
+	"Texas"	"48"	"Wheeler County, TX"	"48483"	Suppressed
+	"Texas"	"48"	"Wichita County, TX"	"48485"	138
+	"Texas"	"48"	"Wilbarger County, TX"	"48487"	22
+	"Texas"	"48"	"Willacy County, TX"	"48489"	Suppressed
+	"Texas"	"48"	"Williamson County, TX"	"48491"	362
+	"Texas"	"48"	"Wilson County, TX"	"48493"	56
+	"Texas"	"48"	"Winkler County, TX"	"48495"	Suppressed
+	"Texas"	"48"	"Wise County, TX"	"48497"	74
+	"Texas"	"48"	"Wood County, TX"	"48499"	66
+	"Texas"	"48"	"Yoakum County, TX"	"48501"	Suppressed
+	"Texas"	"48"	"Young County, TX"	"48503"	34
+	"Texas"	"48"	"Zapata County, TX"	"48505"	Suppressed
+	"Texas"	"48"	"Zavala County, TX"	"48507"	16
+	"Utah"	"49"	"Beaver County, UT"	"49001"	Suppressed
+	"Utah"	"49"	"Box Elder County, UT"	"49003"	53
+	"Utah"	"49"	"Cache County, UT"	"49005"	73
+	"Utah"	"49"	"Carbon County, UT"	"49007"	24
+	"Utah"	"49"	"Daggett County, UT"	"49009"	Suppressed
+	"Utah"	"49"	"Davis County, UT"	"49011"	215
+	"Utah"	"49"	"Duchesne County, UT"	"49013"	23
+	"Utah"	"49"	"Emery County, UT"	"49015"	10
+	"Utah"	"49"	"Garfield County, UT"	"49017"	10
+	"Utah"	"49"	"Grand County, UT"	"49019"	Suppressed
+	"Utah"	"49"	"Iron County, UT"	"49021"	40
+	"Utah"	"49"	"Juab County, UT"	"49023"	Suppressed
+	"Utah"	"49"	"Kane County, UT"	"49025"	Suppressed
+	"Utah"	"49"	"Millard County, UT"	"49027"	10
+	"Utah"	"49"	"Morgan County, UT"	"49029"	Suppressed
+	"Utah"	"49"	"Piute County, UT"	"49031"	Suppressed
+	"Utah"	"49"	"Rich County, UT"	"49033"	Suppressed
+	"Utah"	"49"	"Salt Lake County, UT"	"49035"	632
+	"Utah"	"49"	"San Juan County, UT"	"49037"	Suppressed
+	"Utah"	"49"	"Sanpete County, UT"	"49039"	22
+	"Utah"	"49"	"Sevier County, UT"	"49041"	21
+	"Utah"	"49"	"Summit County, UT"	"49043"	17
+	"Utah"	"49"	"Tooele County, UT"	"49045"	36
+	"Utah"	"49"	"Uintah County, UT"	"49047"	18
+	"Utah"	"49"	"Utah County, UT"	"49049"	267
+	"Utah"	"49"	"Wasatch County, UT"	"49051"	16
+	"Utah"	"49"	"Washington County, UT"	"49053"	155
+	"Utah"	"49"	"Wayne County, UT"	"49055"	Suppressed
+	"Utah"	"49"	"Weber County, UT"	"49057"	191
+	"Vermont"	"50"	"Addison County, VT"	"50001"	28
+	"Vermont"	"50"	"Bennington County, VT"	"50003"	52
+	"Vermont"	"50"	"Caledonia County, VT"	"50005"	31
+	"Vermont"	"50"	"Chittenden County, VT"	"50007"	113
+	"Vermont"	"50"	"Essex County, VT"	"50009"	10
+	"Vermont"	"50"	"Franklin County, VT"	"50011"	41
+	"Vermont"	"50"	"Grand Isle County, VT"	"50013"	Suppressed
+	"Vermont"	"50"	"Lamoille County, VT"	"50015"	22
+	"Vermont"	"50"	"Orange County, VT"	"50017"	25
+	"Vermont"	"50"	"Orleans County, VT"	"50019"	28
+	"Vermont"	"50"	"Rutland County, VT"	"50021"	58
+	"Vermont"	"50"	"Washington County, VT"	"50023"	59
+	"Vermont"	"50"	"Windham County, VT"	"50025"	64
+	"Vermont"	"50"	"Windsor County, VT"	"50027"	78
+	"Virginia"	"51"	"Accomack County, VA"	"51001"	58
+	"Virginia"	"51"	"Albemarle County, VA"	"51003"	84
+	"Virginia"	"51"	"Alleghany County, VA"	"51005"	29
+	"Virginia"	"51"	"Amelia County, VA"	"51007"	11
+	"Virginia"	"51"	"Amherst County, VA"	"51009"	35
+	"Virginia"	"51"	"Appomattox County, VA"	"51011"	15
+	"Virginia"	"51"	"Arlington County, VA"	"51013"	107
+	"Virginia"	"51"	"Augusta County, VA"	"51015"	86
+	"Virginia"	"51"	"Bath County, VA"	"51017"	Suppressed
+	"Virginia"	"51"	"Bedford County, VA"	"51019"	76
+	"Virginia"	"51"	"Bland County, VA"	"51021"	Suppressed
+	"Virginia"	"51"	"Botetourt County, VA"	"51023"	40
+	"Virginia"	"51"	"Brunswick County, VA"	"51025"	29
+	"Virginia"	"51"	"Buchanan County, VA"	"51027"	25
+	"Virginia"	"51"	"Buckingham County, VA"	"51029"	21
+	"Virginia"	"51"	"Campbell County, VA"	"51031"	67
+	"Virginia"	"51"	"Caroline County, VA"	"51033"	28
+	"Virginia"	"51"	"Carroll County, VA"	"51035"	40
+	"Virginia"	"51"	"Charles City County, VA"	"51036"	11
+	"Virginia"	"51"	"Charlotte County, VA"	"51037"	11
+	"Virginia"	"51"	"Chesterfield County, VA"	"51041"	244
+	"Virginia"	"51"	"Clarke County, VA"	"51043"	17
+	"Virginia"	"51"	"Craig County, VA"	"51045"	Suppressed
+	"Virginia"	"51"	"Culpeper County, VA"	"51047"	38
+	"Virginia"	"51"	"Cumberland County, VA"	"51049"	21
+	"Virginia"	"51"	"Dickenson County, VA"	"51051"	10
+	"Virginia"	"51"	"Dinwiddie County, VA"	"51053"	21
+	"Virginia"	"51"	"Essex County, VA"	"51057"	Suppressed
+	"Virginia"	"51"	"Fairfax County, VA"	"51059"	595
+	"Virginia"	"51"	"Fauquier County, VA"	"51061"	81
+	"Virginia"	"51"	"Floyd County, VA"	"51063"	15
+	"Virginia"	"51"	"Fluvanna County, VA"	"51065"	25
+	"Virginia"	"51"	"Franklin County, VA"	"51067"	67
+	"Virginia"	"51"	"Frederick County, VA"	"51069"	114
+	"Virginia"	"51"	"Giles County, VA"	"51071"	17
+	"Virginia"	"51"	"Gloucester County, VA"	"51073"	55
+	"Virginia"	"51"	"Goochland County, VA"	"51075"	31
+	"Virginia"	"51"	"Grayson County, VA"	"51077"	23
+	"Virginia"	"51"	"Greene County, VA"	"51079"	18
+	"Virginia"	"51"	"Greensville County, VA"	"51081"	21
+	"Virginia"	"51"	"Halifax County, VA"	"51083"	40
+	"Virginia"	"51"	"Hanover County, VA"	"51085"	108
+	"Virginia"	"51"	"Henrico County, VA"	"51087"	266
+	"Virginia"	"51"	"Henry County, VA"	"51089"	78
+	"Virginia"	"51"	"Highland County, VA"	"51091"	Suppressed
+	"Virginia"	"51"	"Isle of Wight County, VA"	"51093"	39
+	"Virginia"	"51"	"James City County, VA"	"51095"	90
+	"Virginia"	"51"	"King and Queen County, VA"	"51097"	Suppressed
+	"Virginia"	"51"	"King George County, VA"	"51099"	21
+	"Virginia"	"51"	"King William County, VA"	"51101"	14
+	"Virginia"	"51"	"Lancaster County, VA"	"51103"	15
+	"Virginia"	"51"	"Lee County, VA"	"51105"	16
+	"Virginia"	"51"	"Loudoun County, VA"	"51107"	208
+	"Virginia"	"51"	"Louisa County, VA"	"51109"	44
+	"Virginia"	"51"	"Lunenburg County, VA"	"51111"	14
+	"Virginia"	"51"	"Madison County, VA"	"51113"	14
+	"Virginia"	"51"	"Mathews County, VA"	"51115"	13
+	"Virginia"	"51"	"Mecklenburg County, VA"	"51117"	40
+	"Virginia"	"51"	"Middlesex County, VA"	"51119"	18
+	"Virginia"	"51"	"Montgomery County, VA"	"51121"	80
+	"Virginia"	"51"	"Nelson County, VA"	"51125"	16
+	"Virginia"	"51"	"New Kent County, VA"	"51127"	15
+	"Virginia"	"51"	"Northampton County, VA"	"51131"	24
+	"Virginia"	"51"	"Northumberland County, VA"	"51133"	24
+	"Virginia"	"51"	"Nottoway County, VA"	"51135"	17
+	"Virginia"	"51"	"Orange County, VA"	"51137"	46
+	"Virginia"	"51"	"Page County, VA"	"51139"	31
+	"Virginia"	"51"	"Patrick County, VA"	"51141"	35
+	"Virginia"	"51"	"Pittsylvania County, VA"	"51143"	64
+	"Virginia"	"51"	"Powhatan County, VA"	"51145"	26
+	"Virginia"	"51"	"Prince Edward County, VA"	"51147"	33
+	"Virginia"	"51"	"Prince George County, VA"	"51149"	27
+	"Virginia"	"51"	"Prince William County, VA"	"51153"	193
+	"Virginia"	"51"	"Pulaski County, VA"	"51155"	48
+	"Virginia"	"51"	"Rappahannock County, VA"	"51157"	10
+	"Virginia"	"51"	"Richmond County, VA"	"51159"	13
+	"Virginia"	"51"	"Roanoke County, VA"	"51161"	100
+	"Virginia"	"51"	"Rockbridge County, VA"	"51163"	24
+	"Virginia"	"51"	"Rockingham County, VA"	"51165"	109
+	"Virginia"	"51"	"Russell County, VA"	"51167"	32
+	"Virginia"	"51"	"Scott County, VA"	"51169"	34
+	"Virginia"	"51"	"Shenandoah County, VA"	"51171"	75
+	"Virginia"	"51"	"Smyth County, VA"	"51173"	46
+	"Virginia"	"51"	"Southampton County, VA"	"51175"	28
+	"Virginia"	"51"	"Spotsylvania County, VA"	"51177"	100
+	"Virginia"	"51"	"Stafford County, VA"	"51179"	87
+	"Virginia"	"51"	"Surry County, VA"	"51181"	Suppressed
+	"Virginia"	"51"	"Sussex County, VA"	"51183"	12
+	"Virginia"	"51"	"Tazewell County, VA"	"51185"	67
+	"Virginia"	"51"	"Warren County, VA"	"51187"	45
+	"Virginia"	"51"	"Washington County, VA"	"51191"	73
+	"Virginia"	"51"	"Westmoreland County, VA"	"51193"	34
+	"Virginia"	"51"	"Wise County, VA"	"51195"	30
+	"Virginia"	"51"	"Wythe County, VA"	"51197"	39
+	"Virginia"	"51"	"York County, VA"	"51199"	55
+	"Virginia"	"51"	"Alexandria city, VA"	"51510"	64
+	"Virginia"	"51"	"Bristol city, VA"	"51520"	38
+	"Virginia"	"51"	"Buena Vista city, VA"	"51530"	Suppressed
+	"Virginia"	"51"	"Charlottesville city, VA"	"51540"	14
+	"Virginia"	"51"	"Chesapeake city, VA"	"51550"	201
+	"Virginia"	"51"	"Colonial Heights city, VA"	"51570"	20
+	"Virginia"	"51"	"Covington city, VA"	"51580"	Suppressed
+	"Virginia"	"51"	"Danville city, VA"	"51590"	89
+	"Virginia"	"51"	"Emporia city, VA"	"51595"	10
+	"Virginia"	"51"	"Fairfax city, VA"	"51600"	35
+	"Virginia"	"51"	"Falls Church city, VA"	"51610"	Suppressed
+	"Virginia"	"51"	"Franklin city, VA"	"51620"	12
+	"Virginia"	"51"	"Fredericksburg city, VA"	"51630"	13
+	"Virginia"	"51"	"Galax city, VA"	"51640"	12
+	"Virginia"	"51"	"Hampton city, VA"	"51650"	140
+	"Virginia"	"51"	"Harrisonburg city, VA"	"51660"	25
+	"Virginia"	"51"	"Hopewell city, VA"	"51670"	32
+	"Virginia"	"51"	"Lexington city, VA"	"51678"	10
+	"Virginia"	"51"	"Lynchburg city, VA"	"51680"	78
+	"Virginia"	"51"	"Manassas city, VA"	"51683"	25
+	"Virginia"	"51"	"Manassas Park city, VA"	"51685"	Suppressed
+	"Virginia"	"51"	"Martinsville city, VA"	"51690"	25
+	"Virginia"	"51"	"Newport News city, VA"	"51700"	178
+	"Virginia"	"51"	"Norfolk city, VA"	"51710"	186
+	"Virginia"	"51"	"Norton city, VA"	"51720"	Suppressed
+	"Virginia"	"51"	"Petersburg city, VA"	"51730"	37
+	"Virginia"	"51"	"Poquoson city, VA"	"51735"	12
+	"Virginia"	"51"	"Portsmouth city, VA"	"51740"	119
+	"Virginia"	"51"	"Radford city, VA"	"51750"	20
+	"Virginia"	"51"	"Richmond city, VA"	"51760"	161
+	"Virginia"	"51"	"Roanoke city, VA"	"51770"	127
+	"Virginia"	"51"	"Salem city, VA"	"51775"	48
+	"Virginia"	"51"	"Staunton city, VA"	"51790"	33
+	"Virginia"	"51"	"Suffolk city, VA"	"51800"	97
+	"Virginia"	"51"	"Virginia Beach city, VA"	"51810"	391
+	"Virginia"	"51"	"Waynesboro city, VA"	"51820"	26
+	"Virginia"	"51"	"Williamsburg city, VA"	"51830"	Suppressed
+	"Virginia"	"51"	"Winchester city, VA"	"51840"	27
+	"Washington"	"53"	"Adams County, WA"	"53001"	11
+	"Washington"	"53"	"Asotin County, WA"	"53003"	27
+	"Washington"	"53"	"Benton County, WA"	"53005"	153
+	"Washington"	"53"	"Chelan County, WA"	"53007"	72
+	"Washington"	"53"	"Clallam County, WA"	"53009"	115
+	"Washington"	"53"	"Clark County, WA"	"53011"	398
+	"Washington"	"53"	"Columbia County, WA"	"53013"	Suppressed
+	"Washington"	"53"	"Cowlitz County, WA"	"53015"	126
+	"Washington"	"53"	"Douglas County, WA"	"53017"	31
+	"Washington"	"53"	"Ferry County, WA"	"53019"	15
+	"Washington"	"53"	"Franklin County, WA"	"53021"	37
+	"Washington"	"53"	"Garfield County, WA"	"53023"	Suppressed
+	"Washington"	"53"	"Grant County, WA"	"53025"	73
+	"Washington"	"53"	"Grays Harbor County, WA"	"53027"	81
+	"Washington"	"53"	"Island County, WA"	"53029"	83
+	"Washington"	"53"	"Jefferson County, WA"	"53031"	35
+	"Washington"	"53"	"King County, WA"	"53033"	1245
+	"Washington"	"53"	"Kitsap County, WA"	"53035"	218
+	"Washington"	"53"	"Kittitas County, WA"	"53037"	42
+	"Washington"	"53"	"Klickitat County, WA"	"53039"	30
+	"Washington"	"53"	"Lewis County, WA"	"53041"	89
+	"Washington"	"53"	"Lincoln County, WA"	"53043"	14
+	"Washington"	"53"	"Mason County, WA"	"53045"	76
+	"Washington"	"53"	"Okanogan County, WA"	"53047"	41
+	"Washington"	"53"	"Pacific County, WA"	"53049"	41
+	"Washington"	"53"	"Pend Oreille County, WA"	"53051"	15
+	"Washington"	"53"	"Pierce County, WA"	"53053"	688
+	"Washington"	"53"	"San Juan County, WA"	"53055"	12
+	"Washington"	"53"	"Skagit County, WA"	"53057"	122
+	"Washington"	"53"	"Skamania County, WA"	"53059"	14
+	"Washington"	"53"	"Snohomish County, WA"	"53061"	544
+	"Washington"	"53"	"Spokane County, WA"	"53063"	433
+	"Washington"	"53"	"Stevens County, WA"	"53065"	44
+	"Washington"	"53"	"Thurston County, WA"	"53067"	228
+	"Washington"	"53"	"Wahkiakum County, WA"	"53069"	Suppressed
+	"Washington"	"53"	"Walla Walla County, WA"	"53071"	58
+	"Washington"	"53"	"Whatcom County, WA"	"53073"	213
+	"Washington"	"53"	"Whitman County, WA"	"53075"	23
+	"Washington"	"53"	"Yakima County, WA"	"53077"	219
+	"West Virginia"	"54"	"Barbour County, WV"	"54001"	17
+	"West Virginia"	"54"	"Berkeley County, WV"	"54003"	100
+	"West Virginia"	"54"	"Boone County, WV"	"54005"	20
+	"West Virginia"	"54"	"Braxton County, WV"	"54007"	12
+	"West Virginia"	"54"	"Brooke County, WV"	"54009"	31
+	"West Virginia"	"54"	"Cabell County, WV"	"54011"	119
+	"West Virginia"	"54"	"Calhoun County, WV"	"54013"	12
+	"West Virginia"	"54"	"Clay County, WV"	"54015"	11
+	"West Virginia"	"54"	"Doddridge County, WV"	"54017"	10
+	"West Virginia"	"54"	"Fayette County, WV"	"54019"	53
+	"West Virginia"	"54"	"Gilmer County, WV"	"54021"	Suppressed
+	"West Virginia"	"54"	"Grant County, WV"	"54023"	22
+	"West Virginia"	"54"	"Greenbrier County, WV"	"54025"	47
+	"West Virginia"	"54"	"Hampshire County, WV"	"54027"	22
+	"West Virginia"	"54"	"Hancock County, WV"	"54029"	41
+	"West Virginia"	"54"	"Hardy County, WV"	"54031"	20
+	"West Virginia"	"54"	"Harrison County, WV"	"54033"	98
+	"West Virginia"	"54"	"Jackson County, WV"	"54035"	45
+	"West Virginia"	"54"	"Jefferson County, WV"	"54037"	57
+	"West Virginia"	"54"	"Kanawha County, WV"	"54039"	183
+	"West Virginia"	"54"	"Lewis County, WV"	"54041"	23
+	"West Virginia"	"54"	"Lincoln County, WV"	"54043"	30
+	"West Virginia"	"54"	"Logan County, WV"	"54045"	38
+	"West Virginia"	"54"	"McDowell County, WV"	"54047"	25
+	"West Virginia"	"54"	"Marion County, WV"	"54049"	64
+	"West Virginia"	"54"	"Marshall County, WV"	"54051"	43
+	"West Virginia"	"54"	"Mason County, WV"	"54053"	25
+	"West Virginia"	"54"	"Mercer County, WV"	"54055"	64
+	"West Virginia"	"54"	"Mineral County, WV"	"54057"	41
+	"West Virginia"	"54"	"Mingo County, WV"	"54059"	25
+	"West Virginia"	"54"	"Monongalia County, WV"	"54061"	78
+	"West Virginia"	"54"	"Monroe County, WV"	"54063"	14
+	"West Virginia"	"54"	"Morgan County, WV"	"54065"	28
+	"West Virginia"	"54"	"Nicholas County, WV"	"54067"	27
+	"West Virginia"	"54"	"Ohio County, WV"	"54069"	75
+	"West Virginia"	"54"	"Pendleton County, WV"	"54071"	Suppressed
+	"West Virginia"	"54"	"Pleasants County, WV"	"54073"	Suppressed
+	"West Virginia"	"54"	"Pocahontas County, WV"	"54075"	Suppressed
+	"West Virginia"	"54"	"Preston County, WV"	"54077"	47
+	"West Virginia"	"54"	"Putnam County, WV"	"54079"	61
+	"West Virginia"	"54"	"Raleigh County, WV"	"54081"	121
+	"West Virginia"	"54"	"Randolph County, WV"	"54083"	40
+	"West Virginia"	"54"	"Ritchie County, WV"	"54085"	Suppressed
+	"West Virginia"	"54"	"Roane County, WV"	"54087"	25
+	"West Virginia"	"54"	"Summers County, WV"	"54089"	23
+	"West Virginia"	"54"	"Taylor County, WV"	"54091"	18
+	"West Virginia"	"54"	"Tucker County, WV"	"54093"	Suppressed
+	"West Virginia"	"54"	"Tyler County, WV"	"54095"	12
+	"West Virginia"	"54"	"Upshur County, WV"	"54097"	31
+	"West Virginia"	"54"	"Wayne County, WV"	"54099"	54
+	"West Virginia"	"54"	"Webster County, WV"	"54101"	14
+	"West Virginia"	"54"	"Wetzel County, WV"	"54103"	18
+	"West Virginia"	"54"	"Wirt County, WV"	"54105"	Suppressed
+	"West Virginia"	"54"	"Wood County, WV"	"54107"	87
+	"West Virginia"	"54"	"Wyoming County, WV"	"54109"	23
+	"Wisconsin"	"55"	"Adams County, WI"	"55001"	35
+	"Wisconsin"	"55"	"Ashland County, WI"	"55003"	20
+	"Wisconsin"	"55"	"Barron County, WI"	"55005"	59
+	"Wisconsin"	"55"	"Bayfield County, WI"	"55007"	15
+	"Wisconsin"	"55"	"Brown County, WI"	"55009"	238
+	"Wisconsin"	"55"	"Buffalo County, WI"	"55011"	15
+	"Wisconsin"	"55"	"Burnett County, WI"	"55013"	20
+	"Wisconsin"	"55"	"Calumet County, WI"	"55015"	32
+	"Wisconsin"	"55"	"Chippewa County, WI"	"55017"	75
+	"Wisconsin"	"55"	"Clark County, WI"	"55019"	41
+	"Wisconsin"	"55"	"Columbia County, WI"	"55021"	70
+	"Wisconsin"	"55"	"Crawford County, WI"	"55023"	28
+	"Wisconsin"	"55"	"Dane County, WI"	"55025"	352
+	"Wisconsin"	"55"	"Dodge County, WI"	"55027"	98
+	"Wisconsin"	"55"	"Door County, WI"	"55029"	41
+	"Wisconsin"	"55"	"Douglas County, WI"	"55031"	39
+	"Wisconsin"	"55"	"Dunn County, WI"	"55033"	30
+	"Wisconsin"	"55"	"Eau Claire County, WI"	"55035"	111
+	"Wisconsin"	"55"	"Florence County, WI"	"55037"	Suppressed
+	"Wisconsin"	"55"	"Fond du Lac County, WI"	"55039"	113
+	"Wisconsin"	"55"	"Forest County, WI"	"55041"	Suppressed
+	"Wisconsin"	"55"	"Grant County, WI"	"55043"	56
+	"Wisconsin"	"55"	"Green County, WI"	"55045"	41
+	"Wisconsin"	"55"	"Green Lake County, WI"	"55047"	19
+	"Wisconsin"	"55"	"Iowa County, WI"	"55049"	21
+	"Wisconsin"	"55"	"Iron County, WI"	"55051"	13
+	"Wisconsin"	"55"	"Jackson County, WI"	"55053"	20
+	"Wisconsin"	"55"	"Jefferson County, WI"	"55055"	87
+	"Wisconsin"	"55"	"Juneau County, WI"	"55057"	41
+	"Wisconsin"	"55"	"Kenosha County, WI"	"55059"	137
+	"Wisconsin"	"55"	"Kewaunee County, WI"	"55061"	19
+	"Wisconsin"	"55"	"La Crosse County, WI"	"55063"	104
+	"Wisconsin"	"55"	"Lafayette County, WI"	"55065"	14
+	"Wisconsin"	"55"	"Langlade County, WI"	"55067"	26
+	"Wisconsin"	"55"	"Lincoln County, WI"	"55069"	40
+	"Wisconsin"	"55"	"Manitowoc County, WI"	"55071"	116
+	"Wisconsin"	"55"	"Marathon County, WI"	"55073"	142
+	"Wisconsin"	"55"	"Marinette County, WI"	"55075"	75
+	"Wisconsin"	"55"	"Marquette County, WI"	"55077"	12
+	"Wisconsin"	"55"	"Menominee County, WI"	"55078"	Suppressed
+	"Wisconsin"	"55"	"Milwaukee County, WI"	"55079"	804
+	"Wisconsin"	"55"	"Monroe County, WI"	"55081"	43
+	"Wisconsin"	"55"	"Oconto County, WI"	"55083"	62
+	"Wisconsin"	"55"	"Oneida County, WI"	"55085"	47
+	"Wisconsin"	"55"	"Outagamie County, WI"	"55087"	173
+	"Wisconsin"	"55"	"Ozaukee County, WI"	"55089"	90
+	"Wisconsin"	"55"	"Pepin County, WI"	"55091"	Suppressed
+	"Wisconsin"	"55"	"Pierce County, WI"	"55093"	39
+	"Wisconsin"	"55"	"Polk County, WI"	"55095"	60
+	"Wisconsin"	"55"	"Portage County, WI"	"55097"	72
+	"Wisconsin"	"55"	"Price County, WI"	"55099"	25
+	"Wisconsin"	"55"	"Racine County, WI"	"55101"	172
+	"Wisconsin"	"55"	"Richland County, WI"	"55103"	25
+	"Wisconsin"	"55"	"Rock County, WI"	"55105"	155
+	"Wisconsin"	"55"	"Rusk County, WI"	"55107"	18
+	"Wisconsin"	"55"	"St. Croix County, WI"	"55109"	66
+	"Wisconsin"	"55"	"Sauk County, WI"	"55111"	66
+	"Wisconsin"	"55"	"Sawyer County, WI"	"55113"	28
+	"Wisconsin"	"55"	"Shawano County, WI"	"55115"	44
+	"Wisconsin"	"55"	"Sheboygan County, WI"	"55117"	134
+	"Wisconsin"	"55"	"Taylor County, WI"	"55119"	28
+	"Wisconsin"	"55"	"Trempealeau County, WI"	"55121"	31
+	"Wisconsin"	"55"	"Vernon County, WI"	"55123"	31
+	"Wisconsin"	"55"	"Vilas County, WI"	"55125"	42
+	"Wisconsin"	"55"	"Walworth County, WI"	"55127"	132
+	"Wisconsin"	"55"	"Washburn County, WI"	"55129"	18
+	"Wisconsin"	"55"	"Washington County, WI"	"55131"	144
+	"Wisconsin"	"55"	"Waukesha County, WI"	"55133"	420
+	"Wisconsin"	"55"	"Waupaca County, WI"	"55135"	73
+	"Wisconsin"	"55"	"Waushara County, WI"	"55137"	25
+	"Wisconsin"	"55"	"Winnebago County, WI"	"55139"	161
+	"Wisconsin"	"55"	"Wood County, WI"	"55141"	87
+	"Wyoming"	"56"	"Albany County, WY"	"56001"	21
+	"Wyoming"	"56"	"Big Horn County, WY"	"56003"	13
+	"Wyoming"	"56"	"Campbell County, WY"	"56005"	27
+	"Wyoming"	"56"	"Carbon County, WY"	"56007"	13
+	"Wyoming"	"56"	"Converse County, WY"	"56009"	17
+	"Wyoming"	"56"	"Crook County, WY"	"56011"	Suppressed
+	"Wyoming"	"56"	"Fremont County, WY"	"56013"	39
+	"Wyoming"	"56"	"Goshen County, WY"	"56015"	16
+	"Wyoming"	"56"	"Hot Springs County, WY"	"56017"	Suppressed
+	"Wyoming"	"56"	"Johnson County, WY"	"56019"	Suppressed
+	"Wyoming"	"56"	"Laramie County, WY"	"56021"	95
+	"Wyoming"	"56"	"Lincoln County, WY"	"56023"	18
+	"Wyoming"	"56"	"Natrona County, WY"	"56025"	61
+	"Wyoming"	"56"	"Niobrara County, WY"	"56027"	Suppressed
+	"Wyoming"	"56"	"Park County, WY"	"56029"	33
+	"Wyoming"	"56"	"Platte County, WY"	"56031"	11
+	"Wyoming"	"56"	"Sheridan County, WY"	"56033"	24
+	"Wyoming"	"56"	"Sublette County, WY"	"56035"	Suppressed
+	"Wyoming"	"56"	"Sweetwater County, WY"	"56037"	34
+	"Wyoming"	"56"	"Teton County, WY"	"56039"	Suppressed
+	"Wyoming"	"56"	"Uinta County, WY"	"56041"	Suppressed
+	"Wyoming"	"56"	"Washakie County, WY"	"56043"	11
+	"Wyoming"	"56"	"Weston County, WY"	"56045"	Suppressed
+"---"
+"Dataset: Underlying Cause of Death, 2018-2023, Single Race"
+"Query Parameters:"
+"ICD-10 Codes: I00-I99 (Diseases of the circulatory system)"
+"Ten-Year Age Groups: 65-74 years; 75-84 years; 85+ years"
+"Year/Month: May, 2023 ; Jun., 2023 ; Jul., 2023 ; Aug., 2023 ; Sep., 2023"
+"Group By: State; County"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd-expanded.html for more information."
+"---"
+"Query Date: Jun 17, 2025 8:32:28 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 2018-2023 on CDC WONDER Online Database, released in 2024. Data are from the Multiple Cause of Death Files,"
+"2018-2023, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10-expanded.html on Jun 17, 2025 8:32:28 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Population and Rates are not available when values are selected for Single-Year Ages or Ten-Year Age Groups in section 3 or"
+"they appear in Group Results By list in section 1, and county level locations, including urbanization categories and US-Mexico"
+"Border areas, are selected in section 2, or when County, US-Mexico Border areas, or Urbanization appears in the Group Results By"
+"list in section 1. Population, Rates and related measures have been removed from the results. More information#"
+"---"
+Caveats:
+"1. Deaths and population estimates are shown separately from the adjacent counties for Carson City, Nevada (FIPS code 32510)."
+"2. Deaths and population estimates are reported separately for Baltimore City (FIPS code 24510) and Baltimore county (FIPS code"
+"24005)."
+"3. Deaths and population estimates are reported separately for St. Louis City (FIPS code 29510) and county (FIPS code 29189)."
+"4. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Assurance of Confidentiality."
+"5. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Not Stated."
+"6. The population figures for years 2023 are single-race estimates of the July 1 resident population, from the Vintage 2023"
+"postcensal series released by the Census Bureau on June 27, 2024. The 2023 series is based on the Modified Blended Base produced"
+"by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The Modified Blended Base consists of the blend"
+"of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic Analysis Estimates, and 2020 Census data"
+"from the internal Census Edited File (CEF). The population figures for years 2022 are single-race estimates of the July 1"
+"resident population, from the Vintage 2022 postcensal series released by the Census Bureau on June 22, 2023. The 2022 series is"
+"based on the Modified Blended Base produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The"
+"Modified Blended Base consists of the blend of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic"
+"Analysis Estimates, and 2020 Census data from the internal Census Edited File (CEF). The population figures for years 2021 are"
+"single-race estimates of the July 1 resident population, based on the Blended Base produced by the US Census Bureau in lieu of"
+"the April 1, 2020 decennial population count, from the Vintage 2021 postcensal series released by the Census Bureau on June 30,"
+"2022. The population figures for year 2020 are single-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series based on April 2010 Census, released by the Census Bureau on July 27, 2021. The population figures for year"
+"2019 are single-race estimates of the July 1 resident population, from the Vintage 2019 postcensal series based on April 2010"
+"Census, released by the Census Bureau on June 25, 2020. The population figures for year 2018 are single-race estimates of the"
+"July 1 resident population, from the Vintage 2018 postcensal series based on April 2010 Census, released by the Census Bureau on"
+"June 20, 2019. More information: http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Population Data."
+"7. Connecticut population estimates for 2022 and later years are reported for 9 planning regions as county equivalent areas,"
+"instead of the former 8 legacy counties in the Vintage 2022 postcensal series released by the Census Bureau on June 22, 2023,"
+"and in the Vintage 2023 postcensal series released by the Census Bureau on June 27, 2024. Populations estimates for the former"
+"counties are not available for 2022 and later years. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Connecticut-2022."
+"8. After the creation of the final 2023 dataset, North Carolina updated the cause of death information for over 900 death"
+"certificates to include a cause of death code indicating drug overdose (ICD-10 underlying cause-of-death codes: X40-X44,"
+"X60-X64, X85, and Y10-Y14). Jurisdictions can continue to update death certificates after the closing of the mortality file. As"
+"a result, users should consider that the actual death count for drug overdose deaths for North Carolina in 2023 is over 4,400"
+"deaths, with a crude rate of approximately 41.0 per 100,000 population, and an age-adjusted rate of approximately 42.1 per"
+"100,000 population. These deaths will not be updated on the final mortality datasets."
